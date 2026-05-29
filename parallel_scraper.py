@@ -51,7 +51,7 @@ Begin by using a search engine or navigating directly to {base_url}.
 """
 
 def run_agent(target):
-    print(f"🚀 [STARTING]: Agent for {target['short']}")
+    print(f" [STARTING]: Agent for {target['short']}")
     
     formatted_prompt = MASTER_PROMPT_TEMPLATE.format(
         iit_name=target['name'],
@@ -79,12 +79,12 @@ def run_agent(target):
             file_path = f"./scraped_data/{target['short']}_raw.txt"
             with open(file_path, "w", encoding="utf-8") as f:
                 f.write(stdout.strip())
-            print(f"✅ [SUCCESS]: Saved data to {file_path}")
+            print(f" [SUCCESS]: Saved data to {file_path}")
         else:
             print(f"❌ [ERROR]: {target['short']} failed. Exit code {process.returncode}. Stderr: {stderr}")
             
     except Exception as e:
-        print(f"💥 [CRITICAL]: Failed executing agent for {target['short']}: {str(e)}")
+        print(f" [CRITICAL]: Failed executing agent for {target['short']}: {str(e)}")
 
 def main():
     # Set max_workers to 3 or 4 to balance performance and system load
