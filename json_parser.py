@@ -54,7 +54,7 @@ def process_file(filename):
         print(f"⏩ Skipping {filename}, JSON already exists.")
         return
 
-    print(f"🔄 Parsing {filename} into JSON...")
+    print(f" Parsing {filename} into JSON...")
     
     # Read the original untouched text file
     with open(input_path, "r", encoding="utf-8") as f:
@@ -82,15 +82,15 @@ def process_file(filename):
             with open(output_path, "w", encoding="utf-8") as f:
                 f.write(final_json)
                 
-            print(f"✅ Successfully created {json_filename}")
+            print(f" Successfully created {json_filename}")
         else:
             print(f"❌ CLI Error on {filename}: {stderr}")
             
     except Exception as e:
-        print(f"💥 Failed executing CLI for {filename}: {str(e)}")
+        print(f" Failed executing CLI for {filename}: {str(e)}")
 
 def main():
-    print(f"📂 Scanning {INPUT_DIR} for raw text files")
+    print(f" Scanning {INPUT_DIR} for raw text files")
     
     files_to_process = [f for f in os.listdir(INPUT_DIR) if f.endswith("_raw.txt")]
     
@@ -101,7 +101,7 @@ def main():
     for file in files_to_process:
         process_file(file)
         
-    print("🎉 All files serialized successfully!")
+    print(" All files serialized successfully!")
 
 if __name__ == "__main__":
     main()
