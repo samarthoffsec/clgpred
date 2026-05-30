@@ -1,0 +1,55 @@
+{
+  "college_name": "IIT Roorkee",
+  "nirf_engineering_rank": 6,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": null,
+  "cse_core_subjects": [
+    "Data Structures & Algorithms",
+    "Theory of Computation",
+    "Operating Systems",
+    "Computer Networks",
+    "Database Management Systems (DBMS)",
+    "Compiler Design",
+    "Computer Organization & Architecture"
+  ],
+  "ee_core_subjects": [
+    "Network Analysis",
+    "Electrical Machines",
+    "Power Systems",
+    "Fundamentals of Electronics",
+    "Microprocessors",
+    "Control Engineering"
+  ],
+  "sports_infrastructure": [
+    "Lal Bahadur Shastri (LBS) Stadium",
+    "Major Dhyan Chand Stadium",
+    "Aquatics",
+    "Tennis",
+    "Indoor Sports",
+    "Fitness"
+  ],
+  "student_clubs": [
+    "IMG (Information Management Group)",
+    "SDSLabs (Software Development)",
+    "Hobbies Club",
+    "ACM/IEEE Chapters",
+    "SAE/ASME",
+    "Dramatics Section",
+    "Music Section",
+    "Choreography Section",
+    "Literary Section",
+    "Fine Arts & Photography Section",
+    "Sanskrit Club",
+    "SPIC MACAY",
+    "E-Cell (Entrepreneurship Cell)"
+  ],
+  "incubation_center_name": "TIDES (Technology Incubation and Entrepreneurship Development Society)",
+  "notable_startups": [
+    "Razorpay",
+    "Groww",
+    "Log9 Materials",
+    "Spinny",
+    "Safex Pay",
+    "Wint Wealth"
+  ]
+}

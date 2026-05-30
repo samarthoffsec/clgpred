@@ -1,0 +1,42 @@
+{
+  "college_name": "IIT (BHU) Varanasi",
+  "nirf_engineering_rank": 10,
+  "overall_median_ctc_lpa": 18.46,
+  "overall_placement_percentage": null,
+  "cse_core_subjects": [
+    "Operating Systems (CS3101)",
+    "Database Management Systems (CS2202)",
+    "Computer Programming (C/C++)",
+    "Data Structures",
+    "Algorithms"
+  ],
+  "ee_core_subjects": [
+    "Network Analysis and Synthesis",
+    "Electrical Machines",
+    "Power Systems",
+    "Control Systems",
+    "Power Electronics"
+  ],
+  "sports_infrastructure": [
+    "Olympic-size Pool (Taran Taal)",
+    "Student Activity Center (SAC)",
+    "Kings' Pavilion",
+    "Synthetic/cement courts for Basketball, Volleyball, and Tennis"
+  ],
+  "student_clubs": [
+    "Cultural Council",
+    "Science and Technology Council",
+    "Film and Media Council (FMC)"
+  ],
+  "incubation_center_name": "Ideation Innovation & Incubation (I-3) Foundation (I3F)",
+  "notable_startups": [
+    "Zscaler",
+    "Physics Wallah",
+    "Cricbuzz",
+    "Zostel",
+    "ShopClues",
+    "Husk Power Systems",
+    "TRIPHAN Healthcare",
+    "DELBRONE Innovation"
+  ]
+}

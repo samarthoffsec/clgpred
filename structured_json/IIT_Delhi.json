@@ -1,0 +1,52 @@
+{
+  "college_name": "Indian Institute of Technology Delhi",
+  "nirf_engineering_rank": 2,
+  "overall_median_ctc_lpa": 24.5,
+  "overall_placement_percentage": null,
+  "cse_core_subjects": [
+    "Data Structures",
+    "Analysis and Design of Algorithms",
+    "Operating Systems",
+    "Computer Architecture",
+    "Computer Networks",
+    "Database Management Systems",
+    "Discrete Mathematical Structures"
+  ],
+  "ee_core_subjects": [
+    "Digital Electronics",
+    "Physical Electronics",
+    "Integrated Electronics",
+    "Circuit Theory",
+    "Signals and Systems",
+    "Control Engineering-I",
+    "Engineering Electromagnetics"
+  ],
+  "sports_infrastructure": [
+    "Olympic-size swimming pool",
+    "gymnasium",
+    "squash courts",
+    "badminton courts",
+    "table tennis rooms",
+    "billiards/pool room",
+    "400m athletics track",
+    "cricket field",
+    "hockey field",
+    "football field",
+    "synthetic tennis courts",
+    "clay tennis courts",
+    "basketball courts",
+    "volleyball courts"
+  ],
+  "student_clubs": [
+    "DevClub",
+    "Aeromodelling Club",
+    "AXLR8R",
+    "Economics Club",
+    "Ankahi",
+    "Azure",
+    "Dance Club",
+    "DebSoc"
+  ],
+  "incubation_center_name": "Technology Business Incubation Unit (TBIU)",
+  "notable_startups": []
+}

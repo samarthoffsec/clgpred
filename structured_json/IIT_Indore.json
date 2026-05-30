@@ -1,0 +1,57 @@
+{
+  "college_name": "Indian Institute of Technology Indore",
+  "nirf_engineering_rank": 12,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": null,
+  "cse_core_subjects": [
+    "Operating Systems (CS 303)",
+    "Database and Information Systems (CS 207)",
+    "Computer Architecture (CS 210)",
+    "Design and Analysis of Algorithms (CS 204)",
+    "Computer Networks (CS 313)"
+  ],
+  "ee_core_subjects": [
+    "Digital Systems (EE 209)",
+    "Analog Circuits (EE 204)",
+    "Microprocessors and Microcontrollers (EE 301)",
+    "VLSI Design (EE 401)"
+  ],
+  "sports_infrastructure": [
+    "Football field",
+    "Cricket pitches",
+    "Basketball court",
+    "Lawn tennis courts",
+    "Volleyball courts",
+    "Athletics track",
+    "Badminton court",
+    "Squash court",
+    "Table Tennis tables",
+    "Gymnasium",
+    "Yoga/fitness space",
+    "Swimming pool"
+  ],
+  "student_clubs": [
+    "Aquatics Club",
+    "Athletics Club",
+    "Badminton Club",
+    "Basketball Club",
+    "Chess Club",
+    "Cricket Club",
+    "Football Club",
+    "Hockey Club",
+    "Lawn Tennis Club",
+    "Squash Club",
+    "Table Tennis Club",
+    "Volleyball Club",
+    "Yoga and Fitness Club"
+  ],
+  "incubation_center_name": "Center of Innovation, Incubation, Entrepreneurship and Industry Relations (CIIEIR) & IITI DRISHTI CPS Foundation",
+  "notable_startups": [
+    "Bramhansh Technologies",
+    "Primary Healthtech",
+    "Arficus",
+    "Zwilling Labs",
+    "RaceIT Delivery",
+    "Weleclabs"
+  ]
+}

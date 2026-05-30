@@ -1,0 +1,58 @@
+{
+  "college_name": "IIT Gandhinagar (IITGN)",
+  "nirf_engineering_rank": 25,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": null,
+  "cse_core_subjects": [
+    "Data Structures & Algorithms",
+    "Operating Systems",
+    "Computer Architecture",
+    "Discrete Mathematics",
+    "DBMS",
+    "Theory of Computation",
+    "Compilers",
+    "Networks"
+  ],
+  "ee_core_subjects": [
+    "Signals & Systems",
+    "Electronic Devices",
+    "Control Systems",
+    "Power Systems",
+    "VLSI Design",
+    "Digital Signal Processing",
+    "Analog & Digital Circuits"
+  ],
+  "sports_infrastructure": [
+    "400m IAAF-standard synthetic athletic track",
+    "Olympic-size swimming pool",
+    "Indoor swimming pools",
+    "AC Gymnasium (24x7)",
+    "Badminton courts",
+    "Squash courts",
+    "Basketball",
+    "Climbing Wall",
+    "Cricket ground (floodlit)",
+    "Football ground",
+    "Lawn Tennis courts"
+  ],
+  "student_clubs": [
+    "Mean Mechanics (Robotics)",
+    "GRASP (Competitive Programming)",
+    "SCALE (AI/ML)",
+    "Odyssey (Astronomy)",
+    "Metis (Software Development)",
+    "CyberSentinel (Cybersecurity)",
+    "Roobaro (Music)",
+    "Maffick (Dance)",
+    "Abhinaya (Drama)",
+    "Kodachrome (Photography)"
+  ],
+  "incubation_center_name": "IIT Gandhinagar Innovation and Entrepreneurship Center (IIEC)",
+  "notable_startups": [
+    "Cubeit",
+    "Infurnia",
+    "Kairios Robotics",
+    "AeroSentinel Technologies",
+    "Agrocast Analytics"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "college_name": "Indian Institute of Technology Jodhpur",
+  "nirf_engineering_rank": 27,
+  "overall_median_ctc_lpa": 12.0,
+  "overall_placement_percentage": null,
+  "cse_core_subjects": [
+    "Data Structures and Algorithms",
+    "Discrete Mathematics",
+    "Computer Organization and Architecture",
+    "Operating Systems",
+    "Database Management Systems",
+    "Computer Networks",
+    "Theory of Computation"
+  ],
+  "ee_core_subjects": [
+    "Network Theory",
+    "Signals and Systems",
+    "Control Systems",
+    "Electrical Machines",
+    "Power Systems",
+    "Analog and Digital Electronics",
+    "VLSI Design",
+    "Microprocessors"
+  ],
+  "sports_infrastructure": [
+    "Badminton courts",
+    "Squash courts",
+    "Table Tennis area",
+    "Swimming pool facility",
+    "Synthetic athletic tracks",
+    "Cricket ground",
+    "Football fields",
+    "Hockey field",
+    "Tennis courts",
+    "Basketball courts",
+    "Volleyball courts"
+  ],
+  "student_clubs": [
+    "Coding Club",
+    "Robotics",
+    "Aeromodelling",
+    "Groove Theory",
+    "Dramatics",
+    "Shutterbugs"
+  ],
+  "incubation_center_name": "Technology Innovation and Start-up Center (TISC)",
+  "notable_startups": [
+    "RKSH IMPACT",
+    "Cellverse",
+    "Niranthar Care",
+    "NxGen Healtech",
+    "Divya Plasma Solutions"
+  ]
+}
