@@ -1,0 +1,176 @@
+{
+  "college_name": "IIT Madras",
+  "nirf_engineering_rank": 1,
+  "overall_average_ctc_lpa": 22.0,
+  "overall_median_ctc_lpa": 19.6,
+  "overall_placement_percentage": 80.0,
+  "branches": [
+    {
+      "branch_name": "Computer Science (CSE)",
+      "average_ctc_lpa": 52.32,
+      "median_ctc_lpa": 37.5,
+      "placement_percentage": 90.0,
+      "core_subjects": [
+        "Data Structures & Algorithms",
+        "Discrete Mathematics",
+        "Computer Organization",
+        "Operating Systems",
+        "DBMS",
+        "Theory of Computation"
+      ]
+    },
+    {
+      "branch_name": "Biotechnology (BT)",
+      "average_ctc_lpa": 30.3,
+      "median_ctc_lpa": 30.3,
+      "placement_percentage": 85.0,
+      "core_subjects": [
+        "Microbiology and Biochemistry",
+        "Bioprocess Engineering",
+        "Molecular Biology",
+        "Genetic Engineering",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "branch_name": "Electrical Engineering (EE)",
+      "average_ctc_lpa": 27.28,
+      "median_ctc_lpa": 25.45,
+      "placement_percentage": 88.0,
+      "core_subjects": [
+        "Networks and Systems",
+        "Analog & Digital Circuits",
+        "Electrical Machines",
+        "Control Engineering",
+        "Electromagnetic Fields",
+        "Communication Systems"
+      ]
+    },
+    {
+      "branch_name": "Physics (Engineering Physics)",
+      "average_ctc_lpa": 20.39,
+      "median_ctc_lpa": 15.92,
+      "placement_percentage": 80.0,
+      "core_subjects": [
+        "Quantum Mechanics",
+        "Classical Mechanics",
+        "Solid State Physics",
+        "Optics & Photonics",
+        "Analog & Digital Systems"
+      ]
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 18.5,
+      "median_ctc_lpa": 16.0,
+      "placement_percentage": 82.0,
+      "core_subjects": [
+        "Solid Mechanics",
+        "Fluid Mechanics",
+        "Kinematics & Dynamics of Machines",
+        "Manufacturing Technology",
+        "Heat Transfer",
+        "Machine Design"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering (CH)",
+      "average_ctc_lpa": 18.45,
+      "median_ctc_lpa": 16.0,
+      "placement_percentage": 80.0,
+      "core_subjects": [
+        "Chemical Process Calculations",
+        "Thermodynamics",
+        "Mass Transfer",
+        "Chemical Reaction Engineering",
+        "Transport Phenomena"
+      ]
+    },
+    {
+      "branch_name": "Ocean Engineering (OE)",
+      "average_ctc_lpa": 18.12,
+      "median_ctc_lpa": 16.5,
+      "placement_percentage": 78.0,
+      "core_subjects": [
+        "Ship Hydrostatics & Stability",
+        "Ship Hydrodynamics",
+        "Marine Engineering",
+        "Ocean Wave Hydrodynamics",
+        "Ship Design"
+      ]
+    },
+    {
+      "branch_name": "Civil Engineering (CE)",
+      "average_ctc_lpa": 17.73,
+      "median_ctc_lpa": 16.0,
+      "placement_percentage": 75.0,
+      "core_subjects": [
+        "Structural Mechanics",
+        "Geotechnical Engineering",
+        "Transportation Engineering",
+        "Environmental Engineering",
+        "Hydraulics & Water Resources"
+      ]
+    },
+    {
+      "branch_name": "Aerospace Engineering (AE)",
+      "average_ctc_lpa": 16.08,
+      "median_ctc_lpa": 17.5,
+      "placement_percentage": 80.0,
+      "core_subjects": [
+        "Aerodynamics",
+        "Propulsion (Jet/Rocket)",
+        "Aerospace Structural Mechanics",
+        "Flight Dynamics",
+        "Space Technology"
+      ]
+    },
+    {
+      "branch_name": "Metallurgical & Materials (MM)",
+      "average_ctc_lpa": 14.28,
+      "median_ctc_lpa": 13.1,
+      "placement_percentage": 75.0,
+      "core_subjects": [
+        "Physical Metallurgy",
+        "Phase Transformations",
+        "Extractive Metallurgy",
+        "Mechanical Behavior of Materials",
+        "Thermodynamics of Materials"
+      ]
+    },
+    {
+      "branch_name": "Engineering Design (ED - Dual Degree)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Geometric Modeling",
+        "Mechatronics System Design",
+        "FEA",
+        "Human Factors in Design",
+        "Product Design & Development"
+      ]
+    }
+  ],
+  "sports_infrastructure": [
+    "Olympic-size Swimming Pool",
+    "Manohar C. Watsa Stadium",
+    "IIT-Chemplast Ground",
+    "Sitara Indoor Sports Complex",
+    "Floodlit Fields"
+  ],
+  "student_clubs": [
+    "Saarang",
+    "Shaastra",
+    "CFI (Centre for Innovation)",
+    "Sangam"
+  ],
+  "incubation_center_name": "IIT Madras Incubation Cell (IITMIC)",
+  "notable_startups": [
+    "Ather Energy",
+    "Uniphore",
+    "Agnikul Cosmos",
+    "Stellapps",
+    "Detect Technologies"
+  ]
+}

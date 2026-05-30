@@ -1,0 +1,247 @@
+{
+  "college_name": "Indian Institute of Technology (BHU) Varanasi",
+  "nirf_engineering_rank": 10,
+  "overall_average_ctc_lpa": 22.56,
+  "overall_median_ctc_lpa": 20.00,
+  "overall_placement_percentage": 82.0,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering",
+      "average_ctc_lpa": 34.87,
+      "median_ctc_lpa": null,
+      "placement_percentage": 89.81,
+      "core_subjects": [
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "DBMS",
+        "Theory of Computation",
+        "Computer Networks",
+        "Compiler Design",
+        "Software Engineering"
+      ]
+    },
+    {
+      "branch_name": "Electronics Engineering",
+      "average_ctc_lpa": 27.47,
+      "median_ctc_lpa": null,
+      "placement_percentage": 85.0,
+      "core_subjects": [
+        "Analog & Digital Circuits",
+        "Communication Systems",
+        "VLSI Design",
+        "Digital Signal Processing (DSP)",
+        "Microwave Engineering"
+      ]
+    },
+    {
+      "branch_name": "Electrical Engineering",
+      "average_ctc_lpa": 24.81,
+      "median_ctc_lpa": null,
+      "placement_percentage": 82.40,
+      "core_subjects": [
+        "Electrical Machines",
+        "Control Systems",
+        "Power Systems",
+        "Power Electronics",
+        "Signals and Systems"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering",
+      "average_ctc_lpa": 19.97,
+      "median_ctc_lpa": null,
+      "placement_percentage": 75.0,
+      "core_subjects": [
+        "Process Calculations",
+        "Reaction Engineering",
+        "Mass Transfer Operations",
+        "Process Dynamics and Control"
+      ]
+    },
+    {
+      "branch_name": "Mechanical Engineering",
+      "average_ctc_lpa": 19.03,
+      "median_ctc_lpa": null,
+      "placement_percentage": 80.0,
+      "core_subjects": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Strength of Materials",
+        "Machine Design",
+        "Heat and Mass Transfer",
+        "Kinematics & Dynamics of Machines"
+      ]
+    },
+    {
+      "branch_name": "Ceramic Engineering",
+      "average_ctc_lpa": 17.87,
+      "median_ctc_lpa": null,
+      "placement_percentage": 65.0,
+      "core_subjects": [
+        "Glass Science",
+        "Refractories",
+        "Electronic and Magnetic Ceramics",
+        "Ceramic Raw Materials"
+      ]
+    },
+    {
+      "branch_name": "Pharmaceutical Engineering",
+      "average_ctc_lpa": 16.59,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Pharmaceutics",
+        "Pharmacology",
+        "Pharmaceutical Chemistry",
+        "Biopharmaceutics"
+      ]
+    },
+    {
+      "branch_name": "Civil Engineering",
+      "average_ctc_lpa": 15.72,
+      "median_ctc_lpa": null,
+      "placement_percentage": 85.0,
+      "core_subjects": [
+        "Structural Analysis",
+        "Geotechnical Engineering",
+        "Transportation Engineering",
+        "Environmental Engineering",
+        "Water Resources Engineering"
+      ]
+    },
+    {
+      "branch_name": "Metallurgical Engineering",
+      "average_ctc_lpa": 14.94,
+      "median_ctc_lpa": null,
+      "placement_percentage": 78.0,
+      "core_subjects": [
+        "Metallurgical Thermodynamics",
+        "Physical Metallurgy",
+        "Extractive Metallurgy",
+        "Mechanical Behaviour of Materials"
+      ]
+    },
+    {
+      "branch_name": "Mining Engineering",
+      "average_ctc_lpa": 13.38,
+      "median_ctc_lpa": null,
+      "placement_percentage": 72.0,
+      "core_subjects": [
+        "Mine Surveying",
+        "Underground & Surface Mining Methods",
+        "Rock Mechanics",
+        "Mine Ventilation"
+      ]
+    },
+    {
+      "branch_name": "Mathematics & Computing (IDD)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 35.0,
+      "placement_percentage": null,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Bachelor of Architecture (B.Arch)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 17.69,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Architectural Design Studios",
+        "Graphics",
+        "History of Architecture",
+        "Building Construction",
+        "Urban Design",
+        "Housing",
+        "Landscape Architecture"
+      ]
+    },
+    {
+      "branch_name": "Engineering Physics",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Quantum Mechanics",
+        "Statistical Mechanics",
+        "Photonics",
+        "Solid State Physics",
+        "Solar & Space Physics"
+      ]
+    },
+    {
+      "branch_name": "Biomedical Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Human Physiology",
+        "Biomaterials",
+        "Biomechanics",
+        "Bioinstrumentation",
+        "Bioprocess Technology"
+      ]
+    },
+    {
+      "branch_name": "Materials Science",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Crystallography",
+        "Phase Transformations",
+        "Polymer Science",
+        "Advanced Ceramics",
+        "Composite Materials"
+      ]
+    }
+  ],
+  "sports_infrastructure": [
+    "Rajputana Ground (Cricket/Football)",
+    "Gymkhana Ground",
+    "Hockey field",
+    "Athletics track",
+    "Lawn Tennis courts (clay/hard)",
+    "Basketball and Volleyball courts",
+    "4 Badminton courts",
+    "4 Squash courts",
+    "8 Table Tennis tables",
+    "Gymnasium",
+    "halls for Boxing, Taekwondo, Yoga, Chess, and Carrom",
+    "BHU campus swimming pool"
+  ],
+  "student_clubs": [
+    "Dance Freakz (DFZ)",
+    "Masquerades (Theatre)",
+    "Literary Club",
+    "Music Clubs (IMC/WMC)",
+    "Fine Arts Club (FAC)",
+    "Club of Programmers (COPS)",
+    "Robotics Club",
+    "Aeromodelling Club",
+    "SAE (Automotive)",
+    "Astronomy Club",
+    "Business & Quant Clubs",
+    "Photography",
+    "Cine",
+    "Animation",
+    "Design",
+    "Media Clubs",
+    "Kashi Utkarsh",
+    "Sahyog",
+    "Social Projects Club"
+  ],
+  "incubation_center_name": "Ideation Innovation & Incubation Foundation (I3F)",
+  "notable_startups": [
+    "Allywing Solutions",
+    "Team Respira",
+    "Doctor Moringa",
+    "Unsnarl Technologies",
+    "Vasundhara Biofibers",
+    "Rudranjali Innovative Agritech",
+    "Physics Wallah",
+    "Zscaler",
+    "Husk Power Systems",
+    "Cricbuzz",
+    "Zostel"
+  ]
+}

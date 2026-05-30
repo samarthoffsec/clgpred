@@ -1,0 +1,273 @@
+{
+  "college_name": "Indian Institute of Technology Roorkee",
+  "nirf_engineering_rank": 6,
+  "overall_average_ctc_lpa": null,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": 76.47,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 34.07,
+      "median_ctc_lpa": 30.50,
+      "placement_percentage": 95.83,
+      "core_subjects": [
+        "Data Structures",
+        "Algorithms",
+        "OS",
+        "DBMS",
+        "Computer Architecture",
+        "Theory of Computation",
+        "Networks",
+        "Software Engineering"
+      ]
+    },
+    {
+      "branch_name": "Electronics & Communication Engineering (ECE)",
+      "average_ctc_lpa": 23.52,
+      "median_ctc_lpa": 21.00,
+      "placement_percentage": 85.80,
+      "core_subjects": [
+        "Digital Electronics",
+        "Signals & Systems",
+        "Analog Circuits",
+        "Microprocessors",
+        "Control Systems",
+        "Communication Systems",
+        "VLSI Design"
+      ]
+    },
+    {
+      "branch_name": "Electrical Engineering (EE)",
+      "average_ctc_lpa": 22.10,
+      "median_ctc_lpa": 19.50,
+      "placement_percentage": 72.22,
+      "core_subjects": [
+        "Electrical Machines",
+        "Power Systems",
+        "Power Electronics",
+        "Network Analysis",
+        "Control Systems",
+        "Applied Instrumentation"
+      ]
+    },
+    {
+      "branch_name": "Mechanical Engineering",
+      "average_ctc_lpa": 19.56,
+      "median_ctc_lpa": 16.50,
+      "placement_percentage": 62.50,
+      "core_subjects": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Solid Mechanics",
+        "Kinematics",
+        "Manufacturing Processes",
+        "Heat & Mass Transfer",
+        "Machine Design"
+      ]
+    },
+    {
+      "branch_name": "Production & Industrial Engineering (PIE)",
+      "average_ctc_lpa": 16.48,
+      "median_ctc_lpa": 14.00,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Work System Design",
+        "Quality Control",
+        "Facilities Planning",
+        "Manufacturing Technology",
+        "Operations Research",
+        "Metrology"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering",
+      "average_ctc_lpa": 19.43,
+      "median_ctc_lpa": 15.50,
+      "placement_percentage": 64.16,
+      "core_subjects": [
+        "Material & Energy Balance",
+        "Fluid Dynamics",
+        "Heat & Mass Transfer",
+        "Reaction Engineering",
+        "Thermodynamics",
+        "Process Control"
+      ]
+    },
+    {
+      "branch_name": "Biotechnology",
+      "average_ctc_lpa": 17.84,
+      "median_ctc_lpa": 15.00,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Biochemistry",
+        "Microbiology",
+        "Cell & Molecular Biology",
+        "Genetics",
+        "Immunology",
+        "Bioprocess Engineering",
+        "Recombinant DNA Technology"
+      ]
+    },
+    {
+      "branch_name": "Metallurgical & Materials Engineering",
+      "average_ctc_lpa": 15.45,
+      "median_ctc_lpa": 13.00,
+      "placement_percentage": 44.00,
+      "core_subjects": [
+        "Physical Metallurgy",
+        "Thermodynamics",
+        "Mechanical Metallurgy",
+        "Extraction of Non-ferrous Metals",
+        "Iron & Steel Making"
+      ]
+    },
+    {
+      "branch_name": "Civil Engineering",
+      "average_ctc_lpa": 15.10,
+      "median_ctc_lpa": 13.00,
+      "placement_percentage": 52.10,
+      "core_subjects": [
+        "Structural Analysis",
+        "Geotechnical Engineering",
+        "Surveying",
+        "Transportation Engineering",
+        "Environmental Engineering",
+        "Hydrology"
+      ]
+    },
+    {
+      "branch_name": "Engineering Physics",
+      "average_ctc_lpa": 15.53,
+      "median_ctc_lpa": 13.00,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Quantum Physics",
+        "EM Theory",
+        "Statistical Physics",
+        "Semiconductor Devices",
+        "Photonics",
+        "Plasma Physics"
+      ]
+    },
+    {
+      "branch_name": "Polymer Science & Engineering",
+      "average_ctc_lpa": 12.70,
+      "median_ctc_lpa": 11.00,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Polymer Chemistry",
+        "Rheology",
+        "Characterization",
+        "Reaction Engineering",
+        "Composites",
+        "Elastomers Processing"
+      ]
+    },
+    {
+      "branch_name": "Mathematics & Computing (MnC)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 47.27,
+      "core_subjects": [
+        "Real Analysis",
+        "Abstract Algebra",
+        "Complex Analysis",
+        "Number Theory",
+        "Numerical Methods",
+        "Scientific Computing"
+      ]
+    },
+    {
+      "branch_name": "Data Science & Artificial Intelligence",
+      "average_ctc_lpa": 34.05,
+      "median_ctc_lpa": 30.50,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Probability & Statistics",
+        "Machine Learning",
+        "Deep Learning",
+        "Big Data Analytics",
+        "Optimization",
+        "NLP"
+      ]
+    },
+    {
+      "branch_name": "Geological Technology (5-Yr Integrated)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 18.00,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Physical Geology",
+        "Mineralogy",
+        "Petrology",
+        "Structural Geology",
+        "Paleontology",
+        "Remote Sensing & GIS",
+        "Petroleum Geology"
+      ]
+    },
+    {
+      "branch_name": "Geophysical Technology (5-Yr Integrated)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 18.00,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Global Geophysics",
+        "Seismology",
+        "Gravity & Magnetic Prospecting",
+        "Well Logging",
+        "Signal Processing in Geophysics"
+      ]
+    },
+    {
+      "branch_name": "Architecture (B.Arch)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 10.00,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Architectural Design Studios",
+        "Building Materials",
+        "History of Architecture",
+        "Building Services",
+        "Urban Design and Planning"
+      ]
+    }
+  ],
+  "sports_infrastructure": [
+    "Lal Bahadur Shastri (LBS) Stadium (Athletics, Cricket, Football)",
+    "Olympic-sized Swimming Pool",
+    "Main Gymnasium (Combined) and separate Women’s Gym",
+    "Dedicated courts for Basketball, Volleyball, and Lawn Tennis",
+    "Boating Club (Solani Aqueduct)",
+    "Indoor Sports: Squash, Badminton, Table Tennis, Billiards, Chess"
+  ],
+  "student_clubs": [
+    "IMG (Information Management Group)",
+    "SDS Labs",
+    "PAG (Programming and Algorithms Group)",
+    "E-Cell",
+    "Team Robocon",
+    "Data Science Group (DSG)",
+    "InfoSec",
+    "MDG",
+    "Design Studio",
+    "Dramatics",
+    "Music",
+    "Choreography",
+    "CineSec (Cinematics)",
+    "Debating Society",
+    "Quizzing Section",
+    "Literary Section",
+    "Hobbies Club: Star Gazing, Aeromodelling, Philately, Photography, Gardening",
+    "WatchOut!"
+  ],
+  "incubation_center_name": "TIDES (Technology Innovation and Development of Entrepreneurship Society)",
+  "notable_startups": [
+    "Log9 Materials",
+    "Shellios",
+    "Vyaan",
+    "Testright Solution",
+    "Raven Eye",
+    "GreenGrahi"
+  ]
+}

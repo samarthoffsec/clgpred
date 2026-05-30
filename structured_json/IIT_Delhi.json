@@ -1,0 +1,226 @@
+{
+  "college_name": "IIT Delhi",
+  "nirf_engineering_rank": 2,
+  "overall_average_ctc_lpa": 25.9,
+  "overall_median_ctc_lpa": 19.08,
+  "overall_placement_percentage": 85.0,
+  "branches": [
+    {
+      "branch_name": "Computer Science (CSE)",
+      "average_ctc_lpa": 37.5,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Data Structures",
+        "Algorithms",
+        "Operating Systems",
+        "Computer Architecture",
+        "DBMS",
+        "Theory of Computation",
+        "Computer Networks"
+      ]
+    },
+    {
+      "branch_name": "Mathematics & Computing",
+      "average_ctc_lpa": 33.0,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Real Analysis",
+        "Probability and Statistics",
+        "Optimization Methods",
+        "Abstract Algebra",
+        "Numerical Methods"
+      ]
+    },
+    {
+      "branch_name": "Electrical Engineering",
+      "average_ctc_lpa": 25.5,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Signals and Systems",
+        "Control Systems",
+        "Digital Electronics",
+        "Power Systems",
+        "Microprocessors",
+        "Communication Engineering"
+      ]
+    },
+    {
+      "branch_name": "Electrical (Power & Automation)",
+      "average_ctc_lpa": 25.5,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Mechanical Engineering",
+      "average_ctc_lpa": 19.0,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Solid Mechanics",
+        "Heat Transfer",
+        "Kinematics and Dynamics of Machines",
+        "Manufacturing Processes"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering",
+      "average_ctc_lpa": 19.5,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Mass Transfer",
+        "Heat Transfer",
+        "Chemical Reaction Engineering",
+        "Process Dynamics and Control",
+        "Transport Phenomena"
+      ]
+    },
+    {
+      "branch_name": "Civil Engineering",
+      "average_ctc_lpa": 16.5,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Structural Analysis",
+        "Geotechnical Engineering",
+        "Surveying",
+        "Transportation Engineering",
+        "Environmental Engineering",
+        "Hydrology"
+      ]
+    },
+    {
+      "branch_name": "Biochemical & Biotechnology",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Principles of Biochemistry",
+        "General Microbiology",
+        "Molecular Biology and Genetics",
+        "Bioprocess Engineering",
+        "Bioseparation Engineering"
+      ]
+    },
+    {
+      "branch_name": "Textile Technology",
+      "average_ctc_lpa": 13.5,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Fiber Science",
+        "Yarn Manufacture",
+        "Fabric Manufacture",
+        "Textile Testing",
+        "Chemical Processing of Textiles"
+      ]
+    },
+    {
+      "branch_name": "Engineering Physics",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Quantum Mechanics",
+        "Statistical Mechanics",
+        "Electromagnetic Theory",
+        "Solid State Physics",
+        "Optics and Photonics"
+      ]
+    },
+    {
+      "branch_name": "Production & Industrial",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Metal Forming",
+        "Metrology and Quality Assurance",
+        "Welding and Allied Processes",
+        "Introduction to Operations Research",
+        "Manufacturing System Design"
+      ]
+    },
+    {
+      "branch_name": "Materials Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Structure of Materials",
+        "Thermodynamics of Materials",
+        "Mechanical Behavior of Materials",
+        "Electronic Properties"
+      ]
+    },
+    {
+      "branch_name": "Energy Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Energy Resources",
+        "Thermodynamics of Energy Systems",
+        "Solar Thermal Energy",
+        "Fuel Cell Technology"
+      ]
+    },
+    {
+      "branch_name": "Engg. & Computational Mechanics",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Aerospace Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket field",
+    "Football field",
+    "Hockey field",
+    "400m Athletic track",
+    "Synthetic and Clay Tennis courts",
+    "Basketball courts",
+    "Volleyball courts",
+    "Multiple Badminton courts",
+    "Table Tennis rooms",
+    "Squash courts",
+    "Billiards/Snooker room",
+    "Fully equipped Gymnasium",
+    "Olympic-size Swimming Pool"
+  ],
+  "student_clubs": [
+    "Music Club (Cadence)",
+    "Dance Club",
+    "Dramatics Club (Ankahi)",
+    "Debating Society (DebSoc)",
+    "Quizzing Club",
+    "Literary Club",
+    "Fine Arts and Crafts Club (FACC)",
+    "Photography and Filming Club (PFC)",
+    "Hindi Samiti",
+    "Spic Macay (Cultural Preservation)",
+    "Wellness Club"
+  ],
+  "incubation_center_name": "FITT (Foundation for Innovation and Technology Transfer)",
+  "notable_startups": [
+    "Botlab Dynamics",
+    "Clensta",
+    "Geliose Mobility",
+    "Chkra Revolution",
+    "Nanosafe Solutions",
+    "SWATRIC"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "college_name": "IIT Bhubaneswar",
+  "nirf_engineering_rank": 39,
+  "overall_average_ctc_lpa": null,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": null,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": 22.6,
+      "median_ctc_lpa": 16.3,
+      "placement_percentage": 92.4,
+      "core_subjects": [
+        "Data Structures",
+        "Algorithms",
+        "OS",
+        "DBMS",
+        "Computer Architecture",
+        "Theory of Computation",
+        "Networks"
+      ]
+    },
+    {
+      "branch_name": "Electronics & Communication Engineering (ECE)",
+      "average_ctc_lpa": 20.3,
+      "median_ctc_lpa": 16.0,
+      "placement_percentage": 78.0,
+      "core_subjects": [
+        "Signals and Systems",
+        "Analog & Digital Electronics",
+        "Communication Systems",
+        "Electromagnetic Theory",
+        "Microprocessors"
+      ]
+    },
+    {
+      "branch_name": "Electrical Engineering (EE)",
+      "average_ctc_lpa": 19.4,
+      "median_ctc_lpa": 12.0,
+      "placement_percentage": 82.2,
+      "core_subjects": [
+        "Network Theory",
+        "Electrical Machines",
+        "Control Systems",
+        "Power Systems",
+        "Power Electronics"
+      ]
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 12.0,
+      "median_ctc_lpa": 11.5,
+      "placement_percentage": 94.3,
+      "core_subjects": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Kinematics & Dynamics of Machines",
+        "Manufacturing Processes",
+        "Heat Transfer"
+      ]
+    },
+    {
+      "branch_name": "Civil Engineering (CE)",
+      "average_ctc_lpa": 12.3,
+      "median_ctc_lpa": 11.3,
+      "placement_percentage": 67.8,
+      "core_subjects": [
+        "Surveying",
+        "Structural Analysis",
+        "Geotechnical Engineering",
+        "Transportation Engineering",
+        "Environmental Engineering"
+      ]
+    },
+    {
+      "branch_name": "Metallurgical and Materials Engineering (MME)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Physical Metallurgy",
+        "Thermodynamics of Materials",
+        "Mechanical Metallurgy",
+        "Iron & Steel Making"
+      ]
+    },
+    {
+      "branch_name": "Engineering Physics (EP)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Quantum Mechanics",
+        "Classical Mechanics",
+        "Statistical Physics",
+        "Electromagnetic Theory",
+        "Applied Optics"
+      ]
+    },
+    {
+      "branch_name": "Mathematics and Computing (MnC)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Real Analysis",
+        "Abstract Algebra",
+        "Probability & Statistics",
+        "Numerical Methods",
+        "Optimization",
+        "Machine Learning"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Aerospace Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    }
+  ],
+  "sports_infrastructure": [
+    "Olympic-size swimming pool",
+    "Cricket ground (with nets)",
+    "Football field",
+    "Hockey ground",
+    "Basketball courts",
+    "Volleyball courts",
+    "Lawn Tennis courts",
+    "Athletics track (International standard)",
+    "3 Badminton courts",
+    "Table Tennis hall",
+    "Squash courts",
+    "Gymnasium",
+    "Dance room"
+  ],
+  "student_clubs": [
+    "RISC (Robotics)",
+    "Neuromancers (Programming)",
+    "WebnD (Design)",
+    "Nakshatra (Astronomy)",
+    "FEBS (Finance)",
+    "Parampara (Dance)",
+    "Sah Astitva (Animal Welfare)",
+    "Avani (Gardening)",
+    "Niramay (Health)"
+  ],
+  "incubation_center_name": "Research and Entrepreneurship Park (REP)",
+  "notable_startups": [
+    "Hopun Innovations",
+    "IG Drones",
+    "UGreen Technology",
+    "Kalinga Renewable Energy",
+    "Archon Motors"
+  ]
+}

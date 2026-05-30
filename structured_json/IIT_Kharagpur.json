@@ -1,0 +1,251 @@
+{
+  "college_name": "Indian Institute of Technology Kharagpur",
+  "nirf_engineering_rank": 5,
+  "overall_average_ctc_lpa": 24.00,
+  "overall_median_ctc_lpa": 19.76,
+  "overall_placement_percentage": null,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 28.99,
+      "placement_percentage": 93.69,
+      "core_subjects": [
+        "Discrete Structures",
+        "Algorithms",
+        "Computer Organization & Architecture",
+        "Operating Systems",
+        "DBMS",
+        "Computer Networks",
+        "Software Engineering",
+        "Theory of Computation"
+      ]
+    },
+    {
+      "branch_name": "Electronics & Electrical Comm.",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 27.50,
+      "placement_percentage": 93.91,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Electrical Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 21.14,
+      "placement_percentage": 88.10,
+      "core_subjects": [
+        "Signals and Systems",
+        "Network Analysis",
+        "Analog & Digital Electronics",
+        "Electrical Machines",
+        "Control Systems",
+        "Power Systems",
+        "Power Electronics"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 16.10,
+      "placement_percentage": 89.52,
+      "core_subjects": [
+        "Chemical Process Calculations",
+        "Fluid Mechanics",
+        "Heat Transfer",
+        "Mass Transfer",
+        "Chemical Reaction Engineering",
+        "Transport Phenomena",
+        "Process Dynamics & Control"
+      ]
+    },
+    {
+      "branch_name": "Mechanical Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 16.00,
+      "placement_percentage": 84.50,
+      "core_subjects": [
+        "Mechanics of Solids",
+        "Fluid Mechanics",
+        "Thermodynamics",
+        "Kinematics & Dynamics of Machines",
+        "Manufacturing Processes",
+        "Heat Transfer",
+        "Machine Design"
+      ]
+    },
+    {
+      "branch_name": "Aerospace Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 13.54,
+      "placement_percentage": 65.79,
+      "core_subjects": [
+        "Aerodynamics",
+        "Aerospace Structures",
+        "Aircraft Propulsion",
+        "Flight Mechanics",
+        "Aerospace Structural Dynamics",
+        "Aircraft Design"
+      ]
+    },
+    {
+      "branch_name": "Civil Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 14.10,
+      "placement_percentage": 74.70,
+      "core_subjects": [
+        "Solid Mechanics",
+        "Structural Analysis",
+        "Hydraulics & Water Resources",
+        "Geomatics/Surveying",
+        "Soil Mechanics",
+        "Transportation Engineering",
+        "Environmental Engineering"
+      ]
+    },
+    {
+      "branch_name": "Ocean Engineering & Naval Architecture",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 13.50,
+      "placement_percentage": 58.34,
+      "core_subjects": [
+        "Marine Hydrodynamics",
+        "Ship Strength",
+        "Marine Construction and Welding",
+        "Hydrostatics and Stability",
+        "Resistance and Propulsion",
+        "Marine Design"
+      ]
+    },
+    {
+      "branch_name": "Biotechnology",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 14.10,
+      "placement_percentage": 70.27,
+      "core_subjects": [
+        "Biochemistry",
+        "Microbiology",
+        "Cell & Molecular Biology",
+        "Biochemical Reaction Engineering",
+        "Bioprocess Engineering",
+        "Recombinant DNA Technology"
+      ]
+    },
+    {
+      "branch_name": "Agricultural & Food Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": 14.05,
+      "placement_percentage": 82.46,
+      "core_subjects": [
+        "Crop Production Technology",
+        "Soil Technology",
+        "Agricultural Machinery",
+        "Land and Water Resources",
+        "Food Engineering",
+        "Agricultural Biotechnology"
+      ]
+    },
+    {
+      "branch_name": "Mining Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 80.00,
+      "core_subjects": [
+        "Rock Mechanics",
+        "Mine Surveying",
+        "Surface & Underground Mining Methods",
+        "Mine Environment",
+        "Mining Machinery",
+        "Mineral Processing"
+      ]
+    },
+    {
+      "branch_name": "Metallurgical & Materials Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 82.00,
+      "core_subjects": [
+        "Metallurgical Thermodynamics",
+        "Physical Metallurgy",
+        "Extractive Metallurgy",
+        "Deformation Behaviour",
+        "Materials Characterization",
+        "Materials Processing"
+      ]
+    },
+    {
+      "branch_name": "Instrumentation Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Industrial & Systems Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Operations Research",
+        "Work System Design",
+        "Production Planning & Control",
+        "Quality Design & Control",
+        "Logistics & Supply Chain Management",
+        "Simulation"
+      ]
+    },
+    {
+      "branch_name": "Geology and Geophysics",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Mineralogy",
+        "Seismology",
+        "Geophysical Field Theory",
+        "Structural Geology",
+        "Petrology",
+        "Seismic Methods",
+        "Gravity and Magnetic Methods"
+      ]
+    }
+  ],
+  "sports_infrastructure": [
+    "Olympic-size swimming pool",
+    "Jnan Ghosh Stadium",
+    "Tata Sports Complex",
+    "4 Badminton courts",
+    "Squash court",
+    "Table Tennis hall",
+    "Billiards/Pool room",
+    "Basketball courts",
+    "Volleyball courts",
+    "Lawn Tennis courts",
+    "Gymnasium"
+  ],
+  "student_clubs": [
+    "Robotix Society",
+    "KRSSG",
+    "Space Technology Students' Society (SpaTS)",
+    "Data Analytics Group",
+    "Business Club",
+    "Pravah",
+    "Encore",
+    "Spectra",
+    "Eastern/Western Music Societies",
+    "Technology Dance Society",
+    "Debating Society",
+    "Quiz Club",
+    "Technology Literary Society"
+  ],
+  "incubation_center_name": "Science & Technology Entrepreneurs' Park (STEP)",
+  "notable_startups": [
+    "Swiggy",
+    "Rubrik",
+    "Capillary Technologies",
+    "Ecozen Solutions",
+    "Udaan",
+    "Rapido",
+    "AmberStudent",
+    "Agnext"
+  ]
+}

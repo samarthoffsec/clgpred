@@ -1,0 +1,188 @@
+{
+  "college_name": "IIT Gandhinagar",
+  "nirf_engineering_rank": 25,
+  "overall_average_ctc_lpa": 18.20,
+  "overall_median_ctc_lpa": 14.43,
+  "overall_placement_percentage": 82.39,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 22.73,
+      "median_ctc_lpa": 20.63,
+      "placement_percentage": 69.39,
+      "core_subjects": [
+        "Operating Systems (OS)",
+        "Database Management Systems (DBMS)",
+        "Theory of Computing",
+        "Computer Organization & Architecture"
+      ]
+    },
+    {
+      "branch_name": "Electrical Engineering (EE)",
+      "average_ctc_lpa": 23.54,
+      "median_ctc_lpa": 18.00,
+      "placement_percentage": 34.88,
+      "core_subjects": [
+        "Signals & Systems",
+        "Digital Systems",
+        "Electrical Machines",
+        "Power Systems",
+        "Control Systems",
+        "Engineering Electromagnetics",
+        "Analog & Mixed Signal Circuits",
+        "Power Electronics",
+        "DSP"
+      ]
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 15.52,
+      "median_ctc_lpa": 15.00,
+      "placement_percentage": 59.52,
+      "core_subjects": [
+        "Thermodynamics",
+        "Fluid Dynamics",
+        "Heat & Mass Transfer",
+        "Statics & Dynamics",
+        "Mechanics of Solids",
+        "Vibrations",
+        "Control Systems",
+        "Manufacturing Processes"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering (CL)",
+      "average_ctc_lpa": 15.29,
+      "median_ctc_lpa": 14.00,
+      "placement_percentage": 51.28,
+      "core_subjects": [
+        "Chemical Process Calculations",
+        "Thermodynamics",
+        "Process Fluid Mechanics",
+        "Heat Transfer",
+        "Mass Transfer",
+        "Chemical Reaction Engineering",
+        "Process Dynamics & Control"
+      ]
+    },
+    {
+      "branch_name": "Civil Engineering (CE)",
+      "average_ctc_lpa": 16.45,
+      "median_ctc_lpa": 14.00,
+      "placement_percentage": 31.03,
+      "core_subjects": [
+        "Mechanics of Solids",
+        "Earth Materials & Processes",
+        "Geospatial Engineering",
+        "Structural Analysis",
+        "Fluid Mechanics",
+        "Soil Mechanics",
+        "Design of RC/Steel Structures",
+        "Hydrology"
+      ]
+    },
+    {
+      "branch_name": "Materials Engineering (MSE)",
+      "average_ctc_lpa": 10.93,
+      "median_ctc_lpa": 10.00,
+      "placement_percentage": 29.41,
+      "core_subjects": [
+        "Structure of Materials",
+        "Materials Thermodynamics",
+        "Transport Phenomena",
+        "Microstructural Engineering",
+        "Physics of Materials",
+        "ICME",
+        "Mechanical Behaviour",
+        "Polymers/Ceramics/Composites"
+      ]
+    },
+    {
+      "branch_name": "Biological Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Cell & Molecular Biology",
+        "Biochemistry",
+        "Microbiology",
+        "Human Physiology",
+        "Genetic Engineering",
+        "Bioprocess Engineering",
+        "Bioinformatics",
+        "Biostatistics"
+      ]
+    },
+    {
+      "branch_name": "Artificial Intelligence (AI)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Mathematical Foundations for AI",
+        "Machine Learning",
+        "Multiagent Systems",
+        "Data Science",
+        "Theory of Computing",
+        "Digital Systems",
+        "Signals & Systems"
+      ]
+    },
+    {
+      "branch_name": "Integrated Circuit Design & Technology (ICDT)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "VLSI Design",
+        "Analog CMOS IC Design",
+        "Microelectronics Lab",
+        "Integrated Circuit Manufacturing"
+      ]
+    },
+    {
+      "branch_name": "Aerospace Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    }
+  ],
+  "sports_infrastructure": [
+    "Olympic-size Swimming Pool",
+    "Synthetic Athletic Track",
+    "Floodlit Cricket Ground",
+    "Football Field",
+    "Basketball Courts",
+    "Volleyball Courts",
+    "Tennis Courts",
+    "Badminton Courts",
+    "Squash Courts",
+    "Table Tennis Hall",
+    "Climbing Wall",
+    "24/7 Gymnasium",
+    "Yoga Hall"
+  ],
+  "student_clubs": [
+    "Digis (E-sports)",
+    "Metis (Software/OSS)",
+    "SCALE (ML/AI)",
+    "GRASP (CP)",
+    "Mean Mechanics (Robotics)",
+    "Odyssey (Astronomy)",
+    "Roobaro (Music)",
+    "Abhinaya (Dramatics)",
+    "Maffick (Dance)",
+    "16 Pixels (Photography)",
+    "Twist Theory (Logic Puzzles)",
+    "Nyasa (Social Service)"
+  ],
+  "incubation_center_name": "IIT Gandhinagar Innovation and Entrepreneurship Center (IIEC)",
+  "notable_startups": [
+    "Agrocast Analytics",
+    "Miko (RN Chidakasha)",
+    "Meiro Mobility",
+    "Agri Nitro India",
+    "BidCruit"
+  ]
+}

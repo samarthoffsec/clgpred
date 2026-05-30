@@ -1,0 +1,184 @@
+{
+  "college_name": "Indian Institute of Technology Kanpur",
+  "nirf_engineering_rank": 4,
+  "overall_average_ctc_lpa": null,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": null,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engg (CSE)",
+      "average_ctc_lpa": 52.80,
+      "median_ctc_lpa": 40.70,
+      "placement_percentage": 95.9,
+      "core_subjects": [
+        "Data Structures (ESO207A)",
+        "Algorithms",
+        "Operating Systems",
+        "Theory of Computation"
+      ]
+    },
+    {
+      "branch_name": "Electrical Engineering (EE)",
+      "average_ctc_lpa": 27.60,
+      "median_ctc_lpa": 23.50,
+      "placement_percentage": 92.2,
+      "core_subjects": [
+        "Signals & Systems",
+        "Microelectronics",
+        "Control Systems",
+        "Power Systems"
+      ]
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 20.10,
+      "median_ctc_lpa": 18.50,
+      "placement_percentage": 97.0,
+      "core_subjects": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Solid Mechanics",
+        "Heat Transfer"
+      ]
+    },
+    {
+      "branch_name": "Aerospace Engineering (AE)",
+      "average_ctc_lpa": 20.10,
+      "median_ctc_lpa": 17.70,
+      "placement_percentage": 77.1,
+      "core_subjects": [
+        "Aerodynamics",
+        "Flight Mechanics",
+        "Propulsion",
+        "Aircraft Design"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering (CHE)",
+      "average_ctc_lpa": 18.90,
+      "median_ctc_lpa": 16.00,
+      "placement_percentage": 86.1,
+      "core_subjects": [
+        "Process Calculations",
+        "Mass Transfer",
+        "Reaction Engineering"
+      ]
+    },
+    {
+      "branch_name": "Materials Science & Engg (MSE)",
+      "average_ctc_lpa": 16.60,
+      "median_ctc_lpa": 15.00,
+      "placement_percentage": 79.0,
+      "core_subjects": [
+        "Nature and Properties of Materials",
+        "Phase Equilibria",
+        "Iron and Steel Making"
+      ]
+    },
+    {
+      "branch_name": "Civil Engineering (CE)",
+      "average_ctc_lpa": 16.30,
+      "median_ctc_lpa": 15.80,
+      "placement_percentage": 76.2,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Biological Sciences (BSBE)",
+      "average_ctc_lpa": 13.80,
+      "median_ctc_lpa": 14.70,
+      "placement_percentage": 77.6,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Mathematics & Sci. Comp. (BS)",
+      "average_ctc_lpa": 26.50,
+      "median_ctc_lpa": null,
+      "placement_percentage": 77.6,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Economic Sciences (BS)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 77.6,
+      "core_subjects": [
+        "Microeconomics",
+        "Macroeconomics",
+        "Econometrics"
+      ]
+    },
+    {
+      "branch_name": "Statistics & Data Science (BS)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 77.6,
+      "core_subjects": [
+        "Probability Theory",
+        "Matrix Theory",
+        "Data Science Lab",
+        "Bayesian Analysis"
+      ]
+    },
+    {
+      "branch_name": "Physics / Chemistry / Earth Sci.",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    },
+    {
+      "branch_name": "Earth Sciences",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Mineralogy",
+        "Field Geology",
+        "Geophysics",
+        "Petrology"
+      ]
+    },
+    {
+      "branch_name": "Electronics & Comm. (ECE)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": []
+    }
+  ],
+  "sports_infrastructure": [
+    "Olympic-size Swimming Pool",
+    "Main Stadium",
+    "Indoor Complexes",
+    "Tennis courts",
+    "Airstrip"
+  ],
+  "student_clubs": [
+    "Robotics Club",
+    "Electronics Club",
+    "Programming Club",
+    "Astronomy Club",
+    "Aeromodelling Club",
+    "Music Club",
+    "Dramatics Club",
+    "Dance Club",
+    "English Literary Society",
+    "Hindi Sahitya Sabha",
+    "Prayas",
+    "Prakriti",
+    "Rakt"
+  ],
+  "incubation_center_name": "SIIC (Startup Incubation and Innovation Centre)",
+  "notable_startups": [
+    "Phool.co",
+    "Noccarc Robotics",
+    "E-Spin Nanotech",
+    "Offgrid Energy Labs",
+    "InMobi",
+    "Myntra",
+    "Delhivery",
+    "Urban Company",
+    "Razorpay",
+    "Ixigo"
+  ]
+}

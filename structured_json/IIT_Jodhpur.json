@@ -1,0 +1,185 @@
+{
+  "college_name": "Indian Institute of Technology Jodhpur",
+  "nirf_engineering_rank": 28,
+  "overall_average_ctc_lpa": 22.38,
+  "overall_median_ctc_lpa": 16.0,
+  "overall_placement_percentage": 92.0,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 26.55,
+      "median_ctc_lpa": null,
+      "placement_percentage": 98.0,
+      "core_subjects": [
+        "Data Structures & Algorithms",
+        "Discrete Mathematics",
+        "Computer Organization & Architecture",
+        "Operating Systems",
+        "DBMS",
+        "Computer Networks",
+        "Theory of Computation"
+      ]
+    },
+    {
+      "branch_name": "Mechanical Engineering",
+      "average_ctc_lpa": 19.5,
+      "median_ctc_lpa": null,
+      "placement_percentage": 97.7,
+      "core_subjects": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Strength of Materials",
+        "Kinematics & Dynamics of Machines",
+        "Machine Design",
+        "Manufacturing Processes",
+        "Heat & Mass Transfer"
+      ]
+    },
+    {
+      "branch_name": "Artificial Intelligence and Data Science",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Mathematics for AI",
+        "Machine Learning",
+        "Data Mining",
+        "Deep Learning",
+        "Big Data Analytics",
+        "NLP",
+        "Computer Vision"
+      ]
+    },
+    {
+      "branch_name": "Engineering Science",
+      "average_ctc_lpa": 22.81,
+      "median_ctc_lpa": null,
+      "placement_percentage": 100.0,
+      "core_subjects": [
+        "Sensors",
+        "Instrumentation",
+        "Energy Science",
+        "Robotics",
+        "Smart Infrastructure"
+      ]
+    },
+    {
+      "branch_name": "Electrical Engineering",
+      "average_ctc_lpa": 12.0,
+      "median_ctc_lpa": null,
+      "placement_percentage": 96.0,
+      "core_subjects": [
+        "Electric Circuits",
+        "Signals & Systems",
+        "Digital Systems",
+        "Electrical Machines",
+        "Electromagnetic Fields",
+        "Power Systems",
+        "Control Engineering",
+        "Analog Circuits"
+      ]
+    },
+    {
+      "branch_name": "Civil and Infrastructure Engineering",
+      "average_ctc_lpa": 11.33,
+      "median_ctc_lpa": null,
+      "placement_percentage": 68.1,
+      "core_subjects": [
+        "Mechanics of Solids",
+        "Geomatics",
+        "Hydraulic Engineering",
+        "Structural Analysis",
+        "Geotechnical Engineering",
+        "Transportation Engineering",
+        "Environmental Engineering"
+      ]
+    },
+    {
+      "branch_name": "Materials Engineering",
+      "average_ctc_lpa": 10.13,
+      "median_ctc_lpa": null,
+      "placement_percentage": 84.6,
+      "core_subjects": [
+        "Thermodynamics of Materials",
+        "Physical Metallurgy",
+        "Materials Processing",
+        "Transport Phenomena",
+        "Mechanical Properties",
+        "Characterization"
+      ]
+    },
+    {
+      "branch_name": "Bioscience & Bioengineering",
+      "average_ctc_lpa": 8.99,
+      "median_ctc_lpa": null,
+      "placement_percentage": 88.8,
+      "core_subjects": [
+        "Cell & Molecular Biology",
+        "Biochemistry",
+        "Genetics",
+        "Microbiology",
+        "Physiology",
+        "Immunology",
+        "Bioinformatics",
+        "Bioprocess Engineering"
+      ]
+    },
+    {
+      "branch_name": "Chemical Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Process Calculations",
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Heat & Mass Transfer",
+        "Reaction Engineering",
+        "Process Dynamics & Control"
+      ]
+    }
+  ],
+  "sports_infrastructure": [
+    "Athletics track",
+    "Cricket ground",
+    "Football field",
+    "Basketball courts",
+    "Tennis courts",
+    "Volleyball courts",
+    "Kabaddi courts",
+    "Gymnasium",
+    "Badminton courts",
+    "Table Tennis rooms",
+    "Billiards",
+    "Squash courts"
+  ],
+  "student_clubs": [
+    "Robotics Club",
+    "Programming Club (P-Club)",
+    "Astronomy Club (Nexus)",
+    "Aeromodelling Club",
+    "Electronics Club",
+    "Automobile Club",
+    "Music Club",
+    "Dance Club (Groove Theory)",
+    "Dramatics Club",
+    "Literature & Quizzing Society",
+    "Book Club",
+    "Newsletter Club",
+    "Art & Craft Club (Ateliers)",
+    "Photography Club (Shutterbugs)",
+    "Animation Club",
+    "Cinematography Club",
+    "FM Radio Club"
+  ],
+  "incubation_center_name": "Technology Innovation and Startup Center (TISC)",
+  "notable_startups": [
+    "Bodhi AI",
+    "Metafusion",
+    "Healyantra",
+    "Cellverse",
+    "RKSH IMPACT",
+    "Sarbit Innovations",
+    "Niranthar Care"
+  ]
+}
