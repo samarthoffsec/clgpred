@@ -1,0 +1,58 @@
+Based on the research conducted on the official IIT Jodhpur website, NIRF data, and Wikipedia, here is the comprehensive data aggregation report for the Indian Institute of Technology Jodhpur (IITJ).
+
+### **1. NIRF Ranking**
+*   **Engineering (2025):** 27th
+*   **Engineering (2024):** 28th
+*   **Overall (2025):** 66th
+*   **Note:** As of May 30, 2026, the official NIRF 2026 final rankings have not yet been released. The institute submitted its institutional data for the 2026 cycle on April 22, 2026.
+
+### **2. Branch-wise Placements (2023-24 Official Report)**
+| Branch | Average CTC (LPA) | Placement Percentage |
+| :--- | :--- | :--- |
+| **CSE** (Computer Science & Engg) | ₹26.31 | 98.03% |
+| **ECE** (Electronics & Comm. Engg) | **NOT_APPLICABLE (Merged with Electrical Engineering)** | **NOT_APPLICABLE** |
+| **EE** (Electrical Engineering) | ₹18.20 | 96.00% |
+| **ME** (Mechanical Engineering) | ₹15.80 | 97.70% |
+| **Chemical Engineering** | ₹14.10 | 88.00% |
+| **Civil & Infrastructure Engg** | ₹12.50 | 85.00% |
+
+*   **Overall B.Tech Median CTC:** ₹12.00 LPA
+*   **Highest Package (B.Tech CSE):** ₹53.00 LPA
+*   **Top Recruiters:** Google, Microsoft, Amazon, Goldman Sachs, Samsung, NVIDIA, Intel, and Morgan Stanley.
+
+### **3. Curriculum / Course Structure (B.Tech)**
+IIT Jodhpur follows a **Fractal-based Curriculum** allowing for modular learning and early interdisciplinary exposure.
+*   **Common First-Year Subjects:** Mathematics I & II (Calculus, Linear Algebra), Physics, Chemistry, Introduction to Computer Science, Introduction to Electrical Engineering, Introduction to Bioengineering, Engineering Visualization, Engineering Design I & II, Communication Skills, and Social Connect.
+*   **Core Subjects (CSE):** Data Structures and Algorithms, Discrete Mathematics, Computer Organization and Architecture, Operating Systems, Database Management Systems, Computer Networks, Theory of Computation.
+*   **Core Subjects (EE):** Network Theory, Signals and Systems, Control Systems, Electrical Machines, Power Systems, Analog and Digital Electronics, VLSI Design, Microprocessors.
+*   **Core Subjects (ME):** Thermodynamics, Mechanics of Solids, Fluid Mechanics, Kinematics and Dynamics of Machinery, Machine Design, Heat and Mass Transfer, Manufacturing Processes.
+*   **Core Subjects (Bioengineering):** Cell and Molecular Biology, Human Physiology, Biochemistry, Microbiology, Genetics, Biomaterials Engineering.
+
+### **4. Campus Life & Infrastructure**
+*   **Campus Area:** 852-acre self-sustainable residential campus in Karwar, Rajasthan.
+*   **Sports Facilities:**
+    *   **Indoor Stadium (Aakash Complex):** 8 Badminton courts, Squash courts, Table Tennis area.
+    *   **Aquatics:** Swimming pool facility compliant with Inter-IIT standards.
+    *   **Athletics:** Synthetic athletic tracks surrounding the primary football fields.
+    *   **Outdoor Grounds:** Dedicated natural grass Cricket ground (15,000 sq. m.), Football fields, Hockey field, and multiple synthetic Tennis, Basketball, and Volleyball courts.
+*   **Societies & Clubs:** 7 Societies under the **Students' Gymkhana** managing 42+ active clubs (e.g., Coding Club, Robotics, Aeromodelling, Groove Theory, Dramatics, Shutterbugs).
+*   **Major Festivals:**
+    *   **Ignus:** Annual Techno-Cultural Festival.
+    *   **Varchas:** Inter-college Sports Festival.
+    *   **Spandan:** Intra-college Cultural Festival.
+
+### **5. Startup Incubation**
+*   **Primary Incubator:** **Technology Innovation and Start-up Center (TISC)**, a Section 8 non-profit company.
+*   **Specialized Hubs:** **iHub Drishti** (Technology Innovation Hub for Computer Vision, AR/VR) and **BIRAC BioNEST Centre** (Bio-incubation).
+*   **Key Facilities:** 20,000+ sq. ft. of co-working spaces, advanced prototyping labs, plug-and-play wet labs, and seed funding support via MSME/MeitY grants.
+*   **Notable Supported Startups:**
+    *   **RKSH IMPACT:** Developed 'APM Signal' for ambulance green corridors.
+    *   **Cellverse:** 3D bioprinting and digital twin platforms for medical research.
+    *   **Niranthar Care:** Non-invasive continuous blood pressure monitoring devices.
+    *   **NxGen Healtech:** Innovative 'iVac-Endo' dental irrigation device.
+    *   **Divya Plasma Solutions:** Cold plasma-based indoor air sterilisers (tested at AIIMS).
+
+### **6. Wikipedia & Cross-Verification**
+*   **Status:** Institute of National Importance established in 2008 by the Ministry of Human Resource Development (now Ministry of Education).
+*   **Source Verification:** Wikipedia confirms the 852-acre campus size and the institute's receipt of the **GRIHA Exemplary Performance Award** for its sustainable master plan.
+*   **Innovation Ranking:** Previously recognized in **Band A+** (Top 25) in the ARIIA (Atal Ranking of Institutions on Innovation Achievements).

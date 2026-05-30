@@ -1,0 +1,64 @@
+### **IIT Gandhinagar (IITGN) - Comprehensive Data Report**
+
+#### **1. NIRF Ranking**
+*   **Engineering Category (2025):** 25
+*   **Overall Category (2025):** 39
+*   **Research Category (2025):** 36
+*   **Note:** Rankings for 2026 are currently pending release (expected mid-2026). The 2025 ranking is the latest available as of May 30, 2026.
+
+#### **2. Branch-wise Placements (Batch 2025)**
+| Branch | Average CTC (LPA) | Median CTC (LPA) | Placement Percentage |
+| :--- | :--- | :--- | :--- |
+| **Computer Science & Engineering (CSE)** | ₹23.37 | ₹21.50 | 95.00% |
+| **Electronics & Communication Engineering (ECE)** | `NOT_APPLICABLE (Merged with Electrical Engineering)` | `NOT_APPLICABLE (Merged with Electrical Engineering)` | `NOT_APPLICABLE (Merged with Electrical Engineering)` |
+| **Electrical Engineering (EE)** | ₹23.13 | ₹21.00 | 82.86% |
+| **Mechanical Engineering (ME)** | ₹14.06 | ₹14.00 | 90.00% |
+| **Chemical Engineering** | ₹17.06 | ₹14.27 | 85.71% |
+| **Civil Engineering** | ₹12.36 | `NOT_FOUND_SEPARATELY` | 75.00% |
+
+#### **3. Curriculum & Course Structure (B.Tech)**
+*   **Core Subjects by Branch:**
+    *   **CSE:** Data Structures & Algorithms, Operating Systems, Computer Architecture, Discrete Mathematics, DBMS, Theory of Computation, Compilers, Networks.
+    *   **EE (Covers ECE roles):** Signals & Systems, Electronic Devices, Control Systems, Power Systems, VLSI Design, Digital Signal Processing, Analog & Digital Circuits.
+    *   **ME:** Thermodynamics, Fluid Mechanics, Solid Mechanics, Heat Transfer, Kinematics & Dynamics of Machines, Manufacturing Processes, Machine Design.
+    *   **Civil:** Structural Engineering, Geotechnical Engineering, Transportation Engineering, Environmental Engineering, Fluid Mechanics, Surveying.
+    *   **Chemical:** Chemical Process Calculations, Thermodynamics, Reaction Engineering, Heat & Mass Transfer, Separation Processes, Process Dynamics.
+    *   **Materials Engineering:** Structure of Materials, Thermodynamics, Physical Metallurgy, Mechanical Behavior, Materials Processing.
+    *   **Artificial Intelligence (AI):** Machine Learning, Optimization Methods, Computer Vision, Probabilistic ML, Deep Learning.
+    *   **Integrated Circuit Design & Technology (ICDT):** CMOS Circuit Design, IC Fabrication, Semiconductor Devices, Packaging.
+*   **Unique Features:**
+    *   **Foundation Programme:** A mandatory 5-week immersive induction for freshers focusing on creativity, ethics, and physical fitness.
+    *   **Interdisciplinary Focus:** Flexible curriculum allowing minors in AI, Robotics, and Humanities.
+
+#### **4. Campus Life & Infrastructure**
+*   **Sports Facilities:**
+    *   **Synthetic Track:** 400m IAAF-standard synthetic athletic track with facilities for high jump, pole vault, and javelin.
+    *   **Aquatics:** Olympic-size swimming pool and separate indoor swimming pools.
+    *   **Indoor Complex:** AC Gymnasium (24x7), Badminton courts, Squash courts, Basketball, and a Climbing Wall.
+    *   **Outdoor Grounds:** Cricket ground (floodlit), Football ground, and Lawn Tennis courts.
+*   **Student Clubs:**
+    *   **Technical:** Mean Mechanics (Robotics), GRASP (Competitive Programming), SCALE (AI/ML), Odyssey (Astronomy), Metis (Software Development), CyberSentinel (Cybersecurity).
+    *   **Cultural:** Roobaro (Music), Maffick (Dance), Abhinaya (Drama), Kodachrome (Photography).
+*   **Sustainable Infrastructure:** India's first 5-star GRIHA LD (Green Rating for Integrated Habitat Assessment) campus; 5-star "Eat Right Campus" rating by FSSAI.
+
+#### **5. Startup Incubation (IIEC)**
+*   **Name:** IIT Gandhinagar Innovation and Entrepreneurship Center (IIEC).
+*   **Presence:** Established as a Section 8 company (Technology Business Incubator).
+*   **Key Facilities:** Co-working spaces, dedicated research labs, and prototyping grants (Nidhi Prayas program providing up to ₹10 lakhs).
+*   **Notable Supported Startups:**
+    *   **Cubeit:** Content-organization startup (Acquired by Myntra).
+    *   **Infurnia:** Cloud-based architecture and interior design software.
+    *   **Kairios Robotics:** Focused on automation and robotics solutions.
+    *   **AeroSentinel Technologies:** Specializing in drone and aerial monitoring.
+    *   **Agrocast Analytics:** Providing data-driven insights for agriculture.
+
+#### **6. Wikipedia Verification & Additional Details**
+*   **Official Wikipedia URL:** [https://en.wikipedia.org/wiki/IIT_Gandhinagar](https://en.wikipedia.org/wiki/IIT_Gandhinagar)
+*   **Cross-Verified Details:**
+    *   NIRF ranks are consistent with official Ministry of Education releases [Source: NIRF India].
+    *   Foundation Programme and Explorer Fellowship are unique hallmark programs of the institute [Source: Wikipedia, IITGN Official].
+    *   Incubation through IIEC is confirmed with specific focus on deep-tech translation [Source: Startup India].
+*   **Additional Fetched Details:**
+    *   **Explorer Fellowship:** A unique 6-week summer fellowship where students receive grants to travel across India on a modest budget.
+    *   **Location:** 400-acre campus situated on the banks of the Sabarmati River in Palaj.
+    *   **Institute of National Importance:** Officially designated by the Government of India [Source: Institutes of National Importance Act].

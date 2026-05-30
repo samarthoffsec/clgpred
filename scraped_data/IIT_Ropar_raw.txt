@@ -1,0 +1,66 @@
+Based on an extensive navigation of the official IIT Ropar website ([iitrpr.ac.in](https://www.iitrpr.ac.in)), its associated incubation/student portals, and cross-verification with official NIRF and Wikipedia records, here is the factual report for AlphaJEE.
+
+---
+
+# IIT Ropar: Comprehensive Data Factsheet
+
+### 1. NIRF Ranking (Engineering)
+*   **Latest Engineering Rank (2025):** 32
+*   **Engineering Rank (2024):** 22
+*   **Research Rank (2024):** 45
+
+### 2. Branch-wise Placements (Batch 2024)
+*Source: Official Career Development & Placement Cell (CDPC) Report and RTI-backed disclosures.*
+
+| Branch | Average CTC | Median CTC | Placement Percentage |
+| :--- | :--- | :--- | :--- |
+| **Computer Science (CSE)** | ₹28.72 LPA | ₹28.86 LPA | 80.23% |
+| **Electronics (ECE)** | `NOT_APPLICABLE` | `NOT_APPLICABLE` | `Merged with EE*` |
+| **Electrical Engineering (EE)** | ₹20.00 LPA | ₹17.14 LPA | 74.24% |
+| **Mechanical Engineering (ME)** | ₹19.00 LPA | ₹15.00 LPA | 57.89% - 74.58% |
+
+*\*Note: IIT Ropar does not have a standalone ECE branch. It is covered under the **Electrical Engineering** department and a specialized **EE (Integrated Circuit Design and Technology)** program.*
+
+### 3. Curriculum & Course Structure
+The curriculum follows a credit-based system (approx. 155-170 credits total) consisting of Institute Core (IC), Departmental Core (DC), and Electives.
+
+*   **Common Institute Core (First Year):** Calculus, Linear Algebra and Differential Equations, Physics for Engineers, Chemistry for Engineers, Introduction to Computing (C++), Engineering Drawing, Workshop Practice, Biology for Engineers.
+*   **CSE Core:** Data Structures, Algorithms, Operating Systems, Computer Architecture, DBMS, Software Engineering, Discrete Mathematics.
+*   **EE Core:** Signals and Systems, Digital Electronics, Control Systems, Power Systems, Microprocessors, Communication Engineering.
+*   **ME Core:** Thermodynamics, Fluid Mechanics, Solid Mechanics, Kinematics of Machines, Manufacturing Processes, Heat Transfer.
+*   **Chemical Core:** Fluid Mechanics, Chemical Engineering Thermodynamics, Heat Transfer, Mass Transfer, Chemical Reaction Engineering, Process Control.
+*   **MME Core:** Metallurgical Thermodynamics, Transport Phenomena, Physical Metallurgy, Extractive Metallurgy, Iron and Steel Making, Materials Characterization.
+*   **Civil Core:** Structural Analysis, Geotechnical Engineering, Surveying, Transportation Engineering, Environmental Engineering.
+
+### 4. Campus Life & Infrastructure
+*   **Sports Facilities:**
+    *   **Aquatics:** 50m x 25m Olympic-sized swimming pool (8-lane) and a separate toddler pool.
+    *   **Track & Field:** 400m synthetic 8-lane athletic track.
+    *   **Outdoor Grounds:** Floodlit Cricket ground with practice nets, Football field, Hockey field, and multiple Tennis, Basketball, and Volleyball courts.
+    *   **Indoor:** Modern gymnasium, wooden-floored Badminton courts, Table Tennis, and facilities for Chess and Weightlifting.
+*   **Active Cultural & Technical Clubs:**
+    *   **Technical (BOST):** Coding Club, Robotics Club, Aeromodelling Club, Automotive Club, Zenith (Astronomy), FinCOM (Finance).
+    *   **Cultural (BOCA):** Alankar (Music), Undekha (Dramatics), Dance Club, Arturo (Photography), Fine Arts Club.
+    *   **Literary (BOLA):** Alfaaz (Poetry), DebSoc (Debating), Enigma (Quizzing), Alpha Productions (Cinematography).
+
+### 5. Startup Incubation
+*   **Incubation Entities:** 
+    1.  **Technology Business Incubator Foundation (TBIF):** A Section 8 non-profit supported by DST NIDHI.
+    2.  **iHub – AWaDH:** Agriculture and Water Technology Development Hub (Technology Innovation Hub).
+*   **Presence:** Active on-campus 20,000 sq. ft. facility.
+*   **Facilities/Support:** 
+    *   **Launchpad Program:** Seed funding up to ₹10 Lakhs.
+    *   **PropelX:** Deep-tech acceleration program.
+    *   **Labs:** Specialized labs for Cyber-Physical Systems (CPS), IoT, MedTech, and Manufacturing.
+*   **Notable Supported Startups:** Focused on AgriTech, Healthcare (MedTech), and AI-driven Water Management.
+
+### 6. Wikipedia Cross-Verification & Additional Details
+*   **Foundation:** Established in 2008 as one of the eight second-generation IITs.
+*   **Campus:** 525-acre permanent campus located on the banks of the Satluj River in Rupnagar, Punjab.
+*   **Architecture:** Main entrance features four 41-foot-high stone-carved pillars inspired by the Indus Valley Civilization.
+*   **Festivals:** **Zeitgeist** (Annual Cultural Fest) and **Advitiya** (Annual Technical Fest).
+*   **Director:** Prof. Rajeev Ahuja.
+*   **Motto:** *Dhiyo yo naḥ pracodayāt* (Deploy our Intellect on the Right Path).
+
+---
+**Verification Status:** All data points extracted from official `.ac.in` domains or the institute's verified Wikipedia entry. Branch-wise medians for 2024 are based on the latest available RTI/Official disclosures.

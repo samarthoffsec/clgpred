@@ -1,0 +1,47 @@
+# IIT Delhi Data Aggregation Report
+
+### 1. NIRF Ranking
+* **Engineering Rank (2024):** 2nd
+* **Engineering Rank (2023):** 2nd
+* **Source:** Official NIRF Data / Wikipedia (.org)
+
+### 2. Branch-wise Placements
+* **Computer Science and Engineering (CSE):**
+  * Average CTC: 36.9 LPA
+  * Median CTC: NOT_FOUND_SEPARATELY
+  * Placement Percentage: 99%
+* **Electronics and Communication Engineering (ECE):**
+  * Average CTC: NOT_APPLICABLE (Merged with Electrical Engineering)
+  * Median CTC: NOT_APPLICABLE (Merged with Electrical Engineering)
+  * Placement Percentage: NOT_APPLICABLE (Merged with Electrical Engineering)
+* **Electrical Engineering (EE):**
+  * Average CTC: 29.6 LPA
+  * Median CTC: 24.5 LPA
+  * Placement Percentage: NOT_FOUND_SEPARATELY
+* **Mechanical Engineering (ME):**
+  * Average CTC: 20.0 LPA
+  * Median CTC: NOT_FOUND_SEPARATELY
+  * Placement Percentage: NOT_FOUND_SEPARATELY
+
+### 3. Curriculum/Course Structure
+* **Institute Core (All Branches):** Calculus, Linear Algebra & Differential Equations, Physics, Chemistry, Introductory Biology, Introduction to Computer Science, Introduction to Electrical Engineering, Engineering Mechanics, Product Realization through Manufacturing.
+* **Computer Science and Engineering (CSE):** Data Structures, Analysis and Design of Algorithms, Operating Systems, Computer Architecture, Computer Networks, Database Management Systems, Discrete Mathematical Structures.
+* **Electrical Engineering (EE):** Digital Electronics, Physical Electronics, Integrated Electronics, Circuit Theory, Signals and Systems, Control Engineering-I, Engineering Electromagnetics.
+* **Mechanical Engineering (ME):** Engineering Thermodynamics, Introduction to Fluid Mechanics, Heat and Mass Transfer, Solid Mechanics, Kinematics & Dynamics of Machines, Manufacturing Processes.
+
+### 4. Campus Life & Infrastructure
+* **Sports Facilities:** Olympic-size swimming pool, gymnasium, squash courts, badminton courts, table tennis rooms, billiards/pool room, 400m athletics track, cricket field, hockey field, football field, synthetic tennis courts, clay tennis courts, basketball courts, and volleyball courts (managed by Board for Sports Activities / Student Activity Centre).
+* **Active Cultural/Technical Clubs:** DevClub (coding), Aeromodelling Club, AXLR8R (Formula SAE team), Economics Club, Ankahi (Dramatics), Azure (Fine Arts), Dance Club, DebSoc (Debating).
+
+### 5. Startup Incubation
+* **Incubator Name:** Technology Business Incubation Unit (TBIU) managed by Foundation for Innovation and Technology Transfer (FITT).
+* **Student Entrepreneurship Cell:** Entrepreneurship Development Cell (eDC).
+* **Presence & Key Facilities:** Main Campus (Hauz Khas). Provides subsidized modular workspace, IP management, access to labs, and funding programs (like BIRAC, PRAYAS).
+* **Notable Supported Startups:** NOT_FOUND
+* **Incubation Budget:** NOT_FOUND
+
+### 6. Wikipedia Cross-Verification
+* **Establishment:** 1961 (Verified via Wikipedia; formally inaugurated by Humayun Kabir).
+* **Status:** Declared an Institution of Eminence in 2018 (Verified via Wikipedia).
+* **Director:** Prof. Rangan Banerjee (Verified via Wikipedia).
+* **Global Ranking:** Ranked 123rd globally in QS World University Rankings 2026 (Verified via Wikipedia).

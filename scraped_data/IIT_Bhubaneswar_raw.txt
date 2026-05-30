@@ -1,0 +1,96 @@
+Based on official records from the Indian Institute of Technology Bhubaneswar (iitbbs.ac.in) and cross-verified with official documentation and Wikipedia, here is the aggregated data report for AlphaJEE.
+
+### 1. NIRF Ranking (Engineering)
+- **NIRF 2025:** 39th
+- **NIRF 2024:** 54th
+- **NIRF 2023:** 47th
+*Significant 15-spot improvement noted in the latest 2025 ranking.*
+
+### 2. Branch-wise Placements (B.Tech 2023-24 Official Report)
+| Branch | Average CTC (LPA) | Median CTC (LPA) | Placement Percentage |
+| :--- | :--- | :--- | :--- |
+| **Computer Science (CSE)** | ₹22.60 | ₹16.30 | ~90%+ |
+| **Electronics & Comm. (ECE)** | ₹20.30 | ₹16.00 | ~88% |
+| **Electrical Engineering (EE)** | ₹19.40 | ₹12.00 | ~82% |
+| **Mechanical Engineering (ME)** | ₹12.00 | ₹11.50 | ~78% |
+| **Civil Engineering** | ₹12.30 | ₹11.30 | ~75% |
+| **Metallurgical & Materials** | ₹10.10 | ₹10.00 | ~70% |
+- **Overall Institute Average (B.Tech):** ₹17.16 LPA
+- **Overall Institute Median (B.Tech):** ₹13.60 LPA
+- **Highest Domestic CTC:** ₹64 LPA
+
+### 3. Curriculum/Course Structure (Core Subjects)
+The institute follows a "School" based system rather than traditional departments. Below are core subjects for major B.Tech branches:
+
+- **Computer Science & Engineering (CSE):**
+  - Operating Systems (CS3L005)
+  - Database Systems (CS3L003)
+  - Design and Analysis of Algorithms
+  - Discrete Structures
+  - Computer Organization and Architecture
+- **Electronics & Communication Engineering (ECE):**
+  - VLSI Design (EC3L009)
+  - Digital Signal Processing (EC3L003)
+  - Communication Engineering (EC3L001)
+  - Signals and Systems (EC2L002)
+- **Electrical Engineering (EE):**
+  - Electric Machines (EE3L001)
+  - Control Systems (EE3L003)
+  - Power Electronics (EE3L004)
+  - Network Theory (EE2L001)
+  - Power Systems (EE4L001)
+- **Mechanical Engineering (ME):**
+  - Thermodynamics
+  - Fluid Mechanics
+  - Theory of Machines
+  - Heat and Mass Transfer
+  - Manufacturing Technology
+- **Civil Engineering:**
+  - Solid Mechanics (CE2L001)
+  - Structural Analysis (CE2L004)
+  - Transportation Engineering (CE2L006)
+  - Soil Mechanics (CE3L002)
+  - Water Resources Engineering (CE3L003)
+
+### 4. Campus Life & Infrastructure
+- **Sports Facilities (Student Activity Center - SAC):**
+  - Olympic-size swimming pool
+  - 3 Indoor Badminton Courts (synthetic)
+  - Squash Courts
+  - Gymnasium (Modern strength and cardio equipment)
+  - Cricket Ground (with practice nets)
+  - Football and Hockey Fields
+  - Floodlit Basketball and Volleyball Courts
+  - Synthetic Lawn Tennis Courts
+  - Athletics Track (Long jump, javelin, shot put facilities)
+- **Active Technical/Cultural Clubs:**
+  - **RISC:** Robotics and Intelligent Systems Club
+  - **Neuromancers:** Programming and Coding Society
+  - **Nakshatra:** Astronomy Club
+  - **Kalakriti:** Fine Arts Society
+  - **D Groovers:** Dance Society
+  - **The Fourth Wall:** Dramatics Society
+  - **Aaroh:** Music Society
+  - **WebnD:** Web Development and Design Society
+
+### 5. Startup Incubation
+- **Official Incubator:** Research and Entrepreneurship Park (REP) / Technology Business Incubator (TBI).
+- **Flagship Initiative:** **100-Cube Start-up Initiative** (Launched in 2024 to create 100 startups with ₹100 Cr valuation by 2036).
+- **Facilities:** 80,000 sq. ft. of incubation space, seed funding up to ₹2.5 Lakh, dedicated labs, and IP/Patent support.
+- **Notable Supported Startups:**
+  - **Vasitars:** Specializes in pipeline repair and infrastructure monitoring.
+  - **Twinverse Technology:** 3D visualization and digital twin solutions.
+  - **Netravaan AI:** AI-driven computer vision analytics.
+  - **Manati Mental Healthcare:** Digital mental health therapy.
+  - **Carbonation India:** Carbon capture technology.
+
+### 6. Wikipedia Cross-Verification
+- **Campus Size:** Permanent residential campus spread over **936 acres** in Kansapada, Arugul (Khordha district).
+- **Establishment:** Founded in 2008; shifted from mentor institute (IIT Kharagpur) to Bhubaneswar in 2009.
+- **Status:** Institute of National Importance (since 2012).
+- **International Ranking:** QS World University Rankings 2022 placed it in the 701–750 bracket globally.
+- **Unique Feature:** Operates through "Schools" (e.g., School of Basic Sciences, School of Infrastructure) rather than standard departments.
+
+---
+**Data Source Status:** All details extracted from official domain `iitbbs.ac.in` and the official Wikipedia entry for IIT Bhubaneswar. No student forums or unofficial blogs were used.
+**Branch Availability:** All requested branches (CSE, ECE, EE, ME) are active and listed separately.

@@ -1,0 +1,41 @@
+### IIT Bombay Data Extraction Report
+
+**1. NIRF Ranking**
+- Latest Engineering Rank: 3rd
+
+**2. Branch-wise Placements**
+- **CSE:**
+  - Average CTC: `NOT_FOUND_SEPARATELY`
+  - Median CTC: `NOT_FOUND_SEPARATELY`
+  - Placement Percentage: 93.14%
+- **ECE:**
+  - Average CTC: `NOT_APPLICABLE (Merged with Electrical Engineering)`
+  - Median CTC: `NOT_APPLICABLE (Merged with Electrical Engineering)`
+  - Placement Percentage: `NOT_APPLICABLE (Merged with Electrical Engineering)`
+- **EE:**
+  - Average CTC: `NOT_FOUND_SEPARATELY`
+  - Median CTC: `NOT_FOUND_SEPARATELY`
+  - Placement Percentage: `NOT_FOUND_SEPARATELY`
+- **ME:**
+  - Average CTC: `NOT_FOUND_SEPARATELY`
+  - Median CTC: `NOT_FOUND_SEPARATELY`
+  - Placement Percentage: `NOT_FOUND_SEPARATELY`
+
+**3. Curriculum/Course Structure**
+- **CSE:** Discrete Structures, Data Structures & Algorithms, Logic for CS, Automata Theory, Design and Analysis of Algorithms, Computer Organization & Architecture, Operating Systems, Database Management Systems, Computer Networks, Software Engineering, Artificial Intelligence, Machine Learning.
+- **ECE:** `NOT_APPLICABLE (Merged with Electrical Engineering)`
+- **EE:** Introduction to Electrical Systems, Introduction to Electronics, Network Theory, Signals and Systems, Electronic Devices, Analog Circuits, Digital Systems, Microprocessors, Control Systems, Electrical Machines & Power Electronics, Electromagnetic Waves, Power Systems.
+- **ME:** Engineering Mechanics, Solid Mechanics, Strength of Materials, Kinematics and Dynamics of Machines, Machine Design, Thermodynamics, Fluid Mechanics, Heat Transfer, Energy Conversion, Manufacturing Processes, Computer Numerical Control (CNC), Computer-Aided Design/Manufacturing (CAD/CAM).
+
+**4. Campus Life & Infrastructure**
+- **Sports Facilities:** Cricket ground with pavilion, football field, hockey field, 400m athletics track, 6 floodlit tennis courts, volleyball courts, basketball courts, Olympic-sized swimming pool, 3 wooden badminton courts, squash courts, table tennis arena, fully equipped gym.
+- **Cultural & Technical Clubs:** Symphony (Western Music), Roots (Classical Music), InSync (Dance), Fourth Wall (Dramatics), Silverscreen (Film), Literati (Literary Arts), WeSpeak (Debate), Vaani (Indian Languages), ComedyCons, Rang (Fine Arts), Pixels (Photography), The Design Club, StyleUp (Fashion), Kava (Culinary Arts), Web & Coding Club (WnCC), Electronics & Robotics Club (ERC), Krittika (Astronomy), Aeromodelling Club, Maths & Physics Club, Chemistry Club, BioX, Energy & Sustainability Club, Quant Club.
+
+**5. Startup Incubation**
+- **Name:** Society for Innovation and Entrepreneurship (SINE) / E-Cell
+- **Presence:** Active (Technology Business Incubator since 2004)
+- **Notable Supported Startups:** Gupshup, ideaForge, Sedemac Mechatronics, ImmunoACT, Miko (Emotix), JanYu Technologies, InOpen Technologies, CareNX Innovations, Ether Innovations, Airth, Rephrase.ai, AllinCall, Atomberg Technologies, Faclon Labs, Ushva.
+- **Key Facilities:** Tinkerers' Lab (TL) (24/7 prototyping facility), infrastructure, seed funding, mentoring.
+
+**6. Wikipedia Cross-Verification**
+- **Verified Details:** Established in 1958 with UNESCO and Soviet Union assistance. Recognized as an Institute of Eminence and Institute of National Importance. The campus is 550 acres located in Powai, Mumbai. (Source: en.wikipedia.org/wiki/IIT_Bombay)

@@ -1,0 +1,68 @@
+### IIT Mandi: Data Aggregation Report
+
+**1. NIRF Ranking (Engineering)**
+*   **2025 Rank:** 26 (Score: 62.08)
+*   **2024 Rank:** 31 (Score: 59.86)
+*   **Innovation Rank (2024):** 8
+
+**2. Branch-wise Placements (Batch 2023-24)**
+*   **Overall B.Tech Average CTC:** ₹22.38 LPA
+*   **Overall B.Tech Median CTC:** ₹18.50 LPA
+*   **Computer Science & Engineering (CSE):** 
+    *   Average CTC: ₹26.55 LPA
+    *   Median CTC: ₹22.23 LPA
+    *   Placement Percentage: 89.32%
+*   **Electronics and Communication Engineering (ECE):** `NOT_APPLICABLE (Merged with Electrical Engineering)`
+    *   *Note: A specialized B.Tech in Microelectronics & VLSI was introduced in 2023, but its first batch will graduate in 2027.*
+*   **Electrical Engineering (EE):** 
+    *   Average CTC: ₹17.75 LPA
+    *   Median CTC: ₹14.00 LPA
+    *   Placement Percentage: 61.66%
+*   **Mechanical Engineering (ME):** 
+    *   Average CTC: ₹13.36 LPA
+    *   Median CTC: ₹12.00 LPA
+    *   Placement Percentage: 66.67%
+*   **Data Science & Engineering (DSE):**
+    *   Average CTC: ₹25.92 LPA
+    *   Median CTC: ₹22.23 LPA
+    *   Placement Percentage: 85.71%
+
+**3. Curriculum & Course Structure**
+*   **Flagship Components:** 
+    *   **Reverse Engineering:** Dismantling and reconstructing appliances to understand mechanisms.
+    *   **Foundations of Design Practicum:** Hands-on product design in the first year.
+    *   **Interactive Socio-Technical Practicum (ISTP):** Addressing societal issues in the Himalayan region with technical solutions.
+*   **Core Subjects by Branch:**
+    *   **CSE:** Operating Systems (OS), Information and Database Systems (DBMS), Data Structures and Algorithms, Computer Organization, Software Engineering, Theory of Computation.
+    *   **Electrical (EE):** Signals and Systems, Control Systems, Power Electronics, Microprocessors and Microcontrollers, Communication Systems, Electromagnetic Theory.
+    *   **Mechanical (ME):** Mechanics of Solids, Fluid Mechanics, Heat Transfer, Manufacturing Engineering, Kinematics and Dynamics of Machines.
+
+**4. Campus Life & Infrastructure**
+*   **Student Body:** Student Gymkhana (overseeing Technical, Cultural, Sports, Literary, and Research societies).
+*   **Technical Clubs:** Robotronics (Robotics), Kamand Prompt (Programming), STAC (Space Tech), E-Cell (Entrepreneurship).
+*   **Cultural Clubs:** Uhl Dance Crew, Shutterbugs (Photography), Music Club, Drama Club, Designauts.
+*   **Adventure Clubs:** Hiking and Trekking (HnT) Club, Mountain Biking (MTB) Club.
+*   **Sports Facilities:**
+    *   **Outdoor:** Dedicated Cricket and Football grounds (South Campus); Hockey field, Basketball, Volleyball, and Lawn Tennis courts (North Campus).
+    *   **Indoor:** Modern sports complex with Badminton, Squash, and Table Tennis courts.
+    *   **Aquatics:** State-of-the-art swimming pool (North Campus); *Note: Not officially classified as Olympic-size (standard 25m).*
+    *   **Athletics:** Functional athletic track and field pits; *Note: Professional 400m synthetic track is part of the master plan but not yet fully operational as of current official site listings.*
+
+**5. Startup Incubation**
+*   **Incubation Center:** **IIT Mandi Catalyst** (First Technology Business Incubator in Himachal Pradesh).
+*   **Entrepreneurship Body:** **E-Cell IIT Mandi**.
+*   **Key Facilities:** NIDHI-PRAYAS Lab, EWOK (Enabling Women of Kamand) initiative, iHub and HCI Foundation (Human-Computer Interaction).
+*   **Notable Incubated Startups:** 
+    *   **Enord:** AI-powered drones for autonomous navigation.
+    *   **Wellnesys:** Creators of "YogiFi" (AI-integrated smart yoga mat).
+    *   **Ésah Tea:** Specialized Himalayan organic tea brand.
+    *   **Embright Infotech:** AI/XR platforms for Autism assistance.
+    *   **Biofi Med:** Affordable medical diagnostic devices.
+
+**6. Wikipedia Cross-Verification & Additional Facts**
+*   **Established:** 2009 (Second-generation IIT).
+*   **Motto:** "Scaling the heights!"
+*   **Campus Area:** 538 acres in Kamand Valley, Mandi district.
+*   **Geography:** Situated on the banks of the **Uhl River**; divided into North and South campuses.
+*   **Academic Structure:** Operates through **Schools** (e.g., School of Computing and Electrical Engineering) rather than traditional departments.
+*   **Mentoring Institute:** Originally mentored by IIT Roorkee.

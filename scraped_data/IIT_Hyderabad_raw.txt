@@ -1,0 +1,65 @@
+### IIT Hyderabad - Comprehensive Data Aggregation Report
+
+#### 1. NIRF Ranking (Engineering)
+- **Latest Ranking (2025):** 7th Position
+- **Score:** 72.31
+- **Source:** NIRF Official (nirfindia.org) / IITH Official News
+
+#### 2. Branch-wise Placements (Academic Year 2023-24)
+*Relying on official Career Development Centre (CDC) highlights.*
+
+| Branch | Average CTC | Median CTC | Placement Percentage |
+| :--- | :--- | :--- | :--- |
+| **Computer Science & Engineering (CSE)** | ₹29.68 LPA | ₹28.00 LPA | 79.37% |
+| **Electronics & Communication (ECE)** | `NOT_APPLICABLE (Merged with Electrical Engineering)` | `NOT_APPLICABLE` | `NOT_APPLICABLE` |
+| **Electrical Engineering (EE)** | ₹22.10 LPA | ₹28.99 LPA | 75.41% |
+| **Mechanical Engineering (ME)** | ₹22.00 LPA | ₹19.00 LPA | 55.00% |
+
+- **Overall Institute Average (B.Tech):** ₹22.50 LPA
+- **Highest Domestic Package:** ₹90.00 LPA (CSE)
+- **International Offers:** 43 (Significant presence from Japanese recruiters like Suzuki, Toyota).
+
+#### 3. Curriculum & Course Structure
+IITH follows a unique **Fractal Academic Program** (modular credit system).
+
+**Core Subjects by Branch:**
+- **Common First Year:** Calculus, Linear Algebra, Modern Physics, Digital Fabrication, Introduction to Programming (C/Python), Environmental Chemistry.
+- **Computer Science (CSE):** Discrete Structures, Data Structures, Design and Analysis of Algorithms, Operating Systems (OS), Database Management Systems (DBMS), Computer Networks, Compilers, Theory of Computation.
+- **Electrical Engineering (EE):** Signals and Systems, Control Systems, Digital Systems, Analog Electronics, VLSI Design, Semiconductor Device Fundamentals, Communication Systems, Electrical Machines.
+- **Mechanical Engineering (ME):** Engineering Mechanics, Solid Mechanics, Fluid Mechanics, Thermodynamics, Manufacturing Science, Kinematics and Dynamics of Machines, Heat Transfer.
+- **Artificial Intelligence (AI):** Machine Learning, Deep Learning, Probability and Random Processes, Optimization Techniques.
+- **Biomedical Engineering (BME):** Physio-anatomy, Bioengineering, Medical Imaging, Biomaterials.
+
+#### 4. Campus Life & Infrastructure
+Managed by the **Student Gymkhana** and **Sports & Cultural Centre (SnCC)**.
+
+**Sports Facilities:**
+- **Swimming:** 50m Olympic-size swimming complex.
+- **Athletics:** 400-meter synthetic outdoor track and 200-meter indoor warm-up track.
+- **Courts:** 4 Squash courts (glass-back), multiple wooden-floor Badminton courts, synthetic/PU Basketball and Tennis courts.
+- **Gymnasium:** High-tech fitness center with dedicated cardio and strength sections.
+
+**Active Clubs:**
+- **Technical:** Robotix (Robotics), AeroClub (Drones), Cepheid (Astronomy), Kludge (Infosec), Elektronika (Electronics).
+- **Cultural:** Vibes (Music), Shuffle (Dance), Rang De Manch (Dramatics), Infocus (Photography), Gesture (Fine Arts).
+- **Flagship Events:** Elan & ηVision (Techno-Cultural Fest), Milan (Inter-Hostel Championship).
+
+#### 5. Startup Incubation
+**Official TBI:** iTIC Incubator (IIT Hyderabad Technology Incubation Centre)
+- **Presence:** Active since 2015; supported over 130 startups.
+- **Key Facilities:** Makerlab (Prototyping), Precision Lab (Metrology/Hexagon collaboration), TiHAN (Autonomous Navigation Testbed), FabCI (Fabless Chip Design Incubator).
+- **Entrepreneurship Cell:** E-Cell IITH (Hosts annual E-Summit).
+- **Notable Supported Startups:**
+    - **Anvayaa:** Personalized senior care technology platform.
+    - **Greenpod Labs:** Agri-biotech for post-harvest loss reduction.
+    - **Sortizy:** Smart kitchen and meal management platform.
+    - **Anvayaa:** Senior care platform.
+    - **UAVIO Labs:** Autonomous drone navigation.
+
+#### 6. Wikipedia Cross-Verification & Additional Details
+- **Established:** 2008 (Second-generation IIT).
+- **Campus Area:** 576 acres located in Kandi, Sangareddy District, Telangana. [Source: Wikipedia]
+- **Director:** Prof. B. S. Murty. [Source: Wikipedia]
+- **Japanese Collaboration:** Strong technical and financial ties with the Government of Japan (JICA), influencing architecture and research centers (e.g., Friendship Project). [Source: Wikipedia/Official Site]
+- **Architectural Design:** Campus designed by Christopher Charles Benninger; features carbon-neutral residential clusters. [Source: Wikipedia]
+- **Academic Highlight:** First IIT to launch a full-fledged B.Tech program in Artificial Intelligence. [Source: Wikipedia]
