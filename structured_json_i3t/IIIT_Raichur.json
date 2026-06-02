@@ -1,0 +1,145 @@
+{
+  "college_name": "Indian Institute of Information Technology Raichur",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 18.0,
+  "overall_median_ctc_lpa": 14.0,
+  "overall_placement_percentage": 68.8,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": 18.0,
+      "median_ctc_lpa": 14.0,
+      "placement_percentage": 68.8,
+      "core_subjects": [
+        "Data Structures",
+        "Design and Analysis of Algorithms",
+        "Operating Systems",
+        "Computer Networks",
+        "Database Management Systems (DBMS)",
+        "Theory of Computation",
+        "Software Engineering",
+        "Computer Architecture"
+      ],
+      "category_closing_ranks": {
+        "OPEN_Gender_Neutral": 34282,
+        "OPEN_Female": 38721,
+        "EWS_Gender_Neutral": 5934,
+        "EWS_Female": 6273,
+        "OBC_NCL_Gender_Neutral": 14422,
+        "OBC_NCL_Female": 15948,
+        "SC_Gender_Neutral": 9130,
+        "SC_Female": 8823,
+        "ST_Gender_Neutral": 3696,
+        "ST_Female": 2997,
+        "OPEN_PwD_Gender_Neutral": 1090,
+        "OPEN_PwD_Female": null,
+        "EWS_PwD_Gender_Neutral": 230,
+        "EWS_PwD_Female": null,
+        "OBC_NCL_PwD_Gender_Neutral": 506,
+        "OBC_NCL_PwD_Female": null,
+        "SC_PwD_Gender_Neutral": null,
+        "SC_PwD_Female": null,
+        "ST_PwD_Gender_Neutral": null,
+        "ST_PwD_Female": null
+      }
+    },
+    {
+      "branch_name": "Artificial Intelligence and Data Science (AI & DS)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Foundations of Data Science",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science Tools",
+        "Artificial Intelligence",
+        "Big Data Analytics",
+        "Natural Language Processing (NLP)",
+        "Data Analytics"
+      ],
+      "category_closing_ranks": {
+        "OPEN_Gender_Neutral": 37788,
+        "OPEN_Female": 42319,
+        "EWS_Gender_Neutral": 6747,
+        "EWS_Female": 7471,
+        "OBC_NCL_Gender_Neutral": 15884,
+        "OBC_NCL_Female": 17427,
+        "SC_Gender_Neutral": 9414,
+        "SC_Female": 6902,
+        "ST_Gender_Neutral": 3896,
+        "ST_Female": 3727,
+        "OPEN_PwD_Gender_Neutral": 1738,
+        "OPEN_PwD_Female": null,
+        "EWS_PwD_Gender_Neutral": null,
+        "EWS_PwD_Female": null,
+        "OBC_NCL_PwD_Gender_Neutral": 1388,
+        "OBC_NCL_PwD_Female": null,
+        "SC_PwD_Gender_Neutral": null,
+        "SC_PwD_Female": null,
+        "ST_PwD_Gender_Neutral": null,
+        "ST_PwD_Female": null
+      }
+    },
+    {
+      "branch_name": "Mathematics and Computing (MnC)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Group and Ring Theory",
+        "Real Analysis and Metric Spaces",
+        "Number Theory",
+        "Linear Algebra",
+        "Probability and Random Processes",
+        "Cryptography and its Applications",
+        "Computational Sciences"
+      ],
+      "category_closing_ranks": {
+        "OPEN_Gender_Neutral": 39100,
+        "OPEN_Female": 41131,
+        "EWS_Gender_Neutral": 6986,
+        "EWS_Female": 7666,
+        "OBC_NCL_Gender_Neutral": 16256,
+        "OBC_NCL_Female": 18537,
+        "SC_Gender_Neutral": 10071,
+        "SC_Female": 11471,
+        "ST_Gender_Neutral": 4460,
+        "ST_Female": 4854,
+        "OPEN_PwD_Gender_Neutral": 1431,
+        "OPEN_PwD_Female": null,
+        "EWS_PwD_Gender_Neutral": null,
+        "EWS_PwD_Female": null,
+        "OBC_NCL_PwD_Gender_Neutral": null,
+        "OBC_NCL_PwD_Female": null,
+        "SC_PwD_Gender_Neutral": null,
+        "SC_PwD_Female": null,
+        "ST_PwD_Gender_Neutral": null,
+        "ST_PwD_Female": null
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Central Playground (Cricket and Football)",
+    "State-of-the-art Basketball Court",
+    "Volleyball and Badminton Courts",
+    "Indoor Sports: Table Tennis, Carrom, Chess",
+    "Modern Gymnasium"
+  ],
+  "student_clubs": [
+    "Codesoc",
+    "Electrogeeks",
+    "Xposure",
+    "Finesse & Finspiration",
+    "Aurora",
+    "DevX & Deep Labs"
+  ],
+  "incubation_center_name": "Entrepreneurship Development Cell (EDC) / E-Cell",
+  "notable_startups": [
+    "ATEU Software",
+    "Dhatri Solutions",
+    "Lunch Box",
+    "Energy Management Platform",
+    "Portable Baby Incubator"
+  ]
+}

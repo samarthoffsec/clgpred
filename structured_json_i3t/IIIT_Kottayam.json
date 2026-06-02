@@ -1,0 +1,222 @@
+{
+  "college_name": "Indian Institute of Information Technology (IIIT) Kottayam",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 11.91,
+  "overall_median_ctc_lpa": 10.0,
+  "overall_placement_percentage": 88.0,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Discrete Mathematics",
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "Database Management Systems (DBMS)",
+        "Computer Networks",
+        "Theory of Computation",
+        "Computer Organization & Architecture",
+        "Software Engineering"
+      ],
+      "category_closing_ranks": {
+        "OPEN_Gender_Neutral": 35996,
+        "OPEN_Female": 40151,
+        "EWS_Gender_Neutral": 6586,
+        "EWS_Female": 7599,
+        "OBC_NCL_Gender_Neutral": 14629,
+        "OBC_NCL_Female": 15875,
+        "SC_Gender_Neutral": 9967,
+        "SC_Female": 10470,
+        "ST_Gender_Neutral": 4217,
+        "ST_Female": 4454,
+        "OPEN_PwD_Gender_Neutral": 2524,
+        "OPEN_PwD_Female": 1475,
+        "EWS_PwD_Gender_Neutral": 378,
+        "EWS_PwD_Female": null,
+        "OBC_NCL_PwD_Gender_Neutral": 1509,
+        "OBC_NCL_PwD_Female": 1136,
+        "SC_PwD_Gender_Neutral": null,
+        "SC_PwD_Female": null,
+        "ST_PwD_Gender_Neutral": null,
+        "ST_PwD_Female": null
+      }
+    },
+    {
+      "branch_name": "Electronics and Communication Engineering (ECE)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Signals and Systems",
+        "Digital Logic Design",
+        "Electronic Circuits",
+        "Microprocessors & Microcontrollers",
+        "Analog & Digital Communication",
+        "VLSI Design",
+        "Embedded Systems",
+        "Electromagnetic Theory"
+      ],
+      "category_closing_ranks": {
+        "OPEN_Gender_Neutral": 39875,
+        "OPEN_Female": 40028,
+        "EWS_Gender_Neutral": 6912,
+        "EWS_Female": 7621,
+        "OBC_NCL_Gender_Neutral": 15467,
+        "OBC_NCL_Female": 16560,
+        "SC_Gender_Neutral": 10131,
+        "SC_Female": 10207,
+        "ST_Gender_Neutral": 4152,
+        "ST_Female": 4659,
+        "OPEN_PwD_Gender_Neutral": 2395,
+        "OPEN_PwD_Female": null,
+        "EWS_PwD_Gender_Neutral": null,
+        "EWS_PwD_Female": null,
+        "OBC_NCL_PwD_Gender_Neutral": 1696,
+        "OBC_NCL_PwD_Female": null,
+        "SC_PwD_Gender_Neutral": null,
+        "SC_PwD_Female": null,
+        "ST_PwD_Gender_Neutral": null,
+        "ST_PwD_Female": null
+      }
+    },
+    {
+      "branch_name": "CSE with Specialization in AI & Data Science",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing (NLP)",
+        "Computer Vision",
+        "Big Data Analytics",
+        "Neural Networks",
+        "MLOps",
+        "Data Warehousing & Mining"
+      ],
+      "category_closing_ranks": {
+        "OPEN_Gender_Neutral": 32727,
+        "OPEN_Female": 33437,
+        "EWS_Gender_Neutral": 5717,
+        "EWS_Female": 6782,
+        "OBC_NCL_Gender_Neutral": 12084,
+        "OBC_NCL_Female": 12777,
+        "SC_Gender_Neutral": 8046,
+        "SC_Female": 9891,
+        "ST_Gender_Neutral": 3731,
+        "ST_Female": 4576,
+        "OPEN_PwD_Gender_Neutral": 961,
+        "OPEN_PwD_Female": null,
+        "EWS_PwD_Gender_Neutral": null,
+        "EWS_PwD_Female": null,
+        "OBC_NCL_PwD_Gender_Neutral": 488,
+        "OBC_NCL_PwD_Female": null,
+        "SC_PwD_Gender_Neutral": null,
+        "SC_PwD_Female": null,
+        "ST_PwD_Gender_Neutral": null,
+        "ST_PwD_Female": null
+      }
+    },
+    {
+      "branch_name": "CSE with Specialization in Cyber Security",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Cryptography",
+        "Network Security",
+        "Ethical Hacking",
+        "Digital Forensics",
+        "Information Security",
+        "Malware Analysis",
+        "Blockchain Technology",
+        "Secure Software Engineering"
+      ],
+      "category_closing_ranks": {
+        "OPEN_Gender_Neutral": 36976,
+        "OPEN_Female": 41306,
+        "EWS_Gender_Neutral": 6670,
+        "EWS_Female": 7650,
+        "OBC_NCL_Gender_Neutral": 14983,
+        "OBC_NCL_Female": 15932,
+        "SC_Gender_Neutral": 9327,
+        "SC_Female": 10065,
+        "ST_Gender_Neutral": 4219,
+        "ST_Female": 4845,
+        "OPEN_PwD_Gender_Neutral": 1597,
+        "OPEN_PwD_Female": null,
+        "EWS_PwD_Gender_Neutral": null,
+        "EWS_PwD_Female": null,
+        "OBC_NCL_PwD_Gender_Neutral": 931,
+        "OBC_NCL_PwD_Female": null,
+        "SC_PwD_Gender_Neutral": null,
+        "SC_PwD_Female": null,
+        "ST_PwD_Gender_Neutral": null,
+        "ST_PwD_Female": null
+      }
+    },
+    {
+      "branch_name": "Mathematics and Computing",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [
+        "Numerical Methods",
+        "Optimization Techniques",
+        "Stochastic Processes",
+        "Abstract Algebra",
+        "Real Analysis",
+        "Algorithms",
+        "DBMS"
+      ],
+      "category_closing_ranks": {}
+    },
+    {
+      "branch_name": "Chemical Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [],
+      "category_closing_ranks": {}
+    },
+    {
+      "branch_name": "Aerospace Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": null,
+      "core_subjects": [],
+      "category_closing_ranks": {}
+    }
+  ],
+  "sports_infrastructure": [
+    "Football",
+    "Volleyball",
+    "Badminton",
+    "Table Tennis",
+    "Chess",
+    "Carrom",
+    "Gymnasium (Svasthya)"
+  ],
+  "student_clubs": [
+    "betaLABS",
+    "Cyber Security Club",
+    "IEEE Student Branch",
+    "ACM Student Chapter",
+    "WildBeats",
+    "Chitrachaya",
+    "Literary Club",
+    "Trendles",
+    "Manga Club"
+  ],
+  "incubation_center_name": "AIC-IIITKottayam Foundation",
+  "notable_startups": [
+    "Infusory Future Tech Labs",
+    "DeepQAI Business Solutions",
+    "RRR Gig Jobs & Services",
+    "Procis Brainlabs",
+    "Water N Spices Foodsz",
+    "Aigon Mechatronics"
+  ]
+}
