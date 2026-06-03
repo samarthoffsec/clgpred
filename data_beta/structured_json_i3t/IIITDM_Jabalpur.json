@@ -1,0 +1,250 @@
+{
+  "college_name": "IIITDM Jabalpur",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 15.3,
+  "overall_median_ctc_lpa": 12.1,
+  "overall_placement_percentage": 79.66,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 25.08,
+      "median_ctc_lpa": 16.0,
+      "placement_percentage": 92.3,
+      "core_subjects": [
+        "Discrete Structures",
+        "Computer Organization & Architecture",
+        "DBMS",
+        "Operating Systems",
+        "Design and Analysis of Algorithms",
+        "Theory of Computation",
+        "Software Engineering",
+        "Computer Networks",
+        "Human-Computer Interaction"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 14757,
+          "OPEN_Female": 23022,
+          "EWS_Gender_Neutral": 2443,
+          "EWS_Female": 4150,
+          "OBC_NCL_Gender_Neutral": 5785,
+          "OBC_NCL_Female": 9914,
+          "SC_Gender_Neutral": 3905,
+          "SC_Female": 5201,
+          "ST_Gender_Neutral": 2003,
+          "ST_Female": 2610,
+          "OPEN_PwD_Gender_Neutral": 974,
+          "OPEN_PwD_Female": 1402,
+          "EWS_PwD_Gender_Neutral": 179,
+          "EWS_PwD_Female": null,
+          "OBC_NCL_PwD_Gender_Neutral": 497,
+          "OBC_NCL_PwD_Female": 728,
+          "SC_PwD_Gender_Neutral": 107
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 14787,
+          "OPEN_Female": 23196,
+          "EWS_Gender_Neutral": 2168,
+          "EWS_Female": 4163,
+          "OBC_NCL_Gender_Neutral": 5411,
+          "OBC_NCL_Female": 10444,
+          "SC_Gender_Neutral": 3590,
+          "SC_Female": 5753,
+          "ST_Gender_Neutral": 1642,
+          "ST_Female": 1999,
+          "OPEN_PwD_Gender_Neutral": 675,
+          "OPEN_PwD_Female": 555,
+          "EWS_PwD_Gender_Neutral": 194,
+          "EWS_PwD_Female": 195,
+          "OBC_NCL_PwD_Gender_Neutral": 330,
+          "OBC_NCL_PwD_Female": null,
+          "SC_PwD_Gender_Neutral": 207
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics & Communication Engineering (ECE)",
+      "average_ctc_lpa": 17.2,
+      "median_ctc_lpa": 15.0,
+      "placement_percentage": 84.1,
+      "core_subjects": [
+        "Network Theory",
+        "Electronic Devices and Circuits",
+        "Digital Electronics & Microprocessor Interfacing",
+        "Signals and Systems",
+        "Analog Integrated Circuits",
+        "DSP",
+        "Control Systems",
+        "Communication Systems",
+        "VLSI System Design",
+        "Electromagnetic Theory"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 19106,
+          "OPEN_Female": 27458,
+          "EWS_Gender_Neutral": 3231,
+          "EWS_Female": 4699,
+          "OBC_NCL_Gender_Neutral": 7514,
+          "OBC_NCL_Female": 12756,
+          "SC_Gender_Neutral": 4945,
+          "SC_Female": 7356,
+          "ST_Gender_Neutral": 2464,
+          "ST_Female": 3108,
+          "OPEN_PwD_Gender_Neutral": 1279,
+          "OPEN_PwD_Female": 1925,
+          "EWS_PwD_Gender_Neutral": 284,
+          "OBC_NCL_PwD_Gender_Neutral": 768,
+          "OBC_NCL_PwD_Female": null,
+          "SC_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 18809,
+          "OPEN_Female": 30693,
+          "EWS_Gender_Neutral": 2888,
+          "EWS_Female": 4794,
+          "OBC_NCL_Gender_Neutral": 7147,
+          "OBC_NCL_Female": 12800,
+          "SC_Gender_Neutral": 4581,
+          "SC_Female": 7010,
+          "ST_Gender_Neutral": 2175,
+          "ST_Female": 3010,
+          "OPEN_PwD_Gender_Neutral": 1101,
+          "OPEN_PwD_Female": 2536,
+          "EWS_PwD_Gender_Neutral": 175,
+          "OBC_NCL_PwD_Gender_Neutral": 672,
+          "OBC_NCL_PwD_Female": 1529,
+          "SC_PwD_Gender_Neutral": 293
+        }
+      }
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 17.4,
+      "median_ctc_lpa": 14.5,
+      "placement_percentage": 59.5,
+      "core_subjects": [
+        "Manufacturing Processes",
+        "Solid Mechanics",
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "Kinematics and Dynamics of Machines",
+        "Heat and Mass Transfer",
+        "Machine Design",
+        "Control Systems",
+        "IC Engines",
+        "Computer-Aided Design (CAD)"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 41353,
+          "OPEN_Female": 50222,
+          "EWS_Gender_Neutral": 7237,
+          "EWS_Female": 8257,
+          "OBC_NCL_Gender_Neutral": 16157,
+          "OBC_NCL_Female": 20662,
+          "SC_Gender_Neutral": 7511,
+          "SC_Female": 9237,
+          "ST_Gender_Neutral": 2964,
+          "ST_Female": 4155,
+          "OPEN_PwD_Gender_Neutral": 2412,
+          "OPEN_PwD_Female": null,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 44435,
+          "OPEN_Female": 56277,
+          "EWS_Gender_Neutral": 6818,
+          "EWS_Female": 8002,
+          "OBC_NCL_Gender_Neutral": 15818,
+          "OBC_NCL_Female": 20092,
+          "SC_Gender_Neutral": 8022,
+          "SC_Female": 9897,
+          "ST_Gender_Neutral": 3269,
+          "ST_Female": 4575,
+          "OPEN_PwD_Gender_Neutral": 2071,
+          "OPEN_PwD_Female": 3686,
+          "OBC_NCL_PwD_Gender_Neutral": 1379
+        }
+      }
+    },
+    {
+      "branch_name": "Smart Manufacturing (SM)",
+      "average_ctc_lpa": 11.3,
+      "median_ctc_lpa": 10.1,
+      "placement_percentage": 72.06,
+      "core_subjects": [
+        "Industrial Automation",
+        "Cyber-Physical Production Systems (CPPS)",
+        "Additive & Subtractive Manufacturing (3D Printing)",
+        "Robotics",
+        "Industrial IoT (IIoT)",
+        "Applied AI & Machine Learning for Manufacturing",
+        "Engineering Materials & Characterization"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 49439,
+          "OPEN_Female": 55789,
+          "EWS_Gender_Neutral": 8414,
+          "EWS_Female": 10027,
+          "OBC_NCL_Gender_Neutral": 18176,
+          "OBC_NCL_Female": 22444,
+          "SC_Gender_Neutral": 9556,
+          "SC_Female": 11422,
+          "ST_Gender_Neutral": 3818,
+          "ST_Female": 4862,
+          "OPEN_PwD_Gender_Neutral": 3322,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 52669,
+          "OPEN_Female": 60904,
+          "EWS_Gender_Neutral": 7951,
+          "EWS_Female": 9714,
+          "OBC_NCL_Gender_Neutral": 18397,
+          "OBC_NCL_Female": 24128,
+          "SC_Gender_Neutral": 9203,
+          "SC_Female": 10932,
+          "ST_Gender_Neutral": 3531,
+          "ST_Female": 4624,
+          "OPEN_PwD_Gender_Neutral": 2610,
+          "OBC_NCL_PwD_Gender_Neutral": 1442
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket ground",
+    "Football ground",
+    "Volleyball courts",
+    "Basketball courts",
+    "Lawn Tennis courts",
+    "Athletic track",
+    "Shuttle Badminton",
+    "Table Tennis",
+    "Chess",
+    "Carrom",
+    "Multi-Gymnasium"
+  ],
+  "student_clubs": [
+    "Robotics Club",
+    "Bitbyte (Programming)",
+    "Astronomy & Physics Society",
+    "Aero Fabrication Club",
+    "IIITDMJ Racing Club",
+    "Saaz (Music)",
+    "Jazbaat (Poetry/Creative Writing)",
+    "Aavartan (Dance)",
+    "Abhivayakti (Drama/Arts)",
+    "Aakrti (Photography & Film)",
+    "Jagriti"
+  ],
+  "incubation_center_name": "Start-up, Incubation and Technology Enablement Centre (SITEC) / Technology Business Incubation (TBI) Cell",
+  "notable_startups": [
+    "WeVOIS Labs Pvt Ltd",
+    "Sonant Technologies",
+    "Robokriti India",
+    "A.S.H.A (Advance Solar Harvesting Agency)"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "college_name": "Indian Institute of Information Technology (IIIT) Dharwad",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 15.6,
+  "overall_median_ctc_lpa": 12.8,
+  "overall_placement_percentage": 80.63,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": 23.6,
+      "median_ctc_lpa": 19.5,
+      "placement_percentage": 62.89,
+      "core_subjects": [
+        "Discrete Mathematics",
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "Computer Networks",
+        "Database Management Systems (DBMS)",
+        "Software Engineering",
+        "Theory of Computing",
+        "Artificial Intelligence",
+        "Systems and Usable Security"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 37419,
+          "OPEN_Female": 39855,
+          "EWS_Gender_Neutral": 6763,
+          "EWS_Female": 7570,
+          "OBC_NCL_Gender_Neutral": 15972,
+          "OBC_NCL_Female": 17907,
+          "SC_Gender_Neutral": 9390,
+          "SC_Female": 9769,
+          "ST_Gender_Neutral": 3974,
+          "ST_Female": 2087,
+          "OPEN_PwD_Gender_Neutral": 1246,
+          "EWS_PwD_Gender_Neutral": 308,
+          "OBC_NCL_PwD_Gender_Neutral": 785,
+          "SC_PwD_Gender_Neutral": 99
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 41121,
+          "OPEN_Female": 46133,
+          "EWS_Gender_Neutral": 6562,
+          "EWS_Female": 7151,
+          "OBC_NCL_Gender_Neutral": 16414,
+          "OBC_NCL_Female": 20078,
+          "SC_Gender_Neutral": 9683,
+          "SC_Female": 9751,
+          "ST_Gender_Neutral": 4591,
+          "ST_Female": 2794,
+          "OPEN_PwD_Gender_Neutral": 1314,
+          "EWS_PwD_Gender_Neutral": 272,
+          "OBC_NCL_PwD_Gender_Neutral": 1094,
+          "SC_PwD_Gender_Neutral": null
+        }
+      }
+    },
+    {
+      "branch_name": "Data Science and Artificial Intelligence (DSAI)",
+      "average_ctc_lpa": 24.5,
+      "median_ctc_lpa": 19.3,
+      "placement_percentage": 81.4,
+      "core_subjects": [
+        "Linear Algebra",
+        "Machine Learning",
+        "Algorithms for AI",
+        "Operating Systems and Cloud Computing",
+        "Graphs and Social Networks",
+        "Visualization and App Development",
+        "Financial Data Analytics",
+        "Healthcare Data Analytics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 39077,
+          "OPEN_Female": 41400,
+          "EWS_Gender_Neutral": 6996,
+          "EWS_Female": 7668,
+          "OBC_NCL_Gender_Neutral": 16643,
+          "OBC_NCL_Female": 18574,
+          "SC_Gender_Neutral": 9861,
+          "SC_Female": 10212,
+          "ST_Gender_Neutral": 4447,
+          "ST_Female": 3514,
+          "OPEN_PwD_Gender_Neutral": 990,
+          "EWS_PwD_Gender_Neutral": 373,
+          "OBC_NCL_PwD_Gender_Neutral": 1135
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 43328,
+          "OPEN_Female": 48888,
+          "EWS_Gender_Neutral": 6676,
+          "EWS_Female": 7575,
+          "OBC_NCL_Gender_Neutral": 16967,
+          "OBC_NCL_Female": 20568,
+          "SC_Gender_Neutral": 10134,
+          "SC_Female": 10504,
+          "ST_Gender_Neutral": 4762,
+          "ST_Female": 4275,
+          "OPEN_PwD_Gender_Neutral": 2128,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": 1555
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics and Communication Engineering (ECE)",
+      "average_ctc_lpa": 17.4,
+      "median_ctc_lpa": 14.2,
+      "placement_percentage": 42.22,
+      "core_subjects": [
+        "Circuit Theory",
+        "Analog and Digital Circuits",
+        "Signals and Systems",
+        "Microprocessors & Microcontrollers",
+        "Digital Signal Processing (DSP)",
+        "Principles of Communication Systems",
+        "Wireless Communication",
+        "Embedded Systems",
+        "Control Systems",
+        "Semiconductor and IC Technologies"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 41143,
+          "OPEN_Female": 43215,
+          "EWS_Gender_Neutral": 7224,
+          "EWS_Female": 7285,
+          "OBC_NCL_Gender_Neutral": 16841,
+          "OBC_NCL_Female": 18957,
+          "SC_Gender_Neutral": 10252,
+          "SC_Female": 10883,
+          "ST_Gender_Neutral": 4685,
+          "ST_Female": 3771,
+          "OPEN_PwD_Gender_Neutral": 1378,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": 635,
+          "SC_PwD_Gender_Neutral": 144,
+          "ST_PwD_Gender_Neutral": 92
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 45440,
+          "OPEN_Female": 50505,
+          "EWS_Gender_Neutral": 6881,
+          "EWS_Female": 8253,
+          "OBC_NCL_Gender_Neutral": 17311,
+          "OBC_NCL_Female": 20916,
+          "SC_Gender_Neutral": 10374,
+          "SC_Female": 10603,
+          "ST_Gender_Neutral": 4767,
+          "ST_Female": 5038,
+          "OPEN_PwD_Gender_Neutral": 2369,
+          "EWS_PwD_Gender_Neutral": 356,
+          "OBC_NCL_PwD_Gender_Neutral": 1092,
+          "SC_PwD_Gender_Neutral": null,
+          "ST_PwD_Gender_Neutral": null
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket Ground",
+    "Football Ground",
+    "Volleyball Ground",
+    "Basketball Court",
+    "Tennis Court",
+    "Indoor Multi-Function Hall",
+    "Badminton",
+    "Table Tennis",
+    "Carrom",
+    "Chess",
+    "Indoor Gymnasium",
+    "Yoga room"
+  ],
+  "student_clubs": [
+    "Velocity (Coding)",
+    "accelAIrate (AI/ML)",
+    "BlocSoc (Blockchain)",
+    "InQuizitive (Quiz)",
+    "GDG (Google Developer Group)",
+    "MSA (Microsoft Student Ambassadors)",
+    "440 Hz (Music)",
+    "Dynamight (Dance)",
+    "Mosaic (Fine Arts)",
+    "Flavorhood (Culinary)",
+    "Prabodhini (IKS)",
+    "Focus (Photography)"
+  ],
+  "incubation_center_name": "IIIT Dharwad Research Park (IDRP)",
+  "notable_startups": [
+    "Writing in Air",
+    "RealCam"
+  ]
+}

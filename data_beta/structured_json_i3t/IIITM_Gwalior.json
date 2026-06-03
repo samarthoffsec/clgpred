@@ -1,0 +1,278 @@
+{
+  "college_name": "ABV-IIITM Gwalior (Atal Bihari Vajpayee Indian Institute of Information Technology and Management)",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 14.1,
+  "overall_median_ctc_lpa": 12.3,
+  "overall_placement_percentage": 75.93,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": 22.11,
+      "median_ctc_lpa": 22.0,
+      "placement_percentage": 74.0,
+      "core_subjects": [
+        "Operating Systems (OS)",
+        "Database Management Systems (DBMS)",
+        "Design and Analysis of Algorithms",
+        "Theory of Computation",
+        "Computer Networks",
+        "Software Engineering",
+        "Computer Organization and Architecture",
+        "Discrete Structures"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 8044,
+          "OPEN_Female": 11529,
+          "EWS_Gender_Neutral": 1365,
+          "EWS_Female": 2013,
+          "OBC_NCL_Gender_Neutral": 3625,
+          "OBC_NCL_Female": 6214,
+          "SC_Gender_Neutral": 2195,
+          "SC_Female": 3313,
+          "ST_Gender_Neutral": 1343,
+          "ST_Female": 1493,
+          "OPEN_PwD_Gender_Neutral": 212,
+          "OPEN_PwD_Female": null,
+          "OBC_NCL_PwD_Gender_Neutral": 195,
+          "SC_PwD_Gender_Neutral": 67,
+          "ST_PwD_Gender_Neutral": 75
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 9527,
+          "OPEN_Female": 15152,
+          "EWS_Gender_Neutral": 1448,
+          "EWS_Female": 2137,
+          "OBC_NCL_Gender_Neutral": 3413,
+          "OBC_NCL_Female": 6583,
+          "SC_Gender_Neutral": 2092,
+          "SC_Female": 4039,
+          "ST_Gender_Neutral": 933,
+          "ST_Female": 613,
+          "OPEN_PwD_Gender_Neutral": 129,
+          "OPEN_PwD_Female": 481,
+          "OBC_NCL_PwD_Gender_Neutral": 229,
+          "SC_PwD_Gender_Neutral": 97,
+          "ST_PwD_Gender_Neutral": 84
+        }
+      }
+    },
+    {
+      "branch_name": "Electrical and Electronics Engineering (EEE)",
+      "average_ctc_lpa": 16.7,
+      "median_ctc_lpa": 14.8,
+      "placement_percentage": 79.95,
+      "core_subjects": [
+        "Signals and Systems",
+        "Analog Electronics",
+        "VLSI Design",
+        "Digital Signal Processing (DSP)",
+        "Microprocessor and Interfacing",
+        "Power Electronics",
+        "Control Systems",
+        "Wireless Communication"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 17195,
+          "OPEN_Female": 25669,
+          "EWS_Gender_Neutral": 2803,
+          "EWS_Female": 4312,
+          "OBC_NCL_Gender_Neutral": 6543,
+          "OBC_NCL_Female": 13502,
+          "SC_Gender_Neutral": 5088,
+          "SC_Female": 4852,
+          "ST_Gender_Neutral": 1671,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": 1334,
+          "OBC_NCL_PwD_Gender_Neutral": 973
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 17366,
+          "OPEN_Female": 27081,
+          "EWS_Gender_Neutral": 2573,
+          "EWS_Female": 4546,
+          "OBC_NCL_Gender_Neutral": 6392,
+          "OBC_NCL_Female": 14415,
+          "SC_Gender_Neutral": 4070,
+          "SC_Female": 7972,
+          "ST_Gender_Neutral": 1811,
+          "ST_Female": 3331,
+          "OPEN_PwD_Gender_Neutral": 748,
+          "OBC_NCL_PwD_Gender_Neutral": 639
+        }
+      }
+    },
+    {
+      "branch_name": "Mathematics and Scientific Computing",
+      "average_ctc_lpa": 11.8,
+      "median_ctc_lpa": 10.2,
+      "placement_percentage": 73.63,
+      "core_subjects": [
+        "Real and Functional Analysis",
+        "Complex Analysis",
+        "Advanced Numerical Methods",
+        "Multivariate Data Analysis",
+        "Differential Equations and Integral Transforms",
+        "Modern Cryptography",
+        "Scientific Computing"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 11180,
+          "OPEN_Female": 18094,
+          "EWS_Gender_Neutral": 1908,
+          "EWS_Female": 3232,
+          "OBC_NCL_Gender_Neutral": 4863,
+          "OBC_NCL_Female": 9429,
+          "SC_Gender_Neutral": 3476,
+          "SC_Female": null,
+          "ST_Gender_Neutral": 1494,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": 719,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 11710,
+          "OPEN_Female": 19775,
+          "EWS_Gender_Neutral": 1684,
+          "EWS_Female": 3133,
+          "OBC_NCL_Gender_Neutral": 4696,
+          "OBC_NCL_Female": 10045,
+          "SC_Gender_Neutral": 3302,
+          "SC_Female": 3371,
+          "ST_Gender_Neutral": 1487,
+          "ST_Female": 2278,
+          "OPEN_PwD_Gender_Neutral": 629,
+          "OBC_NCL_PwD_Gender_Neutral": 631
+        }
+      }
+    },
+    {
+      "branch_name": "Integrated B.Tech + M.Tech (IT)",
+      "average_ctc_lpa": 22.68,
+      "median_ctc_lpa": 22.0,
+      "placement_percentage": 75.0,
+      "core_subjects": [
+        "Data Structures",
+        "Principles of Computer Programming",
+        "Digital Electronics",
+        "Engineering Mathematics",
+        "Engineering Physics",
+        "Probability and Statistics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 13577,
+          "OPEN_Female": 22022,
+          "EWS_Gender_Neutral": 2370,
+          "EWS_Female": 3809,
+          "OBC_NCL_Gender_Neutral": 6241,
+          "OBC_NCL_Female": 10475,
+          "SC_Gender_Neutral": 4293,
+          "SC_Female": 5371,
+          "ST_Gender_Neutral": 1981,
+          "ST_Female": 2568,
+          "OPEN_PwD_Gender_Neutral": 776,
+          "OPEN_PwD_Female": 555,
+          "OBC_NCL_PwD_Gender_Neutral": 557
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 13473,
+          "OPEN_Female": 20921,
+          "EWS_Gender_Neutral": 1887,
+          "EWS_Female": 3537,
+          "OBC_NCL_Gender_Neutral": 5314,
+          "OBC_NCL_Female": 10183,
+          "SC_Gender_Neutral": 3704,
+          "SC_Female": 6422,
+          "ST_Gender_Neutral": 1594,
+          "ST_Female": 3499,
+          "OPEN_PwD_Gender_Neutral": 371,
+          "OPEN_PwD_Female": 604,
+          "OBC_NCL_PwD_Gender_Neutral": 345
+        }
+      }
+    },
+    {
+      "branch_name": "Integrated B.Tech + MBA (IT)",
+      "average_ctc_lpa": 22.9,
+      "median_ctc_lpa": 18.7,
+      "placement_percentage": 88.1,
+      "core_subjects": [
+        "Data Structures",
+        "Principles of Computer Programming",
+        "Digital Electronics",
+        "Engineering Mathematics",
+        "Engineering Physics",
+        "Probability and Statistics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 16856,
+          "OPEN_Female": 24511,
+          "EWS_Gender_Neutral": 2790,
+          "EWS_Female": 4010,
+          "OBC_NCL_Gender_Neutral": 7482,
+          "OBC_NCL_Female": 10838,
+          "SC_Gender_Neutral": 4746,
+          "SC_Female": 5701,
+          "ST_Gender_Neutral": 2526,
+          "ST_Female": 2793,
+          "OPEN_PwD_Gender_Neutral": 1098,
+          "EWS_PwD_Gender_Neutral": 219,
+          "OBC_NCL_PwD_Gender_Neutral": 746,
+          "OBC_NCL_PwD_Female": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 15680,
+          "OPEN_Female": 24539,
+          "EWS_Gender_Neutral": 2164,
+          "EWS_Female": 3997,
+          "OBC_NCL_Gender_Neutral": 6146,
+          "OBC_NCL_Female": 10675,
+          "SC_Gender_Neutral": 3851,
+          "SC_Female": 6700,
+          "ST_Gender_Neutral": 2114,
+          "ST_Female": 2473,
+          "OPEN_PwD_Gender_Neutral": 305,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Female": 1464
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Swimming Pool",
+    "Gymnasium",
+    "Squash courts",
+    "Lawn Tennis courts",
+    "Badminton courts",
+    "Table Tennis courts",
+    "Cricket ground",
+    "Football field",
+    "Basketball court",
+    "Futsal ground",
+    "Billiards",
+    "Carrom",
+    "Chess rooms"
+  ],
+  "student_clubs": [
+    "SFOSS (Students' Forum for Open Source Software)",
+    "AAS (Abhigyan Abhikaushlam Students' Forum)",
+    "MAD (Music, Arts and Dramatics) Club",
+    "La Vista",
+    "SPIC MACAY"
+  ],
+  "incubation_center_name": "Technology Innovation and Incubation Centre (TIIC)",
+  "notable_startups": [
+    "Mechmocha",
+    "Tapits",
+    "Decent Solutions",
+    "Online Kisan Mandi",
+    "Pumpkin Pot",
+    "Krisco Agrotech",
+    "Nainpur Hydropower"
+  ]
+}

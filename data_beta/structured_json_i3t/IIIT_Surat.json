@@ -1,0 +1,137 @@
+{
+  "college_name": "IIIT Surat",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 14.0,
+  "overall_median_ctc_lpa": 11.8,
+  "overall_placement_percentage": 75.54,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": 23.4,
+      "median_ctc_lpa": 19.0,
+      "placement_percentage": 70.0,
+      "core_subjects": [
+        "Data Structures and Algorithms (DSA)",
+        "Operating Systems (OS)",
+        "Database Management Systems (DBMS)",
+        "Computer Organization and Architecture",
+        "Design and Analysis of Algorithms (DAA)",
+        "Theory of Computation",
+        "Computer Networks",
+        "Software Engineering",
+        "Machine Learning",
+        "Compiler Design"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 25108,
+          "OPEN_Female": 33933,
+          "EWS_Gender_Neutral": 4627,
+          "EWS_Female": 5947,
+          "OBC_NCL_Gender_Neutral": 11302,
+          "OBC_NCL_Female": 15434,
+          "SC_Gender_Neutral": 7837,
+          "SC_Female": 8505,
+          "ST_Gender_Neutral": 3112,
+          "ST_Female": 3605,
+          "OPEN_PwD_Gender_Neutral": 1644,
+          "OBC_NCL_PwD_Gender_Neutral": 846
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 28707,
+          "OPEN_Female": 35063,
+          "EWS_Gender_Neutral": 4596,
+          "EWS_Female": 5020,
+          "OBC_NCL_Gender_Neutral": 12176,
+          "OBC_NCL_Female": 17804,
+          "SC_Gender_Neutral": 7604,
+          "SC_Female": 9200,
+          "ST_Gender_Neutral": 3767,
+          "ST_Female": 3474,
+          "OPEN_PwD_Gender_Neutral": 994,
+          "OBC_NCL_PwD_Gender_Neutral": 633
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics and Communication Engineering (ECE)",
+      "average_ctc_lpa": 17.4,
+      "median_ctc_lpa": 11.0,
+      "placement_percentage": 68.0,
+      "core_subjects": [
+        "Electronic Devices and Circuits (EDC)",
+        "Digital Logic Design",
+        "Signals and Systems",
+        "Network Theory",
+        "Analog Circuits",
+        "Microprocessors and Interfacing",
+        "Digital Signal Processing (DSP)",
+        "Communication Engineering (Analog & Digital)",
+        "VLSI Design",
+        "Control Systems",
+        "Antenna and Wave Propagation"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 34263,
+          "OPEN_Female": 35609,
+          "EWS_Gender_Neutral": 6391,
+          "EWS_Female": 7363,
+          "OBC_NCL_Gender_Neutral": 15703,
+          "OBC_NCL_Female": 16798,
+          "SC_Gender_Neutral": 8904,
+          "SC_Female": 9986,
+          "ST_Gender_Neutral": 3755,
+          "ST_Female": 4558,
+          "OPEN_PwD_Gender_Neutral": 2811,
+          "OBC_NCL_PwD_Gender_Neutral": 1608
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 36049,
+          "OPEN_Female": 43793,
+          "EWS_Gender_Neutral": 6020,
+          "EWS_Female": 7119,
+          "OBC_NCL_Gender_Neutral": 15417,
+          "OBC_NCL_Female": 19518,
+          "SC_Gender_Neutral": 9537,
+          "SC_Female": 10623,
+          "ST_Gender_Neutral": 4021,
+          "ST_Female": 4124,
+          "OPEN_PwD_Gender_Neutral": 2342,
+          "OBC_NCL_PwD_Gender_Neutral": 1075
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Volleyball court",
+    "Kabaddi mat",
+    "Cricket/Football space",
+    "Table Tennis (TT)",
+    "Chess",
+    "Carrom",
+    "Gymnasium"
+  ],
+  "student_clubs": [
+    "LCS (Learn-Code-Solve)",
+    "MARC (Modern Automaton and Robotics Club)",
+    "GDSC",
+    "Swarang",
+    "Grove",
+    "Malhar",
+    "Abstract",
+    "Antra",
+    "Exposure",
+    "Cineworks",
+    "Indominus",
+    "Inspire Club"
+  ],
+  "incubation_center_name": "SSIP Cell",
+  "notable_startups": [
+    "InsideFPV",
+    "KasperTech",
+    "Vysion Technology",
+    "TecoNico Pvt. Ltd.",
+    "Star Labs"
+  ]
+}

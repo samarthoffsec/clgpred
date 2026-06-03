@@ -1,0 +1,131 @@
+{
+  "college_name": "IIIT Vadodara",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 14.4,
+  "overall_median_ctc_lpa": 12.2,
+  "overall_placement_percentage": 61.4,
+  "branches": [
+    {
+      "branch_name": "CSE",
+      "average_ctc_lpa": 22.8,
+      "median_ctc_lpa": 19.7,
+      "placement_percentage": 87.99,
+      "core_subjects": [
+        "Discrete Mathematics",
+        "Computer Organization & Architecture",
+        "Object-Oriented Programming",
+        "Database Management Systems",
+        "Design and Analysis of Algorithms",
+        "Operating Systems",
+        "Computer Networks",
+        "Software Engineering",
+        "Theory of Computation",
+        "Compiler Design"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 21838,
+          "OPEN_Female": 30490,
+          "EWS_Gender_Neutral": 4092,
+          "EWS_Female": 6025,
+          "OBC_NCL_Gender_Neutral": 9909,
+          "OBC_NCL_Female": 15791,
+          "SC_Gender_Neutral": 7532,
+          "SC_Female": 7556,
+          "ST_Gender_Neutral": 3451,
+          "ST_Female": 2926,
+          "OPEN_PwD_Gender_Neutral": 1946,
+          "OPEN_PwD_Female": 681,
+          "EWS_PwD_Gender_Neutral": 390,
+          "OBC_NCL_PwD_Gender_Neutral": 1205
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 24840,
+          "OPEN_Female": 33057,
+          "EWS_Gender_Neutral": 4092,
+          "EWS_Female": 5731,
+          "OBC_NCL_Gender_Neutral": 10912,
+          "OBC_NCL_Female": 17165,
+          "SC_Gender_Neutral": 8008,
+          "SC_Female": 9579,
+          "ST_Gender_Neutral": 3715,
+          "ST_Female": 4728,
+          "OPEN_PwD_Gender_Neutral": 1829,
+          "OPEN_PwD_Female": 1757,
+          "EWS_PwD_Gender_Neutral": 402,
+          "OBC_NCL_PwD_Gender_Neutral": 1740
+        }
+      }
+    },
+    {
+      "branch_name": "IT",
+      "average_ctc_lpa": 24.4,
+      "median_ctc_lpa": 19.2,
+      "placement_percentage": 93.15,
+      "core_subjects": [
+        "Information Systems",
+        "Data Communication",
+        "Rural Internship"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 23624,
+          "OPEN_Female": 33467,
+          "EWS_Gender_Neutral": 4255,
+          "EWS_Female": 6420,
+          "OBC_NCL_Gender_Neutral": 11316,
+          "OBC_NCL_Female": 16080,
+          "SC_Gender_Neutral": 8179,
+          "SC_Female": 6596,
+          "ST_Gender_Neutral": 3507,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": 2100,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 28979,
+          "OPEN_Female": 37482,
+          "EWS_Gender_Neutral": 4423,
+          "EWS_Female": 5824,
+          "OBC_NCL_Gender_Neutral": 12436,
+          "OBC_NCL_Female": 17864,
+          "SC_Gender_Neutral": 8802,
+          "SC_Female": 9994,
+          "ST_Gender_Neutral": 4204,
+          "ST_Female": 5301,
+          "OPEN_PwD_Gender_Neutral": 1853,
+          "OBC_NCL_PwD_Gender_Neutral": 1688
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket",
+    "Football",
+    "Volleyball",
+    "Basketball court",
+    "Tennis court",
+    "Athletics track",
+    "Table Tennis",
+    "Badminton",
+    "Chess",
+    "Carrom",
+    "Gymnasium"
+  ],
+  "student_clubs": [
+    "Coding Club (iiitv.__init__())",
+    "DCODR (Diu Coding Club)",
+    "DROID (Robotics)",
+    "VECTOR (Design)",
+    "ARGO (Gaming)",
+    "STOCKOPS (Finance)",
+    "Encore (Music)",
+    "Dance, Drama, and Art Clubs"
+  ],
+  "incubation_center_name": "Technology Innovation and Entrepreneurship Centre (TIEC)",
+  "notable_startups": [
+    "Runiverse",
+    "TailorPro",
+    "Dishant Pandya\u2019s Venture"
+  ]
+}

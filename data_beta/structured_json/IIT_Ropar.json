@@ -1,0 +1,343 @@
+{
+  "college_name": "Indian Institute of Technology Ropar",
+  "nirf_engineering_rank": 32,
+  "overall_average_ctc_lpa": 14.6,
+  "overall_median_ctc_lpa": 12.4,
+  "overall_placement_percentage": 77.36,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering",
+      "average_ctc_lpa": 23.6,
+      "median_ctc_lpa": 19.4,
+      "placement_percentage": 90.4,
+      "core_subjects": [
+        "Discrete Mathematical Structures",
+        "Data Structures",
+        "Computer Organization and Architecture",
+        "Operating Systems",
+        "Database Systems",
+        "Design and Analysis of Algorithms",
+        "Computer Networks"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 2379,
+          "OPEN_Female": 6044,
+          "EWS_Gender_Neutral": 291,
+          "EWS_Female": 1108,
+          "OBC_NCL_Gender_Neutral": 1084,
+          "OBC_NCL_Female": 2227,
+          "SC_Gender_Neutral": 548,
+          "SC_Female": 1641,
+          "ST_Gender_Neutral": 419,
+          "ST_Female": 773,
+          "OPEN_PwD_Gender_Neutral": 136,
+          "EWS_PwD_Gender_Neutral": "43P",
+          "OBC_NCL_PwD_Gender_Neutral": 63
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 2512,
+          "OPEN_Female": 7118,
+          "EWS_Gender_Neutral": 444,
+          "EWS_Female": 1128,
+          "OBC_NCL_Gender_Neutral": 1253,
+          "OBC_NCL_Female": 3550,
+          "SC_Gender_Neutral": 591,
+          "SC_Female": 1389,
+          "ST_Gender_Neutral": 352,
+          "ST_Female": 655,
+          "OPEN_PwD_Gender_Neutral": 136,
+          "EWS_PwD_Gender_Neutral": "29P",
+          "OBC_NCL_PwD_Gender_Neutral": "50P"
+        }
+      }
+    },
+    {
+      "branch_name": "Electrical Engineering",
+      "average_ctc_lpa": 20.0,
+      "median_ctc_lpa": 15.1,
+      "placement_percentage": 81.67,
+      "core_subjects": [
+        "Signals and Networks",
+        "Electrical Machines",
+        "Analog and Digital Electronics",
+        "Control Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 5528,
+          "OPEN_Female": 12038,
+          "EWS_Gender_Neutral": 925,
+          "EWS_Female": 2438,
+          "OBC_NCL_Gender_Neutral": 2590,
+          "OBC_NCL_Female": 6437,
+          "SC_Gender_Neutral": 1593,
+          "SC_Female": 2382,
+          "ST_Gender_Neutral": 764,
+          "ST_Female": 1427,
+          "OPEN_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 6311,
+          "OPEN_Female": 13817,
+          "EWS_Gender_Neutral": 1078,
+          "EWS_Female": 2279,
+          "OBC_NCL_Gender_Neutral": 2859,
+          "OBC_NCL_Female": 6627,
+          "SC_Gender_Neutral": 1709,
+          "SC_Female": 2271,
+          "ST_Gender_Neutral": 887,
+          "ST_Female": 1430,
+          "OPEN_PwD_Gender_Neutral": "166P"
+        }
+      }
+    },
+    {
+      "branch_name": "Mechanical Engineering",
+      "average_ctc_lpa": 19.0,
+      "median_ctc_lpa": 14.8,
+      "placement_percentage": 83.5,
+      "core_subjects": [
+        "Continuum Mechanics",
+        "Energy Science and Technology",
+        "Theory of Machines",
+        "Fluid Mechanics",
+        "Solid Mechanics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 8636,
+          "OPEN_Female": 17603,
+          "EWS_Gender_Neutral": 1494,
+          "EWS_Female": 3095,
+          "OBC_NCL_Gender_Neutral": 3810,
+          "OBC_NCL_Female": 8395,
+          "SC_Gender_Neutral": 2128,
+          "SC_Female": 3800,
+          "ST_Gender_Neutral": 935,
+          "ST_Female": "71P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 9115,
+          "OPEN_Female": 17810,
+          "EWS_Gender_Neutral": 1421,
+          "EWS_Female": 2756,
+          "OBC_NCL_Gender_Neutral": 3835,
+          "OBC_NCL_Female": 8380,
+          "SC_Gender_Neutral": 2239,
+          "SC_Female": 3597,
+          "ST_Gender_Neutral": 1104,
+          "ST_Female": 1595
+        }
+      }
+    },
+    {
+      "branch_name": "Mathematics & Computing",
+      "average_ctc_lpa": 12.1,
+      "median_ctc_lpa": 9.9,
+      "placement_percentage": 74.51,
+      "core_subjects": [
+        "Discrete Structures",
+        "Probability & Statistics",
+        "Real & Abstract Algebra",
+        "Numerical Methods",
+        "Optimization Techniques",
+        "Transform Calculus",
+        "PDE",
+        "Algorithms",
+        "Operating Systems",
+        "DBMS"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 3518,
+          "OPEN_Female": 9494,
+          "EWS_Gender_Neutral": 552,
+          "EWS_Female": 1912,
+          "OBC_NCL_Gender_Neutral": 1724,
+          "OBC_NCL_Female": 2514,
+          "SC_Gender_Neutral": 930,
+          "SC_Female": 1451,
+          "ST_Gender_Neutral": 620,
+          "ST_Female": 1316,
+          "OPEN_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 3954,
+          "OPEN_Female": 9670,
+          "EWS_Gender_Neutral": 658,
+          "EWS_Female": 1707,
+          "OBC_NCL_Gender_Neutral": 1983,
+          "OBC_NCL_Female": 4915,
+          "SC_Gender_Neutral": 1360,
+          "SC_Female": 1873,
+          "ST_Gender_Neutral": 783,
+          "ST_Female": 1001,
+          "OPEN_PwD_Gender_Neutral": "258P"
+        }
+      }
+    },
+    {
+      "branch_name": "Chemical Engineering",
+      "average_ctc_lpa": 15.0,
+      "median_ctc_lpa": 14.1,
+      "placement_percentage": 80.49,
+      "core_subjects": [
+        "Chemical Process Calculations",
+        "Momentum Transfer",
+        "Heat & Mass Transfer",
+        "Chemical Reaction Engineering",
+        "Thermodynamics",
+        "Process Dynamics & Control"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 10097,
+          "OPEN_Female": 15740,
+          "EWS_Gender_Neutral": 1631,
+          "EWS_Female": 2873,
+          "OBC_NCL_Gender_Neutral": 4203,
+          "OBC_NCL_Female": 8382,
+          "SC_Gender_Neutral": 2227,
+          "SC_Female": 3910,
+          "ST_Gender_Neutral": 1238,
+          "ST_Female": 1703
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 10655,
+          "OPEN_Female": 18788,
+          "EWS_Gender_Neutral": 1718,
+          "EWS_Female": 2933,
+          "OBC_NCL_Gender_Neutral": 3942,
+          "OBC_NCL_Female": 8452,
+          "SC_Gender_Neutral": 2537,
+          "SC_Female": 3335,
+          "ST_Gender_Neutral": 1241,
+          "ST_Female": 1774
+        }
+      }
+    },
+    {
+      "branch_name": "Civil Engineering",
+      "average_ctc_lpa": 16.0,
+      "median_ctc_lpa": 14.9,
+      "placement_percentage": 80.22,
+      "core_subjects": [
+        "Strength of Materials",
+        "Structural Analysis",
+        "Pipe and Open Channel Hydraulics",
+        "Soil Mechanics",
+        "Transportation Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 11365,
+          "OPEN_Female": 18966,
+          "EWS_Gender_Neutral": 1949,
+          "EWS_Female": 3714,
+          "OBC_NCL_Gender_Neutral": 4371,
+          "OBC_NCL_Female": 8904,
+          "SC_Gender_Neutral": 2419,
+          "SC_Female": 3778,
+          "ST_Gender_Neutral": 744,
+          "ST_Female": 1699
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 12488,
+          "OPEN_Female": 21733,
+          "EWS_Gender_Neutral": 1997,
+          "EWS_Female": 3185,
+          "OBC_NCL_Gender_Neutral": 4439,
+          "OBC_NCL_Female": 8750,
+          "SC_Gender_Neutral": 2437,
+          "SC_Female": 3600,
+          "ST_Gender_Neutral": 1040,
+          "ST_Female": 1232
+        }
+      }
+    },
+    {
+      "branch_name": "Metallurgical & Materials",
+      "average_ctc_lpa": 13.1,
+      "median_ctc_lpa": 10.1,
+      "placement_percentage": 80.0,
+      "core_subjects": [
+        "Principles of Physical Metallurgy",
+        "Thermodynamics of Materials",
+        "Phase Transformations",
+        "Transport Phenomena in Materials",
+        "Extractive Metallurgy"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 13009,
+          "OPEN_Female": 21582,
+          "EWS_Gender_Neutral": 2208,
+          "EWS_Female": null,
+          "OBC_NCL_Gender_Neutral": 4968,
+          "OBC_NCL_Female": 9018,
+          "SC_Gender_Neutral": 2662,
+          "SC_Female": 4385,
+          "ST_Gender_Neutral": 1366,
+          "ST_Female": "936P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 13777,
+          "OPEN_Female": 23034,
+          "EWS_Gender_Neutral": 2050,
+          "EWS_Female": 3810,
+          "OBC_NCL_Gender_Neutral": 5192,
+          "OBC_NCL_Female": 9123,
+          "SC_Gender_Neutral": 2945,
+          "SC_Female": null,
+          "ST_Gender_Neutral": 1352,
+          "ST_Female": 1880
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket ground",
+    "Football field",
+    "Hockey field",
+    "Athletics track",
+    "Clay Tennis courts",
+    "Volleyball courts",
+    "Basketball courts",
+    "Badminton courts",
+    "Table Tennis",
+    "Chess facilities",
+    "Central Gymnasium"
+  ],
+  "student_clubs": [
+    "D-cypher (Dance)",
+    "Alankar (Music)",
+    "Undekha (Dramatics)",
+    "Arturo (Photography)",
+    "Vibgyor (Fine Arts)",
+    "Epicure (Cooking)",
+    "Coding Club",
+    "SoftCom",
+    "Aeromodelling Club",
+    "Zenith (Astronomy)",
+    "FinCOM (Finance)",
+    "E-Cell",
+    "Debsoc (Debating)",
+    "Enigma (Quizzing)",
+    "Alfaaz (Poetry)",
+    "Fitness Club",
+    "ODAC (Outdoor Adventure Club)",
+    "Girl Up Club",
+    "Electoral Club"
+  ],
+  "incubation_center_name": "Technology Business Incubator Foundation (TBIF), iHub AWaDH, and the student-run Entrepreneurship Cell (E-Cell)",
+  "notable_startups": [
+    "Optimized Electrotech",
+    "RC Hobbytech",
+    "Evigway Technologies",
+    "Easecruit",
+    "Vanix Technologies",
+    "Nanokriti",
+    "Greedy Game"
+  ]
+}

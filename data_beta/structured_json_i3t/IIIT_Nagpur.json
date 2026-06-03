@@ -1,0 +1,267 @@
+{
+  "college_name": "Indian Institute of Information Technology (IIIT), Nagpur",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 14.6,
+  "overall_median_ctc_lpa": 11.6,
+  "overall_placement_percentage": 77.4,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 24.3,
+      "median_ctc_lpa": 19.1,
+      "placement_percentage": 100.0,
+      "core_subjects": [
+        "Data Structures",
+        "Design & Analysis of Algorithms",
+        "Operating Systems",
+        "Database Management Systems (DBMS)",
+        "Computer Networks",
+        "Software Engineering",
+        "Theory of Computation",
+        "Compiler Design",
+        "Computer System Organization",
+        "Microprocessors",
+        "Discrete Mathematics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 27356,
+          "EWS_Gender_Neutral": 5189,
+          "OBC_NCL_Gender_Neutral": 11755,
+          "SC_Gender_Neutral": 8228,
+          "ST_Gender_Neutral": 3711,
+          "OPEN_PwD_Gender_Neutral": 914,
+          "EWS_PwD_Gender_Neutral": 165,
+          "OBC_NCL_PwD_Gender_Neutral": 620,
+          "SC_PwD_Gender_Neutral": 211,
+          "ST_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 29123,
+          "EWS_Gender_Neutral": 4785,
+          "OBC_NCL_Gender_Neutral": 11280,
+          "SC_Gender_Neutral": 7431,
+          "ST_Gender_Neutral": 3785,
+          "OPEN_PwD_Gender_Neutral": 871,
+          "EWS_PwD_Gender_Neutral": 283,
+          "OBC_NCL_PwD_Gender_Neutral": 666,
+          "SC_PwD_Gender_Neutral": 146,
+          "ST_PwD_Gender_Neutral": 60
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics & Communication Engineering (ECE)",
+      "average_ctc_lpa": 14.19,
+      "median_ctc_lpa": 14.4,
+      "placement_percentage": 97.0,
+      "core_subjects": [
+        "Electronic Devices and Circuits",
+        "Network Theory",
+        "Digital System Design",
+        "Signals and Systems",
+        "Analog Communication",
+        "Digital Communication",
+        "Control Systems",
+        "Electromagnetics",
+        "Antennas and Wave Propagation",
+        "Microprocessors & Microcontrollers",
+        "VLSI Design",
+        "Embedded Systems"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 37530,
+          "EWS_Gender_Neutral": 6658,
+          "OBC_NCL_Gender_Neutral": 15792,
+          "SC_Gender_Neutral": 9718,
+          "ST_Gender_Neutral": 4706,
+          "OPEN_PwD_Gender_Neutral": 2341,
+          "EWS_PwD_Gender_Neutral": 383,
+          "OBC_NCL_PwD_Gender_Neutral": 1808
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 40844,
+          "EWS_Gender_Neutral": 6167,
+          "OBC_NCL_Gender_Neutral": 15838,
+          "SC_Gender_Neutral": 9364,
+          "ST_Gender_Neutral": 4956,
+          "OPEN_PwD_Gender_Neutral": 1720,
+          "EWS_PwD_Gender_Neutral": 324,
+          "OBC_NCL_PwD_Gender_Neutral": 1458
+        }
+      }
+    },
+    {
+      "branch_name": "CSE (AI & Machine Learning)",
+      "average_ctc_lpa": 23.2,
+      "median_ctc_lpa": 19.3,
+      "placement_percentage": 89.19,
+      "core_subjects": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "NLP",
+        "Computer Vision",
+        "Reinforcement Learning",
+        "Conversational AI"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 27105,
+          "EWS_Gender_Neutral": 4984,
+          "OBC_NCL_Gender_Neutral": 11474,
+          "SC_Gender_Neutral": 7396,
+          "ST_Gender_Neutral": 3381,
+          "OPEN_PwD_Gender_Neutral": 986,
+          "OBC_NCL_PwD_Gender_Neutral": 510
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 27752,
+          "EWS_Gender_Neutral": 4245,
+          "OBC_NCL_Gender_Neutral": 10539,
+          "SC_Gender_Neutral": 7344,
+          "ST_Gender_Neutral": 3361,
+          "OPEN_PwD_Gender_Neutral": 778,
+          "OBC_NCL_PwD_Gender_Neutral": 673
+        }
+      }
+    },
+    {
+      "branch_name": "CSE (Data Science & Analytics)",
+      "average_ctc_lpa": 23.8,
+      "median_ctc_lpa": 19.4,
+      "placement_percentage": 91.03,
+      "core_subjects": [
+        "Big Data Analytics",
+        "Data Mining",
+        "Statistical Modeling",
+        "Data Visualization",
+        "Predictive Analytics",
+        "Business Intelligence"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 28763,
+          "EWS_Gender_Neutral": 5560,
+          "OBC_NCL_Gender_Neutral": 12500,
+          "SC_Gender_Neutral": 8418,
+          "ST_Gender_Neutral": 3395,
+          "OPEN_PwD_Gender_Neutral": 1008,
+          "OBC_NCL_PwD_Gender_Neutral": 741
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 30477,
+          "EWS_Gender_Neutral": 4841,
+          "OBC_NCL_Gender_Neutral": 11835,
+          "SC_Gender_Neutral": 7973,
+          "ST_Gender_Neutral": 3831,
+          "OPEN_PwD_Gender_Neutral": 932,
+          "OBC_NCL_PwD_Gender_Neutral": 679
+        }
+      }
+    },
+    {
+      "branch_name": "CSE (Human-Computer Interaction & Gaming Technology)",
+      "average_ctc_lpa": 23.9,
+      "median_ctc_lpa": 20.1,
+      "placement_percentage": 91.5,
+      "core_subjects": [
+        "Game Design and Prototyping",
+        "Deep Learning for Games",
+        "Computer Animation and Simulation",
+        "Interaction Design",
+        "Information Visualization"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 30403,
+          "EWS_Gender_Neutral": 5672,
+          "OBC_NCL_Gender_Neutral": 13132,
+          "SC_Gender_Neutral": 8541,
+          "ST_Gender_Neutral": 4174,
+          "OPEN_PwD_Gender_Neutral": 1070,
+          "OBC_NCL_PwD_Gender_Neutral": 987
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 33893,
+          "EWS_Gender_Neutral": 5043,
+          "OBC_NCL_Gender_Neutral": 13249,
+          "SC_Gender_Neutral": 8020,
+          "ST_Gender_Neutral": 4255,
+          "OPEN_PwD_Gender_Neutral": 1155,
+          "OBC_NCL_PwD_Gender_Neutral": 610
+        }
+      }
+    },
+    {
+      "branch_name": "ECE (Internet of Things)",
+      "average_ctc_lpa": 17.7,
+      "median_ctc_lpa": 14.0,
+      "placement_percentage": 83.03,
+      "core_subjects": [
+        "Introduction to IoT",
+        "Sensors and Transducers",
+        "Modelling for IoT",
+        "Industrial IoT",
+        "Wireless Sensor Networks",
+        "Cloud Computing for IoT"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 35608,
+          "EWS_Gender_Neutral": 6585,
+          "OBC_NCL_Gender_Neutral": 15472,
+          "SC_Gender_Neutral": 9588,
+          "ST_Gender_Neutral": 4628,
+          "OPEN_PwD_Gender_Neutral": 1558,
+          "OBC_NCL_PwD_Gender_Neutral": 1607
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 39245,
+          "EWS_Gender_Neutral": 6304,
+          "OBC_NCL_Gender_Neutral": 15778,
+          "SC_Gender_Neutral": 9507,
+          "ST_Gender_Neutral": 4712,
+          "OPEN_PwD_Gender_Neutral": 2209,
+          "OBC_NCL_PwD_Gender_Neutral": 1046
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Football Ground",
+    "400m Athletic Track",
+    "Volleyball Courts",
+    "Basketball Courts",
+    "Badminton Courts",
+    "Kabaddi Courts",
+    "Table Tennis",
+    "Carrom",
+    "Chess",
+    "Foosball",
+    "Indoor Gymnasium",
+    "Open Gym"
+  ],
+  "student_clubs": [
+    "DotSlash",
+    "GDSC",
+    "IOTics",
+    "CRISPR",
+    "Ack-Z",
+    "Elevate",
+    "Crescendo",
+    "D-Taraxia",
+    "Estoria",
+    "Abhivyakti",
+    "Probe",
+    "Orator/7C Club"
+  ],
+  "incubation_center_name": "Technology Innovation and Incubation Center (TIIC)",
+  "notable_startups": [
+    "Flash Theory",
+    "BabyVerse",
+    "Techwalnut Innovations LLP",
+    "Alabso Circle Pvt Ltd"
+  ]
+}

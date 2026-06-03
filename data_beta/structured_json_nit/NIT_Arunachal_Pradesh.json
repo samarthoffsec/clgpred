@@ -1,0 +1,298 @@
+{
+  "college_name": "NIT Arunachal Pradesh",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 7.37,
+  "overall_median_ctc_lpa": 8.1,
+  "overall_placement_percentage": 73.0,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 16.7,
+      "median_ctc_lpa": 13.3,
+      "placement_percentage": 89.3,
+      "core_subjects": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming (OOP)",
+        "Digital Logic Design",
+        "Discrete Mathematics",
+        "Operating Systems",
+        "Computer Networks",
+        "Database Management Systems (DBMS)",
+        "Theory of Computation",
+        "Compiler Design",
+        "Software Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_OPEN_Gender_Neutral": 71299,
+          "HS_EWS_Gender_Neutral": 11663,
+          "HS_OBC_NCL_Gender_Neutral": 35104,
+          "HS_SC_Gender_Neutral": null,
+          "HS_ST_Gender_Neutral": 8735,
+          "HS_ST_Female": 20835,
+          "OS_OPEN_Gender_Neutral": 28514,
+          "OS_OPEN_Female": 40714,
+          "OS_EWS_Gender_Neutral": 4986,
+          "OS_OBC_NCL_Gender_Neutral": 11122,
+          "OS_OBC_NCL_Female": 17556,
+          "OS_SC_Gender_Neutral": 4890,
+          "OS_ST_Gender_Neutral": 1794,
+          "OS_OPEN_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "HS_OPEN_Gender_Neutral": 78084,
+          "HS_EWS_Gender_Neutral": null,
+          "HS_OBC_NCL_Gender_Neutral": 35124,
+          "HS_SC_Gender_Neutral": 26592,
+          "HS_ST_Gender_Neutral": 18929,
+          "HS_ST_Female": 16693,
+          "OS_OPEN_Gender_Neutral": 30607,
+          "OS_OPEN_Female": 47354,
+          "OS_EWS_Gender_Neutral": 4648,
+          "OS_OBC_NCL_Gender_Neutral": 9908,
+          "OS_OBC_NCL_Female": 17870,
+          "OS_SC_Gender_Neutral": 4755,
+          "OS_ST_Gender_Neutral": 1942,
+          "OS_OPEN_PwD_Gender_Neutral": 882
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics & Communication (ECE)",
+      "average_ctc_lpa": 12.9,
+      "median_ctc_lpa": 10.6,
+      "placement_percentage": 82.03,
+      "core_subjects": [
+        "Electronic Devices and Circuits (EDC)",
+        "Digital Logic Design",
+        "Signals and Systems",
+        "Microprocessors and Microcontrollers",
+        "Analog & Digital Communication",
+        "VLSI Design",
+        "Control Systems",
+        "Digital Signal Processing (DSP)",
+        "Electromagnetic Theory"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_OPEN_Gender_Neutral": 73439,
+          "HS_EWS_Gender_Neutral": 24212,
+          "HS_OBC_NCL_Gender_Neutral": 59209,
+          "HS_SC_Gender_Neutral": 29426,
+          "HS_ST_Gender_Neutral": 27924,
+          "HS_ST_Female": 26671,
+          "OS_OPEN_Gender_Neutral": 40722,
+          "OS_OPEN_Female": 43507,
+          "OS_EWS_Gender_Neutral": 6914,
+          "OS_OBC_NCL_Gender_Neutral": 12655,
+          "OS_OBC_NCL_Female": 20251,
+          "OS_SC_Gender_Neutral": 5980,
+          "OS_SC_Female": null,
+          "OS_ST_Gender_Neutral": 2196,
+          "OS_OPEN_PwD_Gender_Neutral": 1963,
+          "OS_OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "HS_OPEN_Gender_Neutral": 115892,
+          "HS_EWS_Gender_Neutral": null,
+          "HS_OBC_NCL_Gender_Neutral": 40279,
+          "HS_SC_Gender_Neutral": 9495,
+          "HS_ST_Gender_Neutral": 34172,
+          "HS_ST_Female": 14153,
+          "OS_OPEN_Gender_Neutral": 41523,
+          "OS_OPEN_Female": 56639,
+          "OS_EWS_Gender_Neutral": 5850,
+          "OS_OBC_NCL_Gender_Neutral": 12571,
+          "OS_OBC_NCL_Female": 19949,
+          "OS_SC_Gender_Neutral": 6758,
+          "OS_SC_Female": 8980,
+          "OS_ST_Gender_Neutral": 2737,
+          "OS_OPEN_PwD_Gender_Neutral": null,
+          "OS_OBC_NCL_PwD_Gender_Neutral": 1196
+        }
+      }
+    },
+    {
+      "branch_name": "Electrical Engineering (EE)",
+      "average_ctc_lpa": 13.3,
+      "median_ctc_lpa": 10.2,
+      "placement_percentage": 83.46,
+      "core_subjects": [
+        "Electric Circuit Theory",
+        "Electrical Machines (I & II)",
+        "Power Systems (I & II)",
+        "Power Electronics",
+        "Control Systems",
+        "Electrical Measurements & Instrumentation",
+        "Microprocessors & Microcontrollers",
+        "Switchgear and Protection"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_OPEN_Gender_Neutral": 182035,
+          "HS_EWS_Gender_Neutral": 45740,
+          "HS_OBC_NCL_Gender_Neutral": 96720,
+          "HS_SC_Gender_Neutral": null,
+          "HS_ST_Gender_Neutral": 12717,
+          "HS_ST_Female": 17190,
+          "OS_OPEN_Gender_Neutral": 45212,
+          "OS_OPEN_Female": 50543,
+          "OS_EWS_Gender_Neutral": 7662,
+          "OS_EWS_Female": 9036,
+          "OS_OBC_NCL_Gender_Neutral": 14504,
+          "OS_OBC_NCL_Female": null,
+          "OS_SC_Gender_Neutral": 7062,
+          "OS_SC_Female": null,
+          "OS_ST_Gender_Neutral": 2588,
+          "OS_OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "HS_OPEN_Gender_Neutral": 170231,
+          "HS_EWS_Gender_Neutral": null,
+          "HS_OBC_NCL_Gender_Neutral": 68145,
+          "HS_SC_Gender_Neutral": 122723,
+          "HS_ST_Gender_Neutral": 26012,
+          "HS_ST_Female": 22863,
+          "OS_OPEN_Gender_Neutral": 47047,
+          "OS_OPEN_Female": 63171,
+          "OS_EWS_Gender_Neutral": 7190,
+          "OS_EWS_Female": null,
+          "OS_OBC_NCL_Gender_Neutral": 14893,
+          "OS_OBC_NCL_Female": 23444,
+          "OS_SC_Gender_Neutral": 8042,
+          "OS_SC_Female": 10328,
+          "OS_ST_Gender_Neutral": 2900,
+          "OS_OBC_NCL_PwD_Gender_Neutral": 1269
+        }
+      }
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 12.1,
+      "median_ctc_lpa": 10.6,
+      "placement_percentage": 79.54,
+      "core_subjects": [
+        "Engineering Mechanics",
+        "Thermododynamics (Basic & Applied)",
+        "Theory of Machines",
+        "Fluid Mechanics (I & II)",
+        "Manufacturing Process",
+        "Material Science",
+        "Mechanics of Solids",
+        "Heat Transfer",
+        "Machine Design",
+        "Turbomachinery"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_OPEN_Gender_Neutral": 156476,
+          "HS_OBC_NCL_Gender_Neutral": 105947,
+          "HS_SC_Gender_Neutral": 44024,
+          "HS_ST_Gender_Neutral": 35049,
+          "HS_ST_Female": 19495,
+          "OS_OPEN_Gender_Neutral": 50666,
+          "OS_OPEN_Female": 64642,
+          "OS_EWS_Gender_Neutral": 8525,
+          "OS_OBC_NCL_Gender_Neutral": 16754,
+          "OS_OBC_NCL_Female": 23261,
+          "OS_SC_Gender_Neutral": 8019,
+          "OS_SC_Female": null,
+          "OS_ST_Gender_Neutral": null,
+          "OS_ST_Female": 4308,
+          "OS_OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "HS_OPEN_Gender_Neutral": 201715,
+          "HS_OBC_NCL_Gender_Neutral": 156599,
+          "HS_SC_Gender_Neutral": 97830,
+          "HS_ST_Gender_Neutral": 15636,
+          "HS_ST_Female": null,
+          "OS_OPEN_Gender_Neutral": 50560,
+          "OS_OPEN_Female": 57769,
+          "OS_EWS_Gender_Neutral": 7550,
+          "OS_OBC_NCL_Gender_Neutral": 16768,
+          "OS_OBC_NCL_Female": 25018,
+          "OS_SC_Gender_Neutral": 8274,
+          "OS_SC_Female": 11216,
+          "OS_ST_Gender_Neutral": 3054,
+          "OS_ST_Female": null,
+          "OS_OBC_NCL_PwD_Gender_Neutral": 1521
+        }
+      }
+    },
+    {
+      "branch_name": "Civil Engineering (CE)",
+      "average_ctc_lpa": 13.3,
+      "median_ctc_lpa": 10.7,
+      "placement_percentage": 83.5,
+      "core_subjects": [
+        "Strength of Materials",
+        "Fluid Mechanics",
+        "Surveying & Geomatics",
+        "Building Materials & Construction",
+        "Structural Analysis",
+        "Design of RCC Structures",
+        "Geotechnical Engineering",
+        "Transportation Engineering",
+        "Environmental Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_OPEN_Gender_Neutral": 189756,
+          "HS_OBC_NCL_Gender_Neutral": 172311,
+          "HS_SC_Gender_Neutral": 93275,
+          "HS_ST_Gender_Neutral": 6345,
+          "HS_ST_Female": 9273,
+          "OS_OPEN_Gender_Neutral": 55692,
+          "OS_OPEN_Female": 65179,
+          "OS_EWS_Gender_Neutral": 9112,
+          "OS_OBC_NCL_Gender_Neutral": 18279,
+          "OS_OBC_NCL_Female": 24201,
+          "OS_SC_Gender_Neutral": 8598,
+          "OS_ST_Gender_Neutral": 2694,
+          "OS_OBC_NCL_PwD_Gender_Neutral": 1738
+        },
+        "2025": {
+          "HS_OPEN_Gender_Neutral": 174477,
+          "HS_OBC_NCL_Gender_Neutral": 121430,
+          "HS_SC_Gender_Neutral": 41887,
+          "HS_ST_Gender_Neutral": 7690,
+          "HS_ST_Female": 5648,
+          "OS_OPEN_Gender_Neutral": 58464,
+          "OS_OPEN_Female": 73295,
+          "OS_EWS_Gender_Neutral": 8766,
+          "OS_OBC_NCL_Gender_Neutral": 19096,
+          "OS_OBC_NCL_Female": 25742,
+          "OS_SC_Gender_Neutral": 8810,
+          "OS_ST_Gender_Neutral": 3040,
+          "OS_OBC_NCL_PwD_Gender_Neutral": null
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket Ground (with net practice)",
+    "Football Ground",
+    "Volleyball Courts",
+    "Badminton Courts (Indoor and Open)",
+    "Table Tennis facilities"
+  ],
+  "student_clubs": [
+    "NSCC NIT AP (Newton School Coding Club)",
+    "Coding Pundits",
+    "EESS (Electrical)",
+    "MESS (Mechanical)",
+    "ECESS (Electronics)",
+    "CESS (Civil)",
+    "Photography Club",
+    "Music Club",
+    "Dance Club",
+    "Literary Club",
+    "Fine Arts & Painting Club"
+  ],
+  "incubation_center_name": "Prakousol (Startup Cell & Innovation Centre)",
+  "notable_startups": [
+    "Motion-Based Mobile Charger",
+    "Research-driven projects in OLED efficiency and semiconductor alloys"
+  ]
+}
