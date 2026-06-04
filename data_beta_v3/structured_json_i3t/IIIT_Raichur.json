@@ -1,0 +1,177 @@
+{
+  "college_name": "Indian Institute of Information Technology Raichur",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 17.75,
+  "overall_median_ctc_lpa": 15.09,
+  "overall_placement_percentage": 68.8,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": 18.0,
+      "median_ctc_lpa": 14.0,
+      "placement_percentage": 68.8,
+      "core_subjects": [
+        "Data Structures",
+        "Design and Analysis of Algorithms",
+        "Operating Systems",
+        "Computer Networks",
+        "Database Management Systems (DBMS)",
+        "Theory of Computation",
+        "Software Engineering",
+        "Computer Architecture"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 34282,
+          "OPEN_Female": 38721,
+          "EWS_Gender_Neutral": 5934,
+          "EWS_Female": 6273,
+          "OBC_NCL_Gender_Neutral": 14422,
+          "OBC_NCL_Female": 15948,
+          "SC_Gender_Neutral": 9130,
+          "SC_Female": 8823,
+          "ST_Gender_Neutral": 3696,
+          "ST_Female": 2997,
+          "OPEN_PwD_Gender_Neutral": 1090,
+          "EWS_PwD_Gender_Neutral": 230,
+          "OBC_NCL_PwD_Gender_Neutral": 506,
+          "SC_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 36760,
+          "OPEN_Female": 47023,
+          "EWS_Gender_Neutral": 5815,
+          "EWS_Female": 7416,
+          "OBC_NCL_Gender_Neutral": 15073,
+          "OBC_NCL_Female": 19794,
+          "SC_Gender_Neutral": 8468,
+          "SC_Female": 9393,
+          "ST_Gender_Neutral": 3779,
+          "ST_Female": 3828,
+          "OPEN_PwD_Gender_Neutral": 1218,
+          "EWS_PwD_Gender_Neutral": 189,
+          "OBC_NCL_PwD_Gender_Neutral": 692,
+          "SC_PwD_Gender_Neutral": 144
+        }
+      }
+    },
+    {
+      "branch_name": "Artificial Intelligence and Data Science (AI & DS)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 94.35,
+      "core_subjects": [
+        "Foundations of Data Science",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science Tools",
+        "Artificial Intelligence",
+        "Big Data Analytics",
+        "Natural Language Processing (NLP)",
+        "Data Analytics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 37788,
+          "OPEN_Female": 42319,
+          "EWS_Gender_Neutral": 6747,
+          "EWS_Female": 7471,
+          "OBC_NCL_Gender_Neutral": 15884,
+          "OBC_NCL_Female": 17427,
+          "SC_Gender_Neutral": 9414,
+          "SC_Female": 6902,
+          "ST_Gender_Neutral": 3896,
+          "ST_Female": 3727,
+          "OPEN_PwD_Gender_Neutral": 1738,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": 1388,
+          "SC_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 41577,
+          "OPEN_Female": 50993,
+          "EWS_Gender_Neutral": 6072,
+          "EWS_Female": 7908,
+          "OBC_NCL_Gender_Neutral": 16215,
+          "OBC_NCL_Female": 20637,
+          "SC_Gender_Neutral": 9615,
+          "SC_Female": 9464,
+          "ST_Gender_Neutral": 4156,
+          "ST_Female": 3748,
+          "OPEN_PwD_Gender_Neutral": 945,
+          "EWS_PwD_Gender_Neutral": 239,
+          "OBC_NCL_PwD_Gender_Neutral": 568,
+          "SC_PwD_Gender_Neutral": 188
+        }
+      }
+    },
+    {
+      "branch_name": "Mathematics and Computing (MnC)",
+      "average_ctc_lpa": 17.5,
+      "median_ctc_lpa": 16.5,
+      "placement_percentage": 88.25,
+      "core_subjects": [
+        "Group and Ring Theory",
+        "Real Analysis and Metric Spaces",
+        "Number Theory",
+        "Linear Algebra",
+        "Probability and Random Processes",
+        "Cryptography and its Applications",
+        "Computational Sciences"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 39100,
+          "OPEN_Female": 41131,
+          "EWS_Gender_Neutral": 6986,
+          "EWS_Female": 7666,
+          "OBC_NCL_Gender_Neutral": 16256,
+          "OBC_NCL_Female": 18537,
+          "SC_Gender_Neutral": 10071,
+          "SC_Female": 11471,
+          "ST_Gender_Neutral": 4460,
+          "ST_Female": 4854,
+          "OPEN_PwD_Gender_Neutral": 1431,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 43476,
+          "OPEN_Female": 51561,
+          "EWS_Gender_Neutral": 6761,
+          "EWS_Female": 7456,
+          "OBC_NCL_Gender_Neutral": 16955,
+          "OBC_NCL_Female": 20714,
+          "SC_Gender_Neutral": 10240,
+          "SC_Female": 11196,
+          "ST_Gender_Neutral": 4836,
+          "ST_Female": 4766,
+          "OPEN_PwD_Gender_Neutral": 2601,
+          "OBC_NCL_PwD_Gender_Neutral": 1504
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Central Playground (Cricket and Football)",
+    "State-of-the-art Basketball Court",
+    "Volleyball and Badminton Courts",
+    "Indoor Sports: Table Tennis, Carrom, Chess",
+    "Modern Gymnasium"
+  ],
+  "student_clubs": [
+    "Codesoc",
+    "Electrogeeks",
+    "Xposure",
+    "Finesse & Finspiration",
+    "Aurora",
+    "DevX & Deep Labs"
+  ],
+  "incubation_center_name": "Entrepreneurship Development Cell (EDC) / E-Cell",
+  "notable_startups": [
+    "ATEU Software",
+    "Dhatri Solutions",
+    "Lunch Box",
+    "Energy Management Platform",
+    "Portable Baby Incubator"
+  ]
+}

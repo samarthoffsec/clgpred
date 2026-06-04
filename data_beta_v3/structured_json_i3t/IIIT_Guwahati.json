@@ -1,0 +1,160 @@
+{
+  "college_name": "Indian Institute of Information Technology Guwahati",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 14.88,
+  "overall_median_ctc_lpa": 13.65,
+  "overall_placement_percentage": 58.23,
+  "branches": [
+    {
+      "branch_name": "CSE",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 62.6,
+      "core_subjects": [
+        "Computer Programming",
+        "Digital Design",
+        "Electrical Circuit Analysis",
+        "Data Structures",
+        "Computer Organization",
+        "Algorithms",
+        "Operating Systems",
+        "Database Management Systems (DBMS)",
+        "Theory of Computation",
+        "Computer Networks",
+        "Software Engineering",
+        "Compilers",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Engineering Mathematics I & II",
+        "Discrete Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 20821,
+          "OPEN_Female": 30584,
+          "EWS_Gender_Neutral": 3551,
+          "EWS_Female": 5385,
+          "OBC_NCL_Gender_Neutral": 8445,
+          "OBC_NCL_Female": 13481,
+          "SC_Gender_Neutral": 5209,
+          "SC_Female": 6963,
+          "ST_Gender_Neutral": 2701,
+          "ST_Female": 3264,
+          "OPEN_PwD_Gender_Neutral": 1082,
+          "OPEN_PwD_Female": 2453,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": 1399,
+          "SC_PwD_Gender_Neutral": 141
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 22739,
+          "OPEN_Female": 34504,
+          "EWS_Gender_Neutral": 3649,
+          "EWS_Female": 5796,
+          "OBC_NCL_Gender_Neutral": 8583,
+          "OBC_NCL_Female": 15656,
+          "SC_Gender_Neutral": 5708,
+          "SC_Female": 7758,
+          "ST_Gender_Neutral": 2799,
+          "ST_Female": 3514,
+          "OPEN_PwD_Gender_Neutral": 1671,
+          "OPEN_PwD_Female": 1100,
+          "EWS_PwD_Gender_Neutral": 371,
+          "OBC_NCL_PwD_Gender_Neutral": 863,
+          "SC_PwD_Gender_Neutral": null
+        }
+      }
+    },
+    {
+      "branch_name": "ECE",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 42.86,
+      "core_subjects": [
+        "Digital Design",
+        "Electrical Circuit Analysis",
+        "Basic Electronic Circuits",
+        "Computer Organization and Architecture",
+        "Signals and Systems",
+        "Analog Circuits",
+        "Digital Communication",
+        "Electromagnetic Theory",
+        "Microprocessors and Microcontrollers",
+        "VLSI Design",
+        "Digital Signal Processing (DSP)",
+        "Control Systems",
+        "Embedded Systems"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 30437,
+          "OPEN_Female": 38176,
+          "EWS_Gender_Neutral": 5528,
+          "EWS_Female": 6177,
+          "OBC_NCL_Gender_Neutral": 13518,
+          "OBC_NCL_Female": 17942,
+          "SC_Gender_Neutral": 7079,
+          "SC_Female": 8445,
+          "ST_Gender_Neutral": 3531,
+          "ST_Female": 3982,
+          "OPEN_PwD_Gender_Neutral": 2723,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 30554,
+          "OPEN_Female": 39532,
+          "EWS_Gender_Neutral": 5553,
+          "EWS_Female": 6311,
+          "OBC_NCL_Gender_Neutral": 12316,
+          "OBC_NCL_Female": 19633,
+          "SC_Gender_Neutral": 7858,
+          "SC_Female": 9003,
+          "ST_Gender_Neutral": 3313,
+          "ST_Female": 4295,
+          "OPEN_PwD_Gender_Neutral": 2042,
+          "OBC_NCL_PwD_Gender_Neutral": 1120
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket Ground",
+    "Football Ground",
+    "Volleyball Court",
+    "Kabaddi Court",
+    "Badminton Courts",
+    "Table Tennis",
+    "Carrom",
+    "Chess",
+    "Foosball",
+    "Dedicated Gymnasium",
+    "Open Gym"
+  ],
+  "student_clubs": [
+    "Programming Club",
+    "Mavericks (Machine Learning)",
+    "Technocrats (Blockchain/IoT/Cybersecurity)",
+    "GDSC (Google Developer Student Club)",
+    "Robotics Club",
+    "Tarang (Music)",
+    "D-Dazzlers (Dance)",
+    "Afsaane (Drama)",
+    "Kalrav (Literary)",
+    "Overbooked (Reading)",
+    "Alankrit (Fine Arts)",
+    "Portraiture (Photography)",
+    "Prashnatantra (Quiz)",
+    "Bios Skopien (Movie)",
+    "Eco and Outreach Club",
+    "Health Club",
+    "Girls\u2019 Empowerment Group"
+  ],
+  "incubation_center_name": "Innovation & Entrepreneurship Cell (I&E Cell) / Technology Business Incubator (TBI)",
+  "notable_startups": [
+    "Intelligent Water Sprinkler and Soil Monitoring System",
+    "PMIS (Particulate Matter Immaculate System)"
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "college_name": "Indian Institute of Information Technology (IIIT) Bhagalpur",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 12.0,
+  "overall_median_ctc_lpa": 11.0,
+  "overall_placement_percentage": 78.73,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 11.17,
+      "median_ctc_lpa": 9.0,
+      "placement_percentage": 85.0,
+      "core_subjects": [
+        "Engineering Mathematics I & II",
+        "Engineering Physics",
+        "Computer Programming",
+        "Data Structures and Algorithms",
+        "Digital Design",
+        "Semiconductor Devices and Circuits",
+        "Engineering Mechanics",
+        "Object-Oriented Programming",
+        "Computer Organization & Architecture",
+        "Design and Analysis of Algorithms",
+        "Operating Systems",
+        "Database Management Systems (DBMS)",
+        "Theory of Computation",
+        "Compiler Design",
+        "Computer Networks",
+        "Machine Learning"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 39481,
+          "OPEN_Female": 41440,
+          "EWS_Gender_Neutral": 6738,
+          "EWS_Female": 7698,
+          "OBC_NCL_Gender_Neutral": 15743,
+          "OBC_NCL_Female": 17805,
+          "SC_Gender_Neutral": 9116,
+          "SC_Female": 9129,
+          "ST_Gender_Neutral": 4956,
+          "ST_Female": 4662,
+          "OPEN_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 44476,
+          "OPEN_Female": 45324,
+          "EWS_Gender_Neutral": 6832,
+          "EWS_Female": 7770,
+          "OBC_NCL_Gender_Neutral": 16641,
+          "OBC_NCL_Female": 20349,
+          "SC_Gender_Neutral": 10415,
+          "SC_Female": 10424,
+          "ST_Gender_Neutral": 5187,
+          "ST_Female": 5503,
+          "OPEN_PwD_Gender_Neutral": 2488,
+          "OBC_NCL_PwD_Gender_Neutral": 1666
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics & Communication Engineering (ECE)",
+      "average_ctc_lpa": 7.16,
+      "median_ctc_lpa": 7.5,
+      "placement_percentage": 80.0,
+      "core_subjects": [
+        "Engineering Mathematics I & II",
+        "Engineering Physics",
+        "Computer Programming",
+        "Data Structures and Algorithms",
+        "Digital Design",
+        "Semiconductor Devices and Circuits",
+        "Engineering Mechanics",
+        "Network Analysis & Synthesis",
+        "Signals and Systems",
+        "Analog Electronics",
+        "Microprocessors & Microcontrollers",
+        "Electromagnetic Field Theory",
+        "Digital Communication",
+        "Control Systems",
+        "VLSI Design",
+        "Microwave Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 42488,
+          "OPEN_Female": 43392,
+          "EWS_Gender_Neutral": 7193,
+          "EWS_Female": 8638,
+          "OBC_NCL_Gender_Neutral": 17203,
+          "OBC_NCL_Female": 16492,
+          "SC_Gender_Neutral": 10168,
+          "SC_Female": 11219,
+          "ST_Gender_Neutral": 5101,
+          "ST_Female": 5089,
+          "OPEN_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 47785,
+          "OPEN_Female": 52923,
+          "EWS_Gender_Neutral": 7054,
+          "EWS_Female": 8576,
+          "OBC_NCL_Gender_Neutral": 17559,
+          "OBC_NCL_Female": 20681,
+          "SC_Gender_Neutral": 10670,
+          "SC_Female": 10964,
+          "ST_Gender_Neutral": 5213,
+          "ST_Female": 5518,
+          "OPEN_PwD_Gender_Neutral": 3228
+        }
+      }
+    },
+    {
+      "branch_name": "Mechatronics & Automation Engineering (MEA)",
+      "average_ctc_lpa": 4.62,
+      "median_ctc_lpa": 5.5,
+      "placement_percentage": 75.0,
+      "core_subjects": [
+        "Engineering Mathematics I & II",
+        "Engineering Physics",
+        "Computer Programming",
+        "Data Structures and Algorithms",
+        "Digital Design",
+        "Semiconductor Devices and Circuits",
+        "Engineering Mechanics",
+        "Solid Mechanics",
+        "Thermodynamics",
+        "Electrical Machines",
+        "Robotics & Automation",
+        "Sensors & Actuators",
+        "Control Systems",
+        "CAD/CAM",
+        "PLC Programming",
+        "Fluid Mechanics & Machinery",
+        "Mechatronics System Design"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 47663,
+          "OPEN_Female": 48683,
+          "EWS_Gender_Neutral": 7926,
+          "EWS_Female": 8329,
+          "OBC_NCL_Gender_Neutral": 18110,
+          "OBC_NCL_Female": 21609,
+          "SC_Gender_Neutral": 10529,
+          "SC_Female": 11213,
+          "ST_Gender_Neutral": 5194
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 53156,
+          "OPEN_Female": 53176,
+          "EWS_Gender_Neutral": 7939,
+          "EWS_Female": 9497,
+          "OBC_NCL_Gender_Neutral": 18946,
+          "OBC_NCL_Female": 24814,
+          "SC_Gender_Neutral": 10903,
+          "SC_Female": 12488,
+          "ST_Gender_Neutral": 5560
+        }
+      }
+    },
+    {
+      "branch_name": "Mathematics and Computing (MAC)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 90.4,
+      "core_subjects": [
+        "Engineering Mathematics I & II",
+        "Engineering Physics",
+        "Computer Programming",
+        "Data Structures and Algorithms",
+        "Digital Design",
+        "Semiconductor Devices and Circuits",
+        "Engineering Mechanics",
+        "Advanced Linear Algebra",
+        "Probability & Statistics",
+        "Discrete Mathematics",
+        "Numerical Computing",
+        "Optimization Techniques",
+        "Cryptography",
+        "Artificial Intelligence",
+        "Deep Learning",
+        "Mathematical Finance"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 39975,
+          "EWS_Gender_Neutral": 6423,
+          "EWS_Female": 7770,
+          "OBC_NCL_Gender_Neutral": 16801,
+          "OBC_NCL_Female": 18225,
+          "SC_Gender_Neutral": 10243,
+          "ST_Gender_Neutral": 5028,
+          "ST_Female": 5003,
+          "OPEN_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 45422,
+          "EWS_Gender_Neutral": 6661,
+          "EWS_Female": 8146,
+          "OBC_NCL_Gender_Neutral": 17295,
+          "OBC_NCL_Female": 21145,
+          "SC_Gender_Neutral": 10586,
+          "ST_Gender_Neutral": 5397,
+          "ST_Female": 5608,
+          "OPEN_PwD_Gender_Neutral": 3028
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket Ground",
+    "Football Ground",
+    "Volleyball Court",
+    "Basketball Court",
+    "Badminton Court",
+    "Table Tennis",
+    "Common Activity Centre (CAC)",
+    "Dedicated Gym/Fitness Club"
+  ],
+  "student_clubs": [
+    "AI/ML Club",
+    "CODAME (Coding Club)",
+    "Kratigence (Robotics Club)",
+    "Web Development Club",
+    "GDSC (Google Developer Student Club)",
+    "Flash (Dramatics)",
+    "Reflection (Photography)",
+    "Jigyasa (Quiz)",
+    "Cinemara (Movie/Cinema)",
+    "Literature Club",
+    "Dance and Music clubs",
+    "Unnati (Student-run NGO)",
+    "NSS (National Service Scheme)"
+  ],
+  "incubation_center_name": "Technology Business Incubator (TBI)",
+  "notable_startups": null
+}
