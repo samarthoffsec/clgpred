@@ -1,0 +1,195 @@
+{
+  "college_name": "Indian Institute of Information Technology (IIIT) Allahabad",
+  "nirf_engineering_rank": 87,
+  "overall_average_ctc_lpa": 20.83,
+  "overall_median_ctc_lpa": 18.0,
+  "overall_placement_percentage": 78.33,
+  "branches": [
+    {
+      "branch_name": "B.Tech Information Technology (IT)",
+      "average_ctc_lpa": 22.5,
+      "median_ctc_lpa": 18.0,
+      "placement_percentage": 96.58,
+      "core_subjects": [
+        "Discrete Mathematical Structures",
+        "Data Structures (DST)",
+        "Computer Organization & Architecture (COA)",
+        "Operating Systems (OPS)",
+        "Theory of Computation (TOC)",
+        "Design and Analysis of Algorithms (DAA)",
+        "Computer Networks (CNE)",
+        "Database Management Systems (DBMS)",
+        "Software Engineering (SOE)",
+        "Cyber Security",
+        "Machine Learning (IML)",
+        "Artificial Intelligence (AI)"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 5202,
+          "OPEN_Female": 9457,
+          "EWS_Gender_Neutral": 986,
+          "EWS_Female": 1801,
+          "OBC_NCL_Gender_Neutral": 2509,
+          "OBC_NCL_Female": 5104,
+          "SC_Gender_Neutral": 1562,
+          "SC_Female": 3003,
+          "ST_Gender_Neutral": 888,
+          "ST_Female": 1879,
+          "OPEN_PwD_Gender_Neutral": 284,
+          "OPEN_PwD_Female": 1011,
+          "EWS_PwD_Gender_Neutral": 52,
+          "OBC_NCL_PwD_Gender_Neutral": 261,
+          "OBC_NCL_PwD_Female": 502,
+          "SC_PwD_Gender_Neutral": 44
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 6094,
+          "OPEN_Female": 11465,
+          "EWS_Gender_Neutral": 941,
+          "EWS_Female": 1845,
+          "OBC_NCL_Gender_Neutral": 2531,
+          "OBC_NCL_Female": 5444,
+          "SC_Gender_Neutral": 1738,
+          "SC_Female": 2999,
+          "ST_Gender_Neutral": 904,
+          "ST_Female": 1186,
+          "OPEN_PwD_Gender_Neutral": 255,
+          "OPEN_PwD_Female": 339,
+          "EWS_PwD_Gender_Neutral": 56,
+          "OBC_NCL_PwD_Gender_Neutral": 210,
+          "OBC_NCL_PwD_Female": 234,
+          "SC_PwD_Gender_Neutral": 50
+        }
+      }
+    },
+    {
+      "branch_name": "B.Tech IT - Business Informatics (IT-BI)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 100.0,
+      "core_subjects": [
+        "Business Process Modeling (BPM)",
+        "Foundations of FinTech",
+        "E-Business & Digital Transformation",
+        "Economics",
+        "Principles of Management",
+        "Data Structures",
+        "Operating Systems",
+        "Computer Networks"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 5392,
+          "OPEN_Female": 9754,
+          "EWS_Gender_Neutral": 994,
+          "EWS_Female": 2009,
+          "OBC_NCL_Gender_Neutral": 2639,
+          "OBC_NCL_Female": 5423,
+          "SC_Gender_Neutral": 1695,
+          "SC_Female": 836,
+          "ST_Gender_Neutral": 952,
+          "ST_Female": 1893,
+          "OPEN_PwD_Gender_Neutral": 280,
+          "OBC_NCL_PwD_Gender_Neutral": 278
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 6150,
+          "OPEN_Female": 11681,
+          "EWS_Gender_Neutral": 952,
+          "EWS_Female": 1938,
+          "OBC_NCL_Gender_Neutral": 2541,
+          "OBC_NCL_Female": 5695,
+          "SC_Gender_Neutral": 1741,
+          "SC_Female": 2359,
+          "ST_Gender_Neutral": 609,
+          "ST_Female": 1699,
+          "OPEN_PwD_Gender_Neutral": 210,
+          "OBC_NCL_PwD_Gender_Neutral": 198
+        }
+      }
+    },
+    {
+      "branch_name": "B.Tech Electronics and Communication (ECE)",
+      "average_ctc_lpa": 16.0,
+      "median_ctc_lpa": 14.0,
+      "placement_percentage": 98.14,
+      "core_subjects": [
+        "Digital System Design (DSD)",
+        "Electronic Devices and Circuits (EDC)",
+        "Electromagnetic Field and Waves (EFW)",
+        "Analog Communication",
+        "Analog Electronics",
+        "Microprocessor Interface and Programming (MIP)",
+        "Digital IC Design",
+        "Integrated Circuit Technology (ICT)",
+        "VLSI Design",
+        "Wireless Communication",
+        "Digital Signal Processing (DSP)"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 7758,
+          "OPEN_Female": 14319,
+          "EWS_Gender_Neutral": 1376,
+          "EWS_Female": 2348,
+          "OBC_NCL_Gender_Neutral": 3558,
+          "OBC_NCL_Female": 7281,
+          "SC_Gender_Neutral": 2402,
+          "SC_Female": 4416,
+          "ST_Gender_Neutral": 1310,
+          "ST_Female": 2784,
+          "OPEN_PwD_Gender_Neutral": 344,
+          "OPEN_PwD_Female": 487,
+          "EWS_PwD_Gender_Neutral": 92,
+          "OBC_NCL_PwD_Gender_Neutral": 193,
+          "SC_PwD_Gender_Neutral": 88
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 8050,
+          "OPEN_Female": 15247,
+          "EWS_Gender_Neutral": 1194,
+          "EWS_Female": 2625,
+          "OBC_NCL_Gender_Neutral": 3537,
+          "OBC_NCL_Female": 8273,
+          "SC_Gender_Neutral": 2205,
+          "SC_Female": 3637,
+          "ST_Gender_Neutral": 1142,
+          "ST_Female": 2378,
+          "OPEN_PwD_Gender_Neutral": 524,
+          "OPEN_PwD_Female": 576,
+          "EWS_PwD_Gender_Neutral": 80,
+          "OBC_NCL_PwD_Gender_Neutral": 288,
+          "SC_PwD_Gender_Neutral": 91
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Olympic-size Swimming Pool",
+    "Athletic Track",
+    "Outdoor Courts",
+    "Fields",
+    "Indoor Facilities",
+    "Gymnasium"
+  ],
+  "student_clubs": [
+    "GeekHaven",
+    "Spirit",
+    "Virtuosi",
+    "Ushma",
+    "RangTarangini",
+    "Sarasva",
+    "Thunderbolt",
+    "Management Club"
+  ],
+  "incubation_center_name": "Innovation & Incubation Foundation (IIF-IIITA)",
+  "notable_startups": [
+    "NCode Sutram",
+    "Beatoven.ai",
+    "Trishulopulsion Technology",
+    "Sern Prosthetics",
+    "Wott Technologies",
+    "OneCode"
+  ]
+}

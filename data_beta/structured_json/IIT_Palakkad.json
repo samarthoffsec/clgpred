@@ -1,0 +1,290 @@
+{
+  "college_name": "IIT Palakkad",
+  "nirf_engineering_rank": 64,
+  "overall_average_ctc_lpa": 13.48,
+  "overall_median_ctc_lpa": 11.0,
+  "overall_placement_percentage": 74.15,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 18.69,
+      "median_ctc_lpa": 14.5,
+      "placement_percentage": 93.02,
+      "core_subjects": [
+        "Discrete Mathematics",
+        "Foundations of Computing Systems",
+        "Systems Programming",
+        "Data Structures and Algorithms",
+        "Artificial Intelligence",
+        "Design and Analysis of Algorithms",
+        "Theory of Computation",
+        "Computer Architecture",
+        "Operating Systems",
+        "Compiler Design"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 6199,
+          "OPEN_Female": 9127,
+          "EWS_Gender_Neutral": 819,
+          "EWS_Female": 1841,
+          "OBC_NCL_Gender_Neutral": 2069,
+          "OBC_NCL_Female": 3962,
+          "SC_Gender_Neutral": 1097,
+          "SC_Female": 1821,
+          "ST_Gender_Neutral": 564,
+          "ST_Female": 834,
+          "OPEN_PwD_Gender_Neutral": null,
+          "OPEN_PwD_Female": "371P",
+          "OBC_NCL_PwD_Gender_Neutral": "41P",
+          "OBC_NCL_PwD_Female": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 6454,
+          "OPEN_Female": 8965,
+          "EWS_Gender_Neutral": 792,
+          "EWS_Female": 1626,
+          "OBC_NCL_Gender_Neutral": 2379,
+          "OBC_NCL_Female": 3301,
+          "SC_Gender_Neutral": 1182,
+          "SC_Female": 1183,
+          "ST_Gender_Neutral": 498,
+          "ST_Female": 707,
+          "OPEN_PwD_Gender_Neutral": 160,
+          "OPEN_PwD_Female": null,
+          "OBC_NCL_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Female": "34P"
+        }
+      }
+    },
+    {
+      "branch_name": "Electrical Engineering (EE)",
+      "average_ctc_lpa": 12.7,
+      "median_ctc_lpa": 11.0,
+      "placement_percentage": 69.44,
+      "core_subjects": [
+        "Digital Systems",
+        "Electrical and Magnetic Circuits",
+        "Signals and Systems",
+        "Solid State Devices",
+        "Engineering Electromagnetics",
+        "Control Engineering",
+        "Analog Circuits",
+        "Microprocessor Systems Design",
+        "Digital Signal Processing",
+        "Principles of Communication",
+        "Electrical Machines",
+        "Measurements and Instrumentation",
+        "Power Systems"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 9625,
+          "OPEN_Female": 15014,
+          "EWS_Gender_Neutral": 1498,
+          "EWS_Female": 2247,
+          "OBC_NCL_Gender_Neutral": 3764,
+          "OBC_NCL_Female": 7181,
+          "SC_Gender_Neutral": 2040,
+          "SC_Female": 2488,
+          "ST_Gender_Neutral": 965,
+          "ST_Female": 1552
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 10396,
+          "OPEN_Female": 18585,
+          "EWS_Gender_Neutral": 1536,
+          "EWS_Female": 2966,
+          "OBC_NCL_Gender_Neutral": 3719,
+          "OBC_NCL_Female": 6637,
+          "SC_Gender_Neutral": 2108,
+          "SC_Female": 2814,
+          "ST_Gender_Neutral": 1099,
+          "ST_Female": 1419
+        }
+      }
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 10.33,
+      "median_ctc_lpa": 9.0,
+      "placement_percentage": 80.0,
+      "core_subjects": [
+        "Engineering Thermodynamics",
+        "Foundations of Fluid Mechanics",
+        "Manufacturing Processes",
+        "Solid Mechanics",
+        "Kinematics & Dynamics of Machines",
+        "Mechanical Engineering Design",
+        "Energy Systems",
+        "Heat and Mass Transfer",
+        "Machine Learning for Mechanical Engineering",
+        "Industrial Automation and Smart Manufacturing"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 12540,
+          "OPEN_Female": 21578,
+          "EWS_Gender_Neutral": 1897,
+          "EWS_Female": 3701,
+          "OBC_NCL_Gender_Neutral": 4625,
+          "OBC_NCL_Female": 8130,
+          "SC_Gender_Neutral": 2440,
+          "SC_Female": 3546,
+          "ST_Gender_Neutral": 1187,
+          "ST_Female": 1786
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 12606,
+          "OPEN_Female": 21192,
+          "EWS_Gender_Neutral": 1981,
+          "EWS_Female": 3499,
+          "OBC_NCL_Gender_Neutral": 4475,
+          "OBC_NCL_Female": 8517,
+          "SC_Gender_Neutral": 2714,
+          "SC_Female": 3187,
+          "ST_Gender_Neutral": 1148,
+          "ST_Female": 1611
+        }
+      }
+    },
+    {
+      "branch_name": "Civil Engineering (CE)",
+      "average_ctc_lpa": 10.44,
+      "median_ctc_lpa": 10.0,
+      "placement_percentage": 84.21,
+      "core_subjects": [
+        "Fluid Mechanics",
+        "Strength of Materials",
+        "Geotechnical Engineering",
+        "Concrete Technology",
+        "Environmental Engineering",
+        "Computer-Aided Design",
+        "Hydraulics Machinery",
+        "Irrigation and Hydraulics",
+        "Water Resources Engineering",
+        "Transportation Engineering",
+        "Structural Analysis"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 15812,
+          "OPEN_Female": 23384,
+          "EWS_Gender_Neutral": 2408,
+          "EWS_Female": 4351,
+          "OBC_NCL_Gender_Neutral": 5565,
+          "OBC_NCL_Female": 9281,
+          "SC_Gender_Neutral": 2845,
+          "SC_Female": 4304,
+          "ST_Gender_Neutral": 1153,
+          "ST_Female": "275P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 16753,
+          "OPEN_Female": 26004,
+          "EWS_Gender_Neutral": 2519,
+          "EWS_Female": 4120,
+          "OBC_NCL_Gender_Neutral": 5841,
+          "OBC_NCL_Female": 9084,
+          "SC_Gender_Neutral": 3024,
+          "SC_Female": 3808,
+          "ST_Gender_Neutral": 1172,
+          "ST_Female": 1182
+        }
+      }
+    },
+    {
+      "branch_name": "Data Science and Engineering (DSE)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 93.61,
+      "core_subjects": [
+        "Introduction to Data Science and Engineering",
+        "Discrete Mathematics",
+        "Introduction to Optimization",
+        "Data Structures and Algorithms for Data Science",
+        "Computer Systems for Data Science",
+        "Artificial Intelligence",
+        "Database Systems",
+        "Data Analytics",
+        "Machine Learning",
+        "Deep Learning",
+        "AI Ethics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 8084,
+          "OPEN_Female": 13283,
+          "EWS_Gender_Neutral": 1176,
+          "EWS_Female": 2033,
+          "OBC_NCL_Gender_Neutral": 2788,
+          "OBC_NCL_Female": 5639,
+          "SC_Gender_Neutral": 1602,
+          "SC_Female": 2742,
+          "ST_Gender_Neutral": 722,
+          "ST_Female": 1275,
+          "OPEN_PwD_Gender_Neutral": "214P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 8640,
+          "OPEN_Female": 12097,
+          "EWS_Gender_Neutral": 1175,
+          "EWS_Female": 1937,
+          "OBC_NCL_Gender_Neutral": 3120,
+          "OBC_NCL_Female": 4821,
+          "SC_Gender_Neutral": 1691,
+          "SC_Female": 2442,
+          "ST_Gender_Neutral": 612,
+          "ST_Female": 870,
+          "OPEN_PwD_Gender_Neutral": null
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "400m standard athletic track",
+    "Football field",
+    "Cricket ground",
+    "Basketball courts",
+    "Volleyball courts",
+    "Indoor Badminton courts",
+    "Table Tennis",
+    "Chess",
+    "Gymnasiums"
+  ],
+  "student_clubs": [
+    "Akshar (Literary)",
+    "Sync To Beat (Dance)",
+    "Vadya (Music)",
+    "Curtain Call (Dramatics)",
+    "Shutterbug (Photography)",
+    "Bioscope (Filmmaking)",
+    "Grafica (Arts & Design)",
+    "Qriosity (Quiz)",
+    "EBSB Club",
+    "SPIC MACAY chapter",
+    "Coding Club",
+    "Robotics Club",
+    "Data Analytics Club (DAC)",
+    "Automotive Club",
+    "Finance Club",
+    "Yogshala (Yoga)"
+  ],
+  "incubation_center_name": "Technology Innovation Foundation of IIT Palakkad (TECHIN)",
+  "notable_startups": [
+    "Nirgandh",
+    "Vivifica Sustainable Solutions",
+    "CLUIX",
+    "VertoX Labs",
+    "S4sensing",
+    "Innovati Med Solution",
+    "Motohyb Cleanerg",
+    "Infinityx Innovations",
+    "Revin Techno Solutions",
+    "Bumblebee Instruments",
+    "Dromolys Research and Development",
+    "PritviChakr Innovations",
+    "Rehumus Technology",
+    "WAVELECT Pvt. Ltd."
+  ]
+}

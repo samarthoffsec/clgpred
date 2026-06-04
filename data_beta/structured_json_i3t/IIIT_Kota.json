@@ -1,0 +1,199 @@
+{
+  "college_name": "IIIT Kota",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 10.42,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": 75.93,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": 11.7,
+      "median_ctc_lpa": null,
+      "placement_percentage": 77.06,
+      "core_subjects": [
+        "Computer Architecture and Organization",
+        "Operating Systems (OS)",
+        "Computer Networks",
+        "Database Management Systems (DBMS)",
+        "Object-Oriented System Design (OOSD)",
+        "Software Engineering",
+        "Design and Analysis of Algorithms (DAA)",
+        "Theory of Computation (ToC)",
+        "Discrete Mathematics",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Information Security"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 24416,
+          "OPEN_Female": 34423,
+          "EWS_Gender_Neutral": 4630,
+          "EWS_Female": 6604,
+          "OBC_NCL_Gender_Neutral": 10658,
+          "OBC_NCL_Female": 14625,
+          "SC_Gender_Neutral": 7363,
+          "SC_Female": 8483,
+          "ST_Gender_Neutral": 3475,
+          "ST_Female": 3832,
+          "OPEN_PwD_Gender_Neutral": 1619,
+          "OPEN_PwD_Female": 2035,
+          "EWS_PwD_Gender_Neutral": 229,
+          "OBC_NCL_PwD_Gender_Neutral": 1525,
+          "OBC_NCL_PwD_Female": null,
+          "SC_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 27400,
+          "OPEN_Female": 35627,
+          "EWS_Gender_Neutral": 4471,
+          "EWS_Female": 6025,
+          "OBC_NCL_Gender_Neutral": 11048,
+          "OBC_NCL_Female": 17287,
+          "SC_Gender_Neutral": 7467,
+          "SC_Female": 9288,
+          "ST_Gender_Neutral": 3310,
+          "ST_Female": 4944,
+          "OPEN_PwD_Gender_Neutral": 1470,
+          "OPEN_PwD_Female": 1997,
+          "EWS_PwD_Gender_Neutral": 339,
+          "OBC_NCL_PwD_Gender_Neutral": 1201,
+          "OBC_NCL_PwD_Female": 922,
+          "SC_PwD_Gender_Neutral": 205
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics and Communication Engineering (ECE)",
+      "average_ctc_lpa": 8.86,
+      "median_ctc_lpa": null,
+      "placement_percentage": 73.58,
+      "core_subjects": [
+        "Analog Integrated Circuits",
+        "VLSI System Design",
+        "Microprocessors and Peripherals",
+        "Microcontrollers and Interfacing",
+        "Signals and Systems",
+        "Digital Signal Processing (DSP)",
+        "Control Systems",
+        "Analog Communication",
+        "Digital Communication",
+        "Communication Theory",
+        "Antenna and Propagation",
+        "Electromagnetic Theory",
+        "RF and Microwave Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 34167,
+          "OPEN_Female": 36589,
+          "EWS_Gender_Neutral": 6098,
+          "EWS_Female": 6833,
+          "OBC_NCL_Gender_Neutral": 14779,
+          "OBC_NCL_Female": 18565,
+          "SC_Gender_Neutral": 8653,
+          "SC_Female": 10738,
+          "ST_Gender_Neutral": 3604,
+          "ST_Female": 4075,
+          "OPEN_PwD_Gender_Neutral": 295,
+          "OBC_NCL_PwD_Gender_Neutral": 1891
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 36737,
+          "OPEN_Female": 43142,
+          "EWS_Gender_Neutral": 5736,
+          "EWS_Female": 6736,
+          "OBC_NCL_Gender_Neutral": 14163,
+          "OBC_NCL_Female": 20084,
+          "SC_Gender_Neutral": 8201,
+          "SC_Female": 10359,
+          "ST_Gender_Neutral": 3698,
+          "ST_Female": 3642,
+          "OPEN_PwD_Gender_Neutral": 2383,
+          "OBC_NCL_PwD_Gender_Neutral": 1499
+        }
+      }
+    },
+    {
+      "branch_name": "Artificial Intelligence & Data Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 93.42,
+      "core_subjects": [
+        "Discrete Mathematics",
+        "Probability and Statistics",
+        "Machine Learning (ML)",
+        "Neural Networks and Deep Learning",
+        "Natural Language Processing (NLP)",
+        "Foundations of Data Engineering",
+        "Big Data Analytics",
+        "Data Mining",
+        "Software Engineering & MLOps"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 27124,
+          "OPEN_Female": 34478,
+          "EWS_Gender_Neutral": 4855,
+          "EWS_Female": 6523,
+          "OBC_NCL_Gender_Neutral": 11440,
+          "OBC_NCL_Female": 15390,
+          "SC_Gender_Neutral": 7643,
+          "SC_Female": 10142,
+          "ST_Gender_Neutral": 3559,
+          "ST_Female": 4802,
+          "OPEN_PwD_Gender_Neutral": 2185,
+          "OBC_NCL_PwD_Gender_Neutral": 1715
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 30212,
+          "OPEN_Female": 37654,
+          "EWS_Gender_Neutral": 4763,
+          "EWS_Female": 6337,
+          "OBC_NCL_Gender_Neutral": 12083,
+          "OBC_NCL_Female": 17723,
+          "SC_Gender_Neutral": 7914,
+          "SC_Female": 9178,
+          "ST_Gender_Neutral": 3744,
+          "ST_Female": 4149,
+          "OPEN_PwD_Gender_Neutral": 1984,
+          "OBC_NCL_PwD_Gender_Neutral": 1138
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket Ground",
+    "Football Ground",
+    "Basketball Court",
+    "Volleyball Court",
+    "Tennis Court",
+    "Kabaddi Ground",
+    "Badminton",
+    "Table Tennis",
+    "Chess",
+    "Carrom",
+    "Gymnasium"
+  ],
+  "student_clubs": [
+    "Algorithmus",
+    "ARC Robotics",
+    "CodeBase",
+    "CYPH3R",
+    "GDG (Google Developer Groups)",
+    "GFG (GeeksforGeeks)",
+    "IIIT Kernel",
+    "Incognito",
+    "Odyssey",
+    "NEON Cinematics",
+    "Artive",
+    "Fit India Club",
+    "Team Green Campus",
+    "Paryavaran Shakti",
+    "Q\u2019n\u2019S"
+  ],
+  "incubation_center_name": "Innovation and Entrepreneurship Development Cell (IEDC) / New Generation Innovation and Entrepreneurship Development Centre (NewGen IEDC)",
+  "notable_startups": [
+    "Team Twix"
+  ]
+}

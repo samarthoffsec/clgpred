@@ -1,0 +1,286 @@
+{
+  "college_name": "NIT Nagaland",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 5.38,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": 61.54,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": 6.08,
+      "median_ctc_lpa": null,
+      "placement_percentage": 83.67,
+      "core_subjects": [
+        "Data Science",
+        "Data Structures & Algorithms",
+        "Discrete Mathematics",
+        "Operating Systems",
+        "Computer Organization & Architecture",
+        "DBMS",
+        "Theory of Computation",
+        "Computer Networks",
+        "Software Engineering",
+        "AI",
+        "Compiler Design"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_ST_Gender_Neutral": 10791,
+          "HS_ST_Female": 12883,
+          "OS_OPEN_Gender_Neutral": 31391,
+          "OS_OPEN_Female": 38249,
+          "OS_EWS_Gender_Neutral": 5233,
+          "OS_OBC_NCL_Gender_Neutral": 10561,
+          "OS_OBC_NCL_Female": null,
+          "OS_SC_Gender_Neutral": 5063,
+          "OS_OPEN_PwD_Female": 1770,
+          "OS_EWS_PwD_Gender_Neutral": 465,
+          "OS_OBC_NCL_PwD_Female": 1748,
+          "OS_SC_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "HS_ST_Gender_Neutral": 11799,
+          "HS_ST_Female": 15006,
+          "OS_OPEN_Gender_Neutral": 39594,
+          "OS_OPEN_Female": 52051,
+          "OS_EWS_Gender_Neutral": 5753,
+          "OS_OBC_NCL_Gender_Neutral": 12177,
+          "OS_OBC_NCL_Female": 18885,
+          "OS_SC_Gender_Neutral": 5503,
+          "OS_OPEN_PwD_Female": 2394,
+          "OS_EWS_PwD_Gender_Neutral": 276,
+          "OS_OBC_NCL_PwD_Female": null,
+          "OS_SC_PwD_Gender_Neutral": 209
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics and Communication Engineering (ECE)",
+      "average_ctc_lpa": 5.25,
+      "median_ctc_lpa": null,
+      "placement_percentage": 80.75,
+      "core_subjects": [
+        "Semiconductor Devices",
+        "Network Theory",
+        "Digital Logic Design",
+        "Signals and Systems",
+        "Analog Electronic Circuits",
+        "Electromagnetic Fields and Waves",
+        "Microprocessors",
+        "Analog & Digital Communication",
+        "Control Systems",
+        "VLSI Design"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_ST_Gender_Neutral": 29330,
+          "HS_ST_Female": 13947,
+          "OS_OPEN_Gender_Neutral": 42889,
+          "OS_OPEN_Female": 51406,
+          "OS_EWS_Gender_Neutral": 7052,
+          "OS_OBC_NCL_Gender_Neutral": 13259,
+          "OS_OBC_NCL_Female": 17431,
+          "OS_SC_Gender_Neutral": 6439
+        },
+        "2025": {
+          "HS_ST_Gender_Neutral": 17916,
+          "HS_ST_Female": 32515,
+          "OS_OPEN_Gender_Neutral": 44158,
+          "OS_OPEN_Female": 55159,
+          "OS_EWS_Gender_Neutral": 6927,
+          "OS_OBC_NCL_Gender_Neutral": 13901,
+          "OS_OBC_NCL_Female": 22404,
+          "OS_SC_Gender_Neutral": 7691
+        }
+      }
+    },
+    {
+      "branch_name": "Electrical and Electronics Engineering (EEE)",
+      "average_ctc_lpa": 5.25,
+      "median_ctc_lpa": null,
+      "placement_percentage": 82.37,
+      "core_subjects": [
+        "Fundamentals of Electrical Engineering",
+        "Electric Circuits",
+        "Electrical Machines (I & II)",
+        "Power Systems (Generation, Transmission, Distribution)",
+        "Control Systems",
+        "Power Electronics",
+        "Electrical Measurements",
+        "Power System Analysis"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_ST_Gender_Neutral": 21638,
+          "HS_ST_Female": 20361,
+          "OS_OPEN_Gender_Neutral": 47335,
+          "OS_OPEN_Female": 54153,
+          "OS_EWS_Gender_Neutral": 7966,
+          "OS_OBC_NCL_Gender_Neutral": 15609,
+          "OS_OBC_NCL_Female": 19496,
+          "OS_SC_Gender_Neutral": 6738,
+          "OS_SC_Female": 9576,
+          "OS_OPEN_PwD_Gender_Neutral": 3249
+        },
+        "2025": {
+          "HS_ST_Gender_Neutral": 15444,
+          "HS_ST_Female": 13693,
+          "OS_OPEN_Gender_Neutral": 50145,
+          "OS_OPEN_Female": 59372,
+          "OS_EWS_Gender_Neutral": 7266,
+          "OS_OBC_NCL_Gender_Neutral": 16006,
+          "OS_OBC_NCL_Female": 23704,
+          "OS_SC_Gender_Neutral": 8071,
+          "OS_SC_Female": 10222,
+          "OS_OPEN_PwD_Gender_Neutral": null
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics and Instrumentation Engineering (EIE)",
+      "average_ctc_lpa": 5.74,
+      "median_ctc_lpa": null,
+      "placement_percentage": 79.31,
+      "core_subjects": [
+        "Measurement, Sensors and Transducers",
+        "Industrial Instrumentation",
+        "Process Control",
+        "Analytical Instrumentation",
+        "Biomedical Instrumentation",
+        "Signal Conditioning Circuits",
+        "Industrial Automation (PLC, SCADA, DCS)"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_ST_Gender_Neutral": 32284,
+          "HS_ST_Female": 13872,
+          "OS_OPEN_Gender_Neutral": 47676,
+          "OS_OPEN_Female": 55653,
+          "OS_EWS_Gender_Neutral": 8393,
+          "OS_OBC_NCL_Gender_Neutral": 16457,
+          "OS_OBC_NCL_Female": 20988,
+          "OS_SC_Gender_Neutral": 8353,
+          "OS_SC_Female": null,
+          "OS_OPEN_PwD_Gender_Neutral": 3597
+        },
+        "2025": {
+          "HS_ST_Gender_Neutral": 27950,
+          "HS_ST_Female": null,
+          "OS_OPEN_Gender_Neutral": 53110,
+          "OS_OPEN_Female": 69562,
+          "OS_EWS_Gender_Neutral": 7925,
+          "OS_OBC_NCL_Gender_Neutral": 16313,
+          "OS_OBC_NCL_Female": 26498,
+          "OS_SC_Gender_Neutral": 8352,
+          "OS_SC_Female": 11623,
+          "OS_OPEN_PwD_Gender_Neutral": 4118
+        }
+      }
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 4.56,
+      "median_ctc_lpa": null,
+      "placement_percentage": 82.77,
+      "core_subjects": [
+        "Engineering Thermodynamics",
+        "Strength of Materials",
+        "Theory of Machines",
+        "Manufacturing Processes",
+        "Heat and Mass Transfer",
+        "Fluid Machinery",
+        "Machine Design",
+        "Dynamics of Machinery",
+        "IC Engines"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_ST_Gender_Neutral": 19275,
+          "HS_ST_Female": 25400,
+          "OS_OPEN_Gender_Neutral": 51973,
+          "OS_OPEN_Female": 68738,
+          "OS_EWS_Gender_Neutral": 8968,
+          "OS_OBC_NCL_Gender_Neutral": 17683,
+          "OS_OBC_NCL_Female": 24205,
+          "OS_SC_Gender_Neutral": 7715
+        },
+        "2025": {
+          "HS_ST_Gender_Neutral": 18715,
+          "HS_ST_Female": 23735,
+          "OS_OPEN_Gender_Neutral": 56813,
+          "OS_OPEN_Female": 75126,
+          "OS_EWS_Gender_Neutral": 8209,
+          "OS_OBC_NCL_Gender_Neutral": 18276,
+          "OS_OBC_NCL_Female": 24582,
+          "OS_SC_Gender_Neutral": 9063
+        }
+      }
+    },
+    {
+      "branch_name": "Civil Engineering (CE)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 82.52,
+      "core_subjects": [
+        "Building Materials and Construction",
+        "Mechanics of Solids",
+        "Fluid Mechanics",
+        "Surveying",
+        "Structural Analysis",
+        "Geotechnical Engineering",
+        "Concrete Technology",
+        "Transportation Engineering",
+        "Environmental Engineering",
+        "Design of Steel/RC Structures"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "HS_ST_Gender_Neutral": 11973,
+          "HS_ST_Female": 7255,
+          "OS_OPEN_Gender_Neutral": 57171,
+          "OS_OPEN_Female": 68939,
+          "OS_EWS_Gender_Neutral": 9480,
+          "OS_EWS_Female": null,
+          "OS_OBC_NCL_Gender_Neutral": 18671,
+          "OS_OBC_NCL_Female": 24688,
+          "OS_SC_Gender_Neutral": 8804,
+          "OS_SC_Female": 11364
+        },
+        "2025": {
+          "HS_ST_Gender_Neutral": 10162,
+          "HS_ST_Female": 5451,
+          "OS_OPEN_Gender_Neutral": 60689,
+          "OS_OPEN_Female": 73722,
+          "OS_EWS_Gender_Neutral": 8748,
+          "OS_EWS_Female": 11032,
+          "OS_OBC_NCL_Gender_Neutral": 19441,
+          "OS_OBC_NCL_Female": 26759,
+          "OS_SC_Gender_Neutral": 9642,
+          "OS_SC_Female": 11674
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Athletic Track",
+    "Outdoor Courts/Grounds",
+    "Indoor Stadium",
+    "Gymnasium"
+  ],
+  "student_clubs": [
+    "Gymkhana/Student Council",
+    "Coding Club",
+    "NSS (National Service Scheme)",
+    "Music Club",
+    "Dance Club",
+    "Drama Club",
+    "Literature Society"
+  ],
+  "incubation_center_name": "Institution\u2019s Innovation Council (IIC) and TEXMiN CPS - Centre of Excellence (Mining CPS CoE)",
+  "notable_startups": [
+    "Naga Feather",
+    "Ura Agritech",
+    "Nexuscipherguard India",
+    "Tsongyam Innovations"
+  ]
+}
