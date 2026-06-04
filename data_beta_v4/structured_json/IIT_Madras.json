@@ -1,0 +1,563 @@
+{
+  "college_name": "IIT Madras",
+  "nirf_engineering_rank": 1,
+  "overall_average_ctc_lpa": 20.5,
+  "overall_median_ctc_lpa": 18.0,
+  "overall_placement_percentage": 82.54,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 52.32,
+      "median_ctc_lpa": 37.5,
+      "placement_percentage": 96.81,
+      "core_subjects": [
+        "Discrete Mathematics",
+        "Data Structures and Algorithms",
+        "Computer Organization",
+        "Operating Systems",
+        "Theory of Computation",
+        "Computer Networks"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 159,
+          "OPEN_Female": 757,
+          "EWS_Gender_Neutral": 42,
+          "EWS_Female": 129,
+          "OBC_NCL_Gender_Neutral": 82,
+          "OBC_NCL_Female": 344,
+          "SC_Gender_Neutral": 72,
+          "SC_Female": 106,
+          "ST_Gender_Neutral": 29,
+          "ST_Female": 68,
+          "OPEN_PwD_Gender_Neutral": 4,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": 4,
+          "SC_PwD_Gender_Neutral": "8P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 171,
+          "OPEN_Female": 866,
+          "EWS_Gender_Neutral": 29,
+          "EWS_Female": 91,
+          "OBC_NCL_Gender_Neutral": 87,
+          "OBC_NCL_Female": 561,
+          "SC_Gender_Neutral": 43,
+          "SC_Female": 255,
+          "ST_Gender_Neutral": 28,
+          "ST_Female": 63,
+          "OPEN_PwD_Gender_Neutral": 9,
+          "EWS_PwD_Gender_Neutral": 4,
+          "OBC_NCL_PwD_Gender_Neutral": 6,
+          "SC_PwD_Gender_Neutral": 2
+        }
+      }
+    },
+    {
+      "branch_name": "Biotechnology (BT)",
+      "average_ctc_lpa": 16.51,
+      "median_ctc_lpa": 14.62,
+      "placement_percentage": 74.26,
+      "core_subjects": [
+        "Microbiology",
+        "Biochemistry",
+        "Bioprocess Engineering",
+        "Bioreactor Design",
+        "Transport Phenomena in Biology"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 5755,
+          "OPEN_Female": 9871,
+          "EWS_Gender_Neutral": 1384,
+          "EWS_Female": 2205,
+          "OBC_NCL_Gender_Neutral": 3364,
+          "OBC_NCL_Female": 6929,
+          "SC_Gender_Neutral": 2266,
+          "SC_Female": 2942,
+          "ST_Gender_Neutral": 1090,
+          "ST_Female": 1566,
+          "OPEN_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 5261,
+          "OPEN_Female": 8978,
+          "EWS_Gender_Neutral": 1383,
+          "EWS_Female": 2344,
+          "OBC_NCL_Gender_Neutral": 3160,
+          "OBC_NCL_Female": 5286,
+          "SC_Gender_Neutral": 1832,
+          "SC_Female": 2186,
+          "ST_Gender_Neutral": 1076,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": "335P"
+        }
+      }
+    },
+    {
+      "branch_name": "Electrical Engineering (EE)",
+      "average_ctc_lpa": 27.28,
+      "median_ctc_lpa": 25.45,
+      "placement_percentage": 92.62,
+      "core_subjects": [
+        "Networks and Systems",
+        "Analog and Digital Circuits",
+        "Electrical Machines",
+        "Control Systems",
+        "Electromagnetic Fields"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 838,
+          "OPEN_Female": 2677,
+          "EWS_Gender_Neutral": 178,
+          "EWS_Female": 539,
+          "OBC_NCL_Gender_Neutral": 407,
+          "OBC_NCL_Female": 1063,
+          "SC_Gender_Neutral": 378,
+          "SC_Female": 563,
+          "ST_Gender_Neutral": 149,
+          "ST_Female": 336,
+          "OPEN_PwD_Gender_Neutral": 94,
+          "OPEN_PwD_Female": "69P",
+          "EWS_PwD_Gender_Neutral": "14P",
+          "OBC_NCL_PwD_Gender_Neutral": 51,
+          "SC_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 849,
+          "OPEN_Female": 2848,
+          "EWS_Gender_Neutral": 198,
+          "EWS_Female": 532,
+          "OBC_NCL_Gender_Neutral": 396,
+          "OBC_NCL_Female": 1450,
+          "SC_Gender_Neutral": 278,
+          "SC_Female": 845,
+          "ST_Gender_Neutral": 153,
+          "ST_Female": 301,
+          "OPEN_PwD_Gender_Neutral": 38,
+          "OPEN_PwD_Female": 171,
+          "EWS_PwD_Gender_Neutral": 17,
+          "OBC_NCL_PwD_Gender_Neutral": 48,
+          "SC_PwD_Gender_Neutral": "8P"
+        }
+      }
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 18.5,
+      "median_ctc_lpa": 16.0,
+      "placement_percentage": 92.69,
+      "core_subjects": [
+        "Solid Mechanics",
+        "Kinematics and Dynamics of Machines",
+        "Manufacturing Processes",
+        "Heat Transfer",
+        "Fluid Mechanics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 2310,
+          "OPEN_Female": 6678,
+          "EWS_Gender_Neutral": 577,
+          "EWS_Female": 1385,
+          "OBC_NCL_Gender_Neutral": 1199,
+          "OBC_NCL_Female": 3442,
+          "SC_Gender_Neutral": 792,
+          "SC_Female": 1467,
+          "ST_Gender_Neutral": 369,
+          "ST_Female": 715,
+          "OPEN_PwD_Gender_Neutral": "156P",
+          "OPEN_PwD_Female": null,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": "93P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 2468,
+          "OPEN_Female": 6369,
+          "EWS_Gender_Neutral": 479,
+          "EWS_Female": 993,
+          "OBC_NCL_Gender_Neutral": 1070,
+          "OBC_NCL_Female": 3309,
+          "SC_Gender_Neutral": 732,
+          "SC_Female": 1508,
+          "ST_Gender_Neutral": 386,
+          "ST_Female": 901,
+          "OPEN_PwD_Gender_Neutral": 139,
+          "OPEN_PwD_Female": "275P",
+          "EWS_PwD_Gender_Neutral": "32P",
+          "OBC_NCL_PwD_Gender_Neutral": 82
+        }
+      }
+    },
+    {
+      "branch_name": "Chemical Engineering (CH)",
+      "average_ctc_lpa": 18.45,
+      "median_ctc_lpa": 16.0,
+      "placement_percentage": 87.15,
+      "core_subjects": [
+        "Momentum Transfer",
+        "Mass Transfer",
+        "Chemical Reaction Engineering",
+        "Process Control"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 3972,
+          "OPEN_Female": 9068,
+          "EWS_Gender_Neutral": 784,
+          "EWS_Female": 1843,
+          "OBC_NCL_Gender_Neutral": 2042,
+          "OBC_NCL_Female": 3772,
+          "SC_Gender_Neutral": 1237,
+          "SC_Female": 2010,
+          "ST_Gender_Neutral": 617,
+          "ST_Female": 895,
+          "OPEN_PwD_Gender_Neutral": "383P",
+          "OPEN_PwD_Female": null,
+          "OBC_NCL_PwD_Gender_Neutral": null,
+          "SC_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 4116,
+          "OPEN_Female": 7546,
+          "EWS_Gender_Neutral": 767,
+          "EWS_Female": 1293,
+          "OBC_NCL_Gender_Neutral": 1869,
+          "OBC_NCL_Female": 3820,
+          "SC_Gender_Neutral": 1189,
+          "SC_Female": 1596,
+          "ST_Gender_Neutral": 620,
+          "ST_Female": 640,
+          "OPEN_PwD_Gender_Neutral": "159P",
+          "OPEN_PwD_Female": "291P",
+          "OBC_NCL_PwD_Gender_Neutral": "104P",
+          "SC_PwD_Gender_Neutral": "15P"
+        }
+      }
+    },
+    {
+      "branch_name": "Ocean Engineering (OE)",
+      "average_ctc_lpa": 18.12,
+      "median_ctc_lpa": 16.5,
+      "placement_percentage": 93.24,
+      "core_subjects": [
+        "Ship Hydrostatics and Stability",
+        "Ship Hydrodynamics",
+        "Ship Resistance and Propulsion",
+        "Ocean Wave Hydrodynamics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 7404,
+          "OPEN_Female": 13618,
+          "EWS_Gender_Neutral": 1568,
+          "EWS_Female": 2807,
+          "OBC_NCL_Gender_Neutral": 3210,
+          "OBC_NCL_Female": 6778,
+          "SC_Gender_Neutral": 2224,
+          "SC_Female": 3007,
+          "ST_Gender_Neutral": 1056,
+          "ST_Female": 139,
+          "OPEN_PwD_Gender_Neutral": "272P",
+          "OBC_NCL_PwD_Gender_Neutral": "133P",
+          "SC_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 7433,
+          "OPEN_Female": 14878,
+          "EWS_Gender_Neutral": 1476,
+          "EWS_Female": 2814,
+          "OBC_NCL_Gender_Neutral": 3131,
+          "OBC_NCL_Female": 6399,
+          "SC_Gender_Neutral": 2009,
+          "SC_Female": 2750,
+          "ST_Gender_Neutral": 1046,
+          "ST_Female": 1464,
+          "OPEN_PwD_Gender_Neutral": "39P",
+          "OBC_NCL_PwD_Gender_Neutral": "101P",
+          "SC_PwD_Gender_Neutral": "18P"
+        }
+      }
+    },
+    {
+      "branch_name": "Civil Engineering (CE)",
+      "average_ctc_lpa": 17.73,
+      "median_ctc_lpa": 16.0,
+      "placement_percentage": 90.74,
+      "core_subjects": [
+        "Surveying",
+        "Structural Analysis",
+        "Geotechnical Engineering",
+        "Hydraulics and Water Resources",
+        "Environmental Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 5688,
+          "OPEN_Female": 12586,
+          "EWS_Gender_Neutral": 1111,
+          "EWS_Female": 1945,
+          "OBC_NCL_Gender_Neutral": 2592,
+          "OBC_NCL_Female": 5366,
+          "SC_Gender_Neutral": 1324,
+          "SC_Female": 2445,
+          "ST_Gender_Neutral": 522,
+          "ST_Female": 652,
+          "OPEN_PwD_Gender_Neutral": "282P",
+          "OPEN_PwD_Female": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 6112,
+          "OPEN_Female": 11902,
+          "EWS_Gender_Neutral": 949,
+          "EWS_Female": 1642,
+          "OBC_NCL_Gender_Neutral": 2403,
+          "OBC_NCL_Female": 4270,
+          "SC_Gender_Neutral": 1445,
+          "SC_Female": 2157,
+          "ST_Gender_Neutral": 424,
+          "ST_Female": 1020,
+          "OPEN_PwD_Gender_Neutral": "171P",
+          "OPEN_PwD_Female": "190P"
+        }
+      }
+    },
+    {
+      "branch_name": "Aerospace Engineering (AE)",
+      "average_ctc_lpa": 18.06,
+      "median_ctc_lpa": 16.5,
+      "placement_percentage": 90.35,
+      "core_subjects": [
+        "Aerodynamics",
+        "Aerospace Propulsion",
+        "Flight Mechanics",
+        "Aerospace Structures"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 2815,
+          "OPEN_Female": 6845,
+          "EWS_Gender_Neutral": 837,
+          "EWS_Female": 1232,
+          "OBC_NCL_Gender_Neutral": 1655,
+          "OBC_NCL_Female": 3432,
+          "SC_Gender_Neutral": 900,
+          "SC_Female": 1699,
+          "ST_Gender_Neutral": 478,
+          "ST_Female": 661,
+          "OPEN_PwD_Gender_Neutral": "119P",
+          "OBC_NCL_PwD_Gender_Neutral": "63P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 3211,
+          "OPEN_Female": 5512,
+          "EWS_Gender_Neutral": 645,
+          "EWS_Female": 1365,
+          "OBC_NCL_Gender_Neutral": 1508,
+          "OBC_NCL_Female": 2517,
+          "SC_Gender_Neutral": 830,
+          "SC_Female": 1421,
+          "ST_Gender_Neutral": 540,
+          "ST_Female": 417,
+          "OPEN_PwD_Gender_Neutral": "102P",
+          "OBC_NCL_PwD_Gender_Neutral": "59P"
+        }
+      }
+    },
+    {
+      "branch_name": "Metallurgical & Materials (MM)",
+      "average_ctc_lpa": 14.28,
+      "median_ctc_lpa": 13.1,
+      "placement_percentage": 76.14,
+      "core_subjects": [
+        "Principles of Physical Metallurgy",
+        "Thermodynamics of Materials",
+        "Phase Transformations",
+        "Transport Phenomena in Materials",
+        "Extractive Metallurgy"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 4748,
+          "OPEN_Female": 10699,
+          "EWS_Gender_Neutral": 1263,
+          "EWS_Female": 2109,
+          "OBC_NCL_Gender_Neutral": 2463,
+          "OBC_NCL_Female": 5297,
+          "SC_Gender_Neutral": 1679,
+          "SC_Female": 2722,
+          "ST_Gender_Neutral": 784,
+          "ST_Female": 1339,
+          "OPEN_PwD_Gender_Neutral": "340P",
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 5499,
+          "OPEN_Female": 11404,
+          "EWS_Gender_Neutral": 1115,
+          "EWS_Female": 1963,
+          "OBC_NCL_Gender_Neutral": 2343,
+          "OBC_NCL_Female": 4822,
+          "SC_Gender_Neutral": 1686,
+          "SC_Female": 2276,
+          "ST_Gender_Neutral": 739,
+          "ST_Female": 1526,
+          "OPEN_PwD_Gender_Neutral": "239P",
+          "OBC_NCL_PwD_Gender_Neutral": "111P"
+        }
+      }
+    },
+    {
+      "branch_name": "Engineering Physics (EP)",
+      "average_ctc_lpa": 20.39,
+      "median_ctc_lpa": 15.92,
+      "placement_percentage": 90.31,
+      "core_subjects": [
+        "Quantum Mechanics",
+        "Classical Mechanics",
+        "Applied Electromagnetics",
+        "Solid State Devices",
+        "Analog Systems"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 1858,
+          "OPEN_Female": 4636,
+          "EWS_Gender_Neutral": 803,
+          "EWS_Female": 2082,
+          "OBC_NCL_Gender_Neutral": 1192,
+          "OBC_NCL_Female": 3046,
+          "SC_Gender_Neutral": 1326,
+          "SC_Female": 685,
+          "ST_Gender_Neutral": 1022,
+          "ST_Female": 1429,
+          "OPEN_PwD_Gender_Neutral": "370P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 1441,
+          "OPEN_Female": 4367,
+          "EWS_Gender_Neutral": 586,
+          "EWS_Female": 2138,
+          "OBC_NCL_Gender_Neutral": 1011,
+          "OBC_NCL_Female": 2841,
+          "SC_Gender_Neutral": 1015,
+          "SC_Female": 2194,
+          "ST_Gender_Neutral": 719,
+          "ST_Female": 970,
+          "OPEN_PwD_Gender_Neutral": 227
+        }
+      }
+    },
+    {
+      "branch_name": "Data Science & Artificial Intelligence (AIDA)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 94.35,
+      "core_subjects": [
+        "Statistical Modeling",
+        "Optimization Techniques",
+        "Machine Learning",
+        "Data Analytics and Visualization",
+        "Big Data Management",
+        "Deep Learning",
+        "Artificial Intelligence"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 419,
+          "OPEN_Female": 1379,
+          "EWS_Gender_Neutral": 104,
+          "EWS_Female": 298,
+          "OBC_NCL_Gender_Neutral": 207,
+          "OBC_NCL_Female": 503,
+          "SC_Gender_Neutral": 198,
+          "SC_Female": 237,
+          "ST_Gender_Neutral": 83,
+          "ST_Female": 218,
+          "OPEN_PwD_Gender_Neutral": 43,
+          "OBC_NCL_PwD_Gender_Neutral": 30
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 306,
+          "OPEN_Female": 1140,
+          "EWS_Gender_Neutral": 65,
+          "EWS_Female": 145,
+          "OBC_NCL_Gender_Neutral": 165,
+          "OBC_NCL_Female": 611,
+          "SC_Gender_Neutral": 113,
+          "SC_Female": 359,
+          "ST_Gender_Neutral": 44,
+          "ST_Female": 112,
+          "OPEN_PwD_Gender_Neutral": 30,
+          "OBC_NCL_PwD_Gender_Neutral": 16
+        }
+      }
+    },
+    {
+      "branch_name": "Engineering Design (ED)",
+      "average_ctc_lpa": 23.27,
+      "median_ctc_lpa": 20.15,
+      "placement_percentage": 89.05,
+      "core_subjects": [
+        "Geometric Modeling",
+        "Finite Element Analysis (FEA)",
+        "Mechatronics",
+        "Product Design",
+        "Embedded Systems"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 3656,
+          "OPEN_Female": 8939,
+          "EWS_Gender_Neutral": 1235,
+          "EWS_Female": 2744,
+          "OBC_NCL_Gender_Neutral": 1772,
+          "OBC_NCL_Female": 3896,
+          "SC_Gender_Neutral": 1571,
+          "SC_Female": 2280,
+          "ST_Gender_Neutral": 1133,
+          "ST_Female": 979,
+          "OPEN_PwD_Gender_Neutral": "359P",
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 3380,
+          "OPEN_Female": 7751,
+          "EWS_Gender_Neutral": 838,
+          "EWS_Female": 1334,
+          "OBC_NCL_Gender_Neutral": 1466,
+          "OBC_NCL_Female": 3216,
+          "SC_Gender_Neutral": 1513,
+          "SC_Female": 1960,
+          "ST_Gender_Neutral": 950,
+          "ST_Female": 705,
+          "OPEN_PwD_Gender_Neutral": 217,
+          "OBC_NCL_PwD_Gender_Neutral": "106P"
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Manohar C Watsa Stadium",
+    "KS Narayanan Centre (Chemplast Ground)",
+    "Olympic-size Swimming Pool",
+    "Sitara Indoor Sports Complex",
+    "IIT Gymkhana Complex",
+    "Outdoor Courts"
+  ],
+  "student_clubs": [
+    "Sangam (Cultural)",
+    "CFI (Centre for Innovation)"
+  ],
+  "incubation_center_name": "IIT Madras Incubation Cell (IITMIC)",
+  "notable_startups": [
+    "Ather Energy",
+    "Agnikul Cosmos",
+    "Uniphore",
+    "Medibuddy",
+    "Stellapps",
+    "Detect Technologies",
+    "NeoMotion"
+  ]
+}

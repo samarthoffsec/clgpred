@@ -1,0 +1,181 @@
+{
+  "college_name": "IIIT Bhopal",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 12.32,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": 85.18,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 15.07,
+      "median_ctc_lpa": 12.0,
+      "placement_percentage": 88.67,
+      "core_subjects": [
+        "Engineering Mathematics",
+        "Engineering Physics",
+        "Fundamentals of Computer Programming (FoCP)",
+        "Data Structures and Algorithms (DSA)",
+        "Discrete Structure",
+        "Digital Logic and Design",
+        "Principles of Programming Languages",
+        "Design and Analysis of Algorithms (DAA)",
+        "Computer Organization and Architecture (COA)",
+        "Software Engineering",
+        "Database Management Systems (DBMS)",
+        "Formal Language and Automata Theory",
+        "Operating Systems (OS)",
+        "Computer Networks",
+        "Theory of Computation",
+        "Machine Learning (ML)",
+        "Compiler Design",
+        "Information Security",
+        "Data Science and Analytics"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 23999,
+          "EWS_Gender_Neutral": 4572,
+          "OBC_NCL_Gender_Neutral": 10997,
+          "SC_Gender_Neutral": 6860,
+          "ST_Gender_Neutral": 3841,
+          "OPEN_PwD_Gender_Neutral": 1581,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": 755
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 27095,
+          "EWS_Gender_Neutral": 4561,
+          "OBC_NCL_Gender_Neutral": 11401,
+          "SC_Gender_Neutral": 7875,
+          "ST_Gender_Neutral": 3928,
+          "OPEN_PwD_Gender_Neutral": 1625,
+          "EWS_PwD_Gender_Neutral": 392,
+          "OBC_NCL_PwD_Gender_Neutral": 825
+        }
+      }
+    },
+    {
+      "branch_name": "Information Technology (IT)",
+      "average_ctc_lpa": 11.36,
+      "median_ctc_lpa": null,
+      "placement_percentage": 78.84,
+      "core_subjects": [
+        "Engineering Mathematics",
+        "Engineering Physics",
+        "FoCP",
+        "DSA",
+        "Discrete Structure",
+        "Digital Logic",
+        "Object Oriented Programming (OOP)",
+        "DAA",
+        "COA",
+        "Software Engineering",
+        "DBMS",
+        "Information Theory and Coding",
+        "Data Communication and Networks",
+        "Operating Systems",
+        "Web Technologies",
+        "Soft Computing",
+        "Data Mining and Warehousing",
+        "Cryptography and Network Security"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 30065,
+          "EWS_Gender_Neutral": 5347,
+          "OBC_NCL_Gender_Neutral": 12751,
+          "SC_Gender_Neutral": 8371,
+          "ST_Gender_Neutral": 4354,
+          "OPEN_PwD_Gender_Neutral": 1726,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": 1648
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 36619,
+          "EWS_Gender_Neutral": 5505,
+          "OBC_NCL_Gender_Neutral": 13825,
+          "SC_Gender_Neutral": 9086,
+          "ST_Gender_Neutral": 4939,
+          "OPEN_PwD_Gender_Neutral": 1985,
+          "EWS_PwD_Gender_Neutral": 307,
+          "OBC_NCL_PwD_Gender_Neutral": 1290
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics & Communication (ECE)",
+      "average_ctc_lpa": 10.53,
+      "median_ctc_lpa": 8.5,
+      "placement_percentage": 86.66,
+      "core_subjects": [
+        "Engineering Mathematics",
+        "Engineering Physics",
+        "FoCP",
+        "DSA",
+        "Electronic Devices and Circuits (EDC)",
+        "Network Analysis",
+        "Signals and Systems",
+        "Digital Logic",
+        "Linear Integrated Circuits (LIC)",
+        "Microprocessors and Microcontrollers",
+        "Analog and Digital Communication",
+        "Digital Signal Processing (DSP)",
+        "EM Fields",
+        "Control Systems",
+        "VLSI Design",
+        "Optical Communication",
+        "Microwave Engineering",
+        "Wireless Communication",
+        "Antenna and Wave Propagation"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 35355,
+          "EWS_Gender_Neutral": 6367,
+          "OBC_NCL_Gender_Neutral": 14641,
+          "SC_Gender_Neutral": 9202,
+          "ST_Gender_Neutral": 4749,
+          "OPEN_PwD_Gender_Neutral": 2844,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 40247,
+          "EWS_Gender_Neutral": 6124,
+          "OBC_NCL_Gender_Neutral": 15526,
+          "SC_Gender_Neutral": 10104,
+          "ST_Gender_Neutral": 4984,
+          "OPEN_PwD_Gender_Neutral": 2292,
+          "OBC_NCL_PwD_Gender_Neutral": 1674
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket Ground",
+    "Football Field",
+    "Basketball Courts",
+    "Volleyball Courts",
+    "Kabaddi Ground",
+    "Athletic Tracks",
+    "Badminton Courts",
+    "Table Tennis",
+    "Carrom",
+    "Chess",
+    "Indoor Gymnasium"
+  ],
+  "student_clubs": [
+    "CODAME (Coding/Competitive Programming)",
+    "GDSC (Google Developer Student Club)",
+    "Kratigence (AI/ML, IoT, Robotics)",
+    "Linux Club",
+    "SRIJAN (Dance, Music, Drama)",
+    "HarfBaaz (Quiz & Literary)",
+    "PIKAZO (Photography & Fine Arts)",
+    "INSPIRE (Spirituality & Well-being)"
+  ],
+  "incubation_center_name": "E-Cell IIIT Bhopal",
+  "notable_startups": [
+    "Team Rain 404",
+    "Spark Squad"
+  ]
+}

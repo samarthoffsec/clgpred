@@ -1,0 +1,335 @@
+{
+  "college_name": "Indian Institute of Technology Bhilai",
+  "nirf_engineering_rank": 72,
+  "overall_average_ctc_lpa": 13.09,
+  "overall_median_ctc_lpa": 12.0,
+  "overall_placement_percentage": 70.0,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering",
+      "average_ctc_lpa": 18.93,
+      "median_ctc_lpa": 17.0,
+      "placement_percentage": 84.09,
+      "core_subjects": [
+        "Discrete Structures",
+        "Theory of Computation",
+        "Computer Architecture",
+        "Operating Systems",
+        "Compilers",
+        "Computer Networks",
+        "Database Management Systems",
+        "Design and Analysis of Algorithms"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 6516,
+          "OPEN_Female": 11544,
+          "EWS_Gender_Neutral": 1018,
+          "EWS_Female": 2023,
+          "OBC_NCL_Gender_Neutral": 2470,
+          "OBC_NCL_Female": 5333,
+          "SC_Gender_Neutral": 1021,
+          "SC_Female": 2194,
+          "ST_Gender_Neutral": 612,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": "124P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 7382,
+          "OPEN_Female": 12896,
+          "EWS_Gender_Neutral": 996,
+          "EWS_Female": 1915,
+          "OBC_NCL_Gender_Neutral": 2832,
+          "OBC_NCL_Female": 4045,
+          "SC_Gender_Neutral": 1343,
+          "SC_Female": 2173,
+          "ST_Gender_Neutral": 676,
+          "ST_Female": 803,
+          "OPEN_PwD_Gender_Neutral": 234
+        }
+      }
+    },
+    {
+      "branch_name": "Data Science and Artificial Intelligence",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 93.75,
+      "core_subjects": [
+        "Statistical Modeling",
+        "Optimization Techniques",
+        "Machine Learning",
+        "Data Analytics and Visualization",
+        "Big Data Management",
+        "Deep Learning",
+        "Artificial Intelligence"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 7570,
+          "OPEN_Female": 14348,
+          "EWS_Gender_Neutral": 1201,
+          "EWS_Female": 2172,
+          "OBC_NCL_Gender_Neutral": 2811,
+          "OBC_NCL_Female": 5994,
+          "SC_Gender_Neutral": 1332,
+          "SC_Female": 2443,
+          "ST_Gender_Neutral": 687,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": "126P",
+          "OPEN_PwD_Female": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 7934,
+          "OPEN_Female": 13039,
+          "EWS_Gender_Neutral": 1166,
+          "EWS_Female": 2063,
+          "OBC_NCL_Gender_Neutral": 3135,
+          "OBC_NCL_Female": 5099,
+          "SC_Gender_Neutral": 1548,
+          "SC_Female": 2236,
+          "ST_Gender_Neutral": 680,
+          "ST_Female": 905,
+          "OPEN_PwD_Gender_Neutral": "79P",
+          "OPEN_PwD_Female": "293P"
+        }
+      }
+    },
+    {
+      "branch_name": "Electrical Engineering",
+      "average_ctc_lpa": 14.03,
+      "median_ctc_lpa": null,
+      "placement_percentage": 50.0,
+      "core_subjects": [
+        "Circuit Theory",
+        "Signals and Systems",
+        "Control Systems",
+        "Digital and Analog Electronics",
+        "Power Systems",
+        "Electrical Machines",
+        "Microprocessors",
+        "Communication Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 10709,
+          "OPEN_Female": 17772,
+          "EWS_Gender_Neutral": 1648,
+          "EWS_Female": 2940,
+          "OBC_NCL_Gender_Neutral": 3999,
+          "OBC_NCL_Female": 8020,
+          "SC_Gender_Neutral": 2207,
+          "SC_Female": 3408,
+          "ST_Gender_Neutral": 1068,
+          "ST_Female": 1521
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 11592,
+          "OPEN_Female": 20173,
+          "EWS_Gender_Neutral": 1779,
+          "EWS_Female": 2879,
+          "OBC_NCL_Gender_Neutral": 4149,
+          "OBC_NCL_Female": 7350,
+          "SC_Gender_Neutral": 2290,
+          "SC_Female": 3311,
+          "ST_Gender_Neutral": 1135,
+          "ST_Female": 1472
+        }
+      }
+    },
+    {
+      "branch_name": "Mechanical Engineering",
+      "average_ctc_lpa": 12.57,
+      "median_ctc_lpa": 12.0,
+      "placement_percentage": 73.08,
+      "core_subjects": [
+        "Thermodynamics",
+        "Heat Transfer",
+        "Fluid Mechanics",
+        "Statics and Dynamics",
+        "Machine Design",
+        "Kinematics of Machines",
+        "Manufacturing Technologies",
+        "Additive Manufacturing"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 13137,
+          "OPEN_Female": 23440,
+          "EWS_Gender_Neutral": 2017,
+          "EWS_Female": 3827,
+          "OBC_NCL_Gender_Neutral": 4803,
+          "OBC_NCL_Female": 8930,
+          "SC_Gender_Neutral": 2609,
+          "SC_Female": 4142,
+          "ST_Gender_Neutral": 1230,
+          "ST_Female": "306P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 14788,
+          "OPEN_Female": 23230,
+          "EWS_Gender_Neutral": 2284,
+          "EWS_Female": 3665,
+          "OBC_NCL_Gender_Neutral": 4924,
+          "OBC_NCL_Female": 9522,
+          "SC_Gender_Neutral": 2846,
+          "SC_Female": 3758,
+          "ST_Gender_Neutral": 1229,
+          "ST_Female": 1562
+        }
+      }
+    },
+    {
+      "branch_name": "Mechatronics Engineering",
+      "average_ctc_lpa": 17.7,
+      "median_ctc_lpa": 15.0,
+      "placement_percentage": 83.04,
+      "core_subjects": [
+        "Robotics Technology",
+        "Industrial Automation",
+        "Sensors and Actuators",
+        "Mechatronic Control Technology",
+        "Digital Logic and CPU",
+        "Digital Image Processing"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 10843,
+          "OPEN_Female": 15399,
+          "EWS_Gender_Neutral": 1739,
+          "EWS_Female": 3412,
+          "OBC_NCL_Gender_Neutral": 4511,
+          "OBC_NCL_Female": 7479,
+          "SC_Gender_Neutral": 2189,
+          "SC_Female": null,
+          "ST_Gender_Neutral": 1327,
+          "ST_Female": "622P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 12254,
+          "OPEN_Female": 21456,
+          "EWS_Gender_Neutral": 1887,
+          "EWS_Female": null,
+          "OBC_NCL_Gender_Neutral": 4573,
+          "OBC_NCL_Female": 9054,
+          "SC_Gender_Neutral": 2320,
+          "SC_Female": 3100,
+          "ST_Gender_Neutral": 1270,
+          "ST_Female": null
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics and Communication Engineering",
+      "average_ctc_lpa": 17.0,
+      "median_ctc_lpa": 14.8,
+      "placement_percentage": 80.93,
+      "core_subjects": [
+        "Semiconductor Devices",
+        "VLSI Design",
+        "Analog and Digital Communication",
+        "Information Theory",
+        "Wireless Networks",
+        "Digital Signal Processing (DSP)"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 9472,
+          "OPEN_Female": 15657,
+          "EWS_Gender_Neutral": 1286,
+          "EWS_Female": 2335,
+          "OBC_NCL_Gender_Neutral": 3539,
+          "OBC_NCL_Female": 7148,
+          "SC_Gender_Neutral": 1904,
+          "SC_Female": 2952,
+          "ST_Gender_Neutral": 902,
+          "ST_Female": 1506,
+          "OPEN_PwD_Gender_Neutral": "343P"
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 9668,
+          "OPEN_Female": 16191,
+          "EWS_Gender_Neutral": 1347,
+          "EWS_Female": 2232,
+          "OBC_NCL_Gender_Neutral": 3474,
+          "OBC_NCL_Female": 6563,
+          "SC_Gender_Neutral": 1865,
+          "SC_Female": 2522,
+          "ST_Gender_Neutral": 940,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": null
+        }
+      }
+    },
+    {
+      "branch_name": "Materials Science and Metallurgical Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 85.68,
+      "core_subjects": [
+        "Physical Metallurgy",
+        "Thermodynamics of Materials",
+        "Mechanical Behavior of Materials",
+        "Iron and Steel Making",
+        "Polymer Science",
+        "Characterization of Materials"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 15871,
+          "OPEN_Female": 25107,
+          "EWS_Gender_Neutral": 2378,
+          "EWS_Female": null,
+          "OBC_NCL_Gender_Neutral": 5810,
+          "OBC_NCL_Female": null,
+          "SC_Gender_Neutral": 3089,
+          "SC_Female": 4676,
+          "ST_Gender_Neutral": 1379,
+          "ST_Female": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 17478,
+          "OPEN_Female": 25868,
+          "EWS_Gender_Neutral": 2570,
+          "EWS_Female": 3936,
+          "OBC_NCL_Gender_Neutral": 6053,
+          "OBC_NCL_Female": 9804,
+          "SC_Gender_Neutral": 3327,
+          "SC_Female": 4050,
+          "ST_Gender_Neutral": 1348,
+          "ST_Female": 1233
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "400m World Athletics Standard 6-lane Synthetic Athletic Track",
+    "Swimming Pool",
+    "Floodlit courts for Basketball",
+    "Floodlit courts for Volleyball",
+    "Floodlit courts for Tennis",
+    "Cricket field",
+    "Football field"
+  ],
+  "student_clubs": [
+    "Swara",
+    "Beathackers",
+    "Drishya",
+    "Renaissance",
+    "GOALS",
+    "Quizzotica",
+    "TPS",
+    "Epsilon",
+    "Ingenuity",
+    "Electromos",
+    "OpenLake",
+    "SES"
+  ],
+  "incubation_center_name": "IIT Bhilai Innovation and Technology Foundation (IBITF)",
+  "notable_startups": [
+    "BhoomiCam",
+    "Tadoba Solutions",
+    "ChattisgarhiPay",
+    "Path Rakshak",
+    "Divyang ATM"
+  ]
+}

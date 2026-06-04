@@ -1,0 +1,230 @@
+{
+  "college_name": "Indian Institute of Information Technology Design and Manufacturing (IIITDM), Kurnool",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 6.3,
+  "overall_median_ctc_lpa": null,
+  "overall_placement_percentage": 79.93,
+  "branches": [
+    {
+      "branch_name": "Computer Science & Engineering (CSE)",
+      "average_ctc_lpa": 8.02,
+      "median_ctc_lpa": 7.2,
+      "placement_percentage": 86.95,
+      "core_subjects": [
+        "Data Structures and Algorithms",
+        "Operating Systems",
+        "Database Management Systems (DBMS)",
+        "Computer Organization and Architecture",
+        "Theory of Computation / Automata Theory",
+        "Compiler Design",
+        "Computer Networks",
+        "Software Engineering"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 32761,
+          "OPEN_Female": 33001,
+          "EWS_Gender_Neutral": 5862,
+          "EWS_Female": 5702,
+          "OBC_NCL_Gender_Neutral": 13128,
+          "OBC_NCL_Female": 12828,
+          "SC_Gender_Neutral": 5596,
+          "SC_Female": 5148,
+          "ST_Gender_Neutral": 2305,
+          "ST_Female": 2129,
+          "OPEN_PwD_Gender_Neutral": 491,
+          "OPEN_PwD_Female": null,
+          "OBC_NCL_PwD_Gender_Neutral": 317
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 33147,
+          "OPEN_Female": 37649,
+          "EWS_Gender_Neutral": 5488,
+          "EWS_Female": 5938,
+          "OBC_NCL_Gender_Neutral": 13252,
+          "OBC_NCL_Female": 16670,
+          "SC_Gender_Neutral": 5796,
+          "SC_Female": 7400,
+          "ST_Gender_Neutral": 2305,
+          "ST_Female": 3132,
+          "OPEN_PwD_Gender_Neutral": 1103,
+          "OPEN_PwD_Female": 1108,
+          "OBC_NCL_PwD_Gender_Neutral": 535
+        }
+      }
+    },
+    {
+      "branch_name": "Artificial Intelligence & Data Science (AI & DS)",
+      "average_ctc_lpa": 6.0,
+      "median_ctc_lpa": 5.2,
+      "placement_percentage": 90.94,
+      "core_subjects": [
+        "Data Structures and Algorithms",
+        "Database Management Systems",
+        "Machine Learning",
+        "Deep Learning",
+        "Big Data Analytics",
+        "Artificial Intelligence",
+        "Optimization Techniques",
+        "Design Thinking and Innovation"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 36999,
+          "OPEN_Female": 38027,
+          "EWS_Gender_Neutral": 6561,
+          "EWS_Female": 6571,
+          "OBC_NCL_Gender_Neutral": 14516,
+          "OBC_NCL_Female": 13940,
+          "SC_Gender_Neutral": 6190,
+          "SC_Female": 6661,
+          "ST_Gender_Neutral": 2934,
+          "ST_Female": 3498,
+          "OPEN_PwD_Gender_Neutral": 578,
+          "OPEN_PwD_Female": null,
+          "OBC_NCL_PwD_Gender_Neutral": 412
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 37040,
+          "OPEN_Female": 46086,
+          "EWS_Gender_Neutral": 5998,
+          "EWS_Female": 6707,
+          "OBC_NCL_Gender_Neutral": 14257,
+          "OBC_NCL_Female": 18521,
+          "SC_Gender_Neutral": 6148,
+          "SC_Female": 7463,
+          "ST_Gender_Neutral": 2721,
+          "ST_Female": 3458,
+          "OPEN_PwD_Gender_Neutral": 656,
+          "OPEN_PwD_Female": 1813,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics & Communication Engineering (ECE)",
+      "average_ctc_lpa": 5.5,
+      "median_ctc_lpa": 4.8,
+      "placement_percentage": 80.48,
+      "core_subjects": [
+        "Network Theory",
+        "Electronic Circuits",
+        "Signals and Systems",
+        "Digital Logic Design",
+        "Microprocessors and Microcontrollers",
+        "Embedded Systems Practice",
+        "Engineering Electromagnetics",
+        "Antennas and Wave Propagation",
+        "Product Design Practice",
+        "VLSI Design",
+        "Communication Systems"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 41985,
+          "OPEN_Female": 37555,
+          "EWS_Gender_Neutral": 7053,
+          "EWS_Female": 7043,
+          "OBC_NCL_Gender_Neutral": 16831,
+          "OBC_NCL_Female": 13679,
+          "SC_Gender_Neutral": 7695,
+          "SC_Female": 7776,
+          "ST_Gender_Neutral": 3301,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": 926,
+          "OBC_NCL_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Female": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 44105,
+          "OPEN_Female": 49973,
+          "EWS_Gender_Neutral": 6753,
+          "EWS_Female": 8116,
+          "OBC_NCL_Gender_Neutral": 15877,
+          "OBC_NCL_Female": 20666,
+          "SC_Gender_Neutral": 6618,
+          "SC_Female": 9845,
+          "ST_Gender_Neutral": 3168,
+          "ST_Female": 2885,
+          "OPEN_PwD_Gender_Neutral": 1195,
+          "OBC_NCL_PwD_Gender_Neutral": 574,
+          "OBC_NCL_PwD_Female": 1422
+        }
+      }
+    },
+    {
+      "branch_name": "Mechanical Engineering (ME)",
+      "average_ctc_lpa": 5.69,
+      "median_ctc_lpa": 4.8,
+      "placement_percentage": 85.55,
+      "core_subjects": [
+        "Engineering Mechanics",
+        "Mechanics of Materials",
+        "Thermodynamics",
+        "Fluid Mechanics and Hydraulic Machines",
+        "Heat and Mass Transfer",
+        "Manufacturing Processes",
+        "Computer-Aided Design (CAD)",
+        "Computer-Aided Manufacturing (CAM)",
+        "Measurements and Data Analysis",
+        "Sensors and Actuators",
+        "Control Systems",
+        "Machine Drawing",
+        "Kinematics and Dynamics of Mechanisms"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 49886,
+          "OPEN_Female": 52652,
+          "EWS_Gender_Neutral": 8530,
+          "EWS_Female": null,
+          "OBC_NCL_Gender_Neutral": 18149,
+          "OBC_NCL_Female": 19787,
+          "SC_Gender_Neutral": 8903,
+          "SC_Female": 10907,
+          "ST_Gender_Neutral": 3817,
+          "ST_Female": null,
+          "OPEN_PwD_Gender_Neutral": 2884,
+          "OBC_NCL_PwD_Gender_Neutral": 1477
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 52520,
+          "OPEN_Female": 65720,
+          "EWS_Gender_Neutral": 7792,
+          "EWS_Female": 10845,
+          "OBC_NCL_Gender_Neutral": 19196,
+          "OBC_NCL_Female": 23192,
+          "SC_Gender_Neutral": 9329,
+          "SC_Female": 10963,
+          "ST_Gender_Neutral": 3368,
+          "ST_Female": 4593,
+          "OPEN_PwD_Gender_Neutral": 1828,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket ground",
+    "football ground",
+    "basketball courts",
+    "gymnasium"
+  ],
+  "student_clubs": [
+    "Coding",
+    "music",
+    "dance",
+    "art",
+    "gaming",
+    "IEEE",
+    "ACM",
+    "CSI"
+  ],
+  "incubation_center_name": "KITE (Kurnool Innovation Technology and Entrepreneurship)",
+  "notable_startups": [
+    "Sphere Tech Innovations",
+    "Deltax",
+    "Ojas",
+    "Xtrans"
+  ]
+}

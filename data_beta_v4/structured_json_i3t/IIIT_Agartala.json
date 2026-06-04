@@ -1,0 +1,98 @@
+{
+  "college_name": "Indian Institute of Information Technology, Agartala",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 10.9,
+  "overall_median_ctc_lpa": 9.0,
+  "overall_placement_percentage": 80.17,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 89.44,
+      "core_subjects": [
+        "Data Structures & Programming Methodology",
+        "Design and Analysis of Algorithms (DAA)",
+        "Operating Systems (OS)",
+        "Database Management Systems (DBMS)",
+        "Computer Organization & Architecture",
+        "Theory of Computation (TOC)",
+        "Compiler Design",
+        "Computer Networks",
+        "Software Engineering",
+        "Discrete Mathematics",
+        "Digital Logic Design",
+        "Microprocessors & Microcontrollers",
+        "Artificial Intelligence (AI)",
+        "Machine Learning (ML)",
+        "Object-Oriented Programming (OOP) using C++/Java"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 39356,
+          "OPEN_Female": 44100,
+          "EWS_Gender_Neutral": 6856,
+          "EWS_Female": 7848,
+          "OBC_NCL_Gender_Neutral": 16297,
+          "OBC_NCL_Female": 19570,
+          "SC_Gender_Neutral": 9014,
+          "SC_Female": 11310,
+          "ST_Gender_Neutral": 4278,
+          "ST_Female": 4931,
+          "OPEN_PwD_Gender_Neutral": null,
+          "OPEN_PwD_Female": null,
+          "EWS_PwD_Gender_Neutral": null,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 44304,
+          "OPEN_Female": 54227,
+          "EWS_Gender_Neutral": 6785,
+          "EWS_Female": 8407,
+          "OBC_NCL_Gender_Neutral": 16919,
+          "OBC_NCL_Female": 23070,
+          "SC_Gender_Neutral": 10045,
+          "SC_Female": 10278,
+          "ST_Gender_Neutral": 4240,
+          "ST_Female": 5517,
+          "OPEN_PwD_Gender_Neutral": 2560,
+          "OPEN_PwD_Female": 2368,
+          "EWS_PwD_Gender_Neutral": 336,
+          "OBC_NCL_PwD_Gender_Neutral": 1306
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Olympic-size Swimming Pool",
+    "400m Athletics Track",
+    "Football Ground",
+    "Cricket Ground",
+    "Hockey Ground",
+    "Basketball Court",
+    "Volleyball Court",
+    "Badminton Court",
+    "Gymnasium",
+    "Table Tennis facilities"
+  ],
+  "student_clubs": [
+    "Developers' Club",
+    "Google DSC (GDSC)",
+    "ACM ICPC Club",
+    "Robotics Club",
+    "Sagnak Prayog (Coding)",
+    "AAVEG (Cultural Fest)",
+    "Art Club",
+    "Music Club",
+    "Photography Club",
+    "Enlightenment Club (Social Service)",
+    "EBSB (Ek Bharat Shreshtha Bharat)"
+  ],
+  "incubation_center_name": "S-TIC (Space Technology Incubation Centre) and DST-NIDHI iTBI",
+  "notable_startups": [
+    "Daisyon",
+    "EngineeringHub",
+    "The Digital Algorithm",
+    "Codified Youth"
+  ]
+}

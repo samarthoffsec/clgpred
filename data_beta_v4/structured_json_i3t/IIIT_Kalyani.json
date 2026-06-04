@@ -1,0 +1,128 @@
+{
+  "college_name": "Indian Institute of Information Technology, Kalyani",
+  "nirf_engineering_rank": null,
+  "overall_average_ctc_lpa": 14.7,
+  "overall_median_ctc_lpa": 12.49,
+  "overall_placement_percentage": 89.33,
+  "branches": [
+    {
+      "branch_name": "Computer Science and Engineering (CSE)",
+      "average_ctc_lpa": null,
+      "median_ctc_lpa": null,
+      "placement_percentage": 89.33,
+      "core_subjects": [
+        "Programming with C",
+        "Data Structures & Algorithms",
+        "Discrete Mathematics",
+        "Digital Logic Design",
+        "Computer Organization & Architecture",
+        "Operating Systems",
+        "Database Management Systems (DBMS)",
+        "Computer Networks",
+        "Software Engineering",
+        "Theory of Computation"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 39991,
+          "OPEN_Female": 38130,
+          "EWS_Gender_Neutral": 6978,
+          "EWS_Female": 7343,
+          "OBC_NCL_Gender_Neutral": 16367,
+          "OBC_NCL_Female": 18234,
+          "SC_Gender_Neutral": 9255,
+          "SC_Female": 8992,
+          "ST_Gender_Neutral": 4176,
+          "ST_Female": 4314,
+          "OPEN_PwD_Gender_Neutral": 1271,
+          "OBC_NCL_PwD_Gender_Neutral": 1432,
+          "SC_PwD_Gender_Neutral": 263
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 44154,
+          "OPEN_Female": 44114,
+          "EWS_Gender_Neutral": 6849,
+          "EWS_Female": 6876,
+          "OBC_NCL_Gender_Neutral": 17088,
+          "OBC_NCL_Female": 20022,
+          "SC_Gender_Neutral": 9380,
+          "SC_Female": 8160,
+          "ST_Gender_Neutral": 4914,
+          "ST_Female": 4631,
+          "OPEN_PwD_Gender_Neutral": 1223,
+          "OBC_NCL_PwD_Gender_Neutral": 1537,
+          "SC_PwD_Gender_Neutral": null
+        }
+      }
+    },
+    {
+      "branch_name": "Electronics and Communication Engineering (ECE)",
+      "average_ctc_lpa": 14.7,
+      "median_ctc_lpa": 11.7,
+      "placement_percentage": 87.02,
+      "core_subjects": [
+        "Signals and Systems",
+        "Semiconductor Devices",
+        "Analog Electronics",
+        "Digital Logic Design",
+        "Microprocessors & Microcontrollers",
+        "Electromagnetic Theory",
+        "Communication Systems",
+        "Digital Signal Processing (DSP)",
+        "VLSI Design"
+      ],
+      "category_closing_ranks": {
+        "2024": {
+          "OPEN_Gender_Neutral": 43031,
+          "OPEN_Female": 42026,
+          "EWS_Gender_Neutral": 7241,
+          "EWS_Female": 7628,
+          "OBC_NCL_Gender_Neutral": 17077,
+          "OBC_NCL_Female": 15369,
+          "SC_Gender_Neutral": 9708,
+          "SC_Female": 10443,
+          "ST_Gender_Neutral": 4901,
+          "OPEN_PwD_Gender_Neutral": 3291,
+          "OBC_NCL_PwD_Gender_Neutral": null
+        },
+        "2025": {
+          "OPEN_Gender_Neutral": 47163,
+          "OPEN_Female": 46985,
+          "EWS_Gender_Neutral": 7163,
+          "EWS_Female": 8013,
+          "OBC_NCL_Gender_Neutral": 17862,
+          "OBC_NCL_Female": 19386,
+          "SC_Gender_Neutral": 10453,
+          "SC_Female": 10601,
+          "ST_Gender_Neutral": 5210,
+          "OPEN_PwD_Gender_Neutral": 2348,
+          "OBC_NCL_PwD_Gender_Neutral": 1709
+        }
+      }
+    }
+  ],
+  "sports_infrastructure": [
+    "Cricket field",
+    "Football ground",
+    "Athletics track",
+    "Basketball court",
+    "Volleyball court",
+    "Table Tennis",
+    "Badminton",
+    "Gymnasium",
+    "Swimming"
+  ],
+  "student_clubs": [
+    "Algoholic",
+    "FOSS Club",
+    "IIE Tech Club",
+    "GDSC",
+    "Symphony",
+    "Film & Media Club (FMC)",
+    "Udaan",
+    "Groovz",
+    "Pixel"
+  ],
+  "incubation_center_name": "Institute Innovation Council (IIC)",
+  "notable_startups": null
+}
